@@ -3,8 +3,6 @@ name: Build README
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *"
 
 jobs:
   build:
@@ -21,7 +19,7 @@ jobs:
           pip install requests
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          YAFYX_TOKEN: ${{ secrets.YAFYX_TOKEN }}
         run: |-
           python update_readme.py
           cat README.md

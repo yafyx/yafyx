@@ -7,55 +7,51 @@ import requests
 
 
 def get_recent_commits():
-    token = os.environ.get("GITHUB_TOKEN", "")
+    token = os.environ.get("YAFYX_TOKEN", "")
     headers = {"Authorization": f"token {token}"}
-    url = "https://api.github.com/users/yafyx/events"
-    response = requests.get(url, headers=headers)
 
-    if response.status_code != 200:
-        print(f"Error: API request failed with status code {response.status_code}")
+    repos_url = "https://api.github.com/users/yafyx/repos?per_page=100"
+    repos_response = requests.get(repos_url, headers=headers)
+
+    if repos_response.status_code != 200:
+        print(
+            f"Error: Repos API request failed with status code {repos_response.status_code}"
+        )
         return []
 
-    try:
-        events = response.json()
-    except ValueError:
-        print("Error: Unable to parse JSON response")
-        return []
-
-    if not isinstance(events, list):
-        print(f"Error: Unexpected response format. Expected a list, got {type(events)}")
-        return []
+    repos = repos_response.json()
 
     commits = []
-    for event in events:
-        if not isinstance(event, dict):
-            print(f"Warning: Skipping event, expected dict, got {type(event)}")
+    for repo in repos:
+        repo_name = repo["name"]
+        commits_url = (
+            f"https://api.github.com/repos/yafyx/{repo_name}/commits?per_page=1"
+        )
+        commits_response = requests.get(commits_url, headers=headers)
+
+        if commits_response.status_code != 200:
+            print(
+                f"Error: Commits API request failed for {repo_name} with status code {commits_response.status_code}"
+            )
             continue
 
-        if event.get("type") == "PushEvent":
-            payload = event.get("payload", {})
-            repo = event.get("repo", {})
-            for commit in payload.get("commits", []):
-                repo_name = repo.get("name", "Unknown")
-                commit_message = commit.get("message", "").split("\n")[
-                    0
-                ]  # Get first line of commit message
-                commit_sha = commit.get("sha", "")
-                commit_url = (
-                    f"https://github.com/{repo_name}/commit/{commit_sha}"
-                    if commit_sha
-                    else "#"
-                )
-                commits.append(
-                    {
-                        "repo": repo_name,
-                        "message": commit_message,
-                        "url": commit_url,
-                        "date": event.get("created_at", ""),
-                    }
-                )
-                if len(commits) == 5:  # Limit to 5 recent commits
-                    return commits
+        repo_commits = commits_response.json()
+        if repo_commits:
+            commit = repo_commits[0]
+            commits.append(
+                {
+                    "repo": repo_name,
+                    "message": commit["commit"]["message"].split("\n")[
+                        0
+                    ],  # Get first line of commit message
+                    "url": commit["html_url"],
+                    "date": commit["commit"]["author"]["date"],
+                }
+            )
+
+    # Sort commits by date, most recent first
+    commits.sort(key=lambda x: x["date"], reverse=True)
+
     return commits
 
 
@@ -66,7 +62,7 @@ def update_readme(commits):
 
     commits_md = "\n".join(
         f"* [{commit['repo']}]({commit['url']}): {commit['message']} - {commit['date'].split('T')[0]}"
-        for commit in commits
+        for commit in commits[:10]  # Limit to 10 most recent commits
     )
 
     readme = replace_chunk(readme, "recent_commits", commits_md)
