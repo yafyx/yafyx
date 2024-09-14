@@ -8,7 +8,7 @@ Doing silly programming things. See my recent commits below.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx](https://github.com/yafyx/yafyx/commit/c8389f58a7e5557bdeb0f80e04230dfc2da64ab3): Updated README - 14-09-2024
+[yafyx](https://github.com/yafyx/yafyx/commit/54e40ce1486f662cc5970851cbd61441b7239a12): Updated README - 14-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
@@ -37,7 +37,7 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-- Favorite Person - Delorians
+- Stars - Kurosuke
 - You Let Her Go Again - Reality Club
 - Reciprocal View of the Seashore - TAMAGO
 - While It Lasts - Moongazing And Her
