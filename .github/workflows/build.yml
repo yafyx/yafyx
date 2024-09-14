@@ -22,7 +22,10 @@ jobs:
           pip install requests
       - name: Update README
         env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           YAFYX_TOKEN: ${{ secrets.YAFYX_TOKEN }}
+          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         run: |-
           python update_readme.py
           cat README.md
@@ -32,5 +35,3 @@ jobs:
           git config --global user.name "README-bot"
           git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "Updated README" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}

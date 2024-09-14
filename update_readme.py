@@ -6,6 +6,21 @@ from pathlib import Path
 import requests
 
 
+def format_date(date_string):
+    date = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
+    return date.strftime("%d-%m-%Y")
+
+
+def replace_chunk(content, marker, chunk):
+    r = f"<!-- {marker} starts -->.*<!-- {marker} ends -->"
+    return re.sub(
+        r,
+        f"<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->",
+        content,
+        flags=re.DOTALL,
+    )
+
+
 def get_recent_commits():
     token = os.environ.get("YAFYX_TOKEN", "")
     headers = {"Authorization": f"token {token}"}
@@ -55,7 +70,38 @@ def get_recent_commits():
     return commits
 
 
-def update_readme(commits):
+def get_lastfm_recent_tracks(username, api_key, limit=5):
+    url = f"http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={username}&api_key={api_key}&format=json&limit={limit}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        tracks = data["recenttracks"]["track"]
+        return [f"{track['name']} - {track['artist']['#text']}" for track in tracks]
+    else:
+        print(
+            f"Error: Last.fm API request failed with status code {response.status_code}"
+        )
+        return []
+
+
+def get_lastfm_top_tracks(username, api_key, limit=5, period="1month"):
+    url = f"http://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user={username}&api_key={api_key}&format=json&limit={limit}&period={period}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        tracks = data["toptracks"]["track"]
+        return [
+            f"{track['name']} - {track['artist']['name']} ({track['playcount']} plays)"
+            for track in tracks
+        ]
+    else:
+        print(
+            f"Error: Last.fm API request failed with status code {response.status_code}"
+        )
+        return []
+
+
+def update_readme(commits, recent_tracks, top_tracks):
     root = Path(__file__).resolve().parent
     readme_path = root / "README.md"
     readme = readme_path.open().read()
@@ -65,29 +111,29 @@ def update_readme(commits):
         for commit in commits[:10]  # Limit to 10 most recent commits
     )
 
+    recent_tracks_md = "\n".join(f"- {track}" for track in recent_tracks)
+    top_tracks_md = "\n".join(f"- {track}" for track in top_tracks)
+
     readme = replace_chunk(readme, "recent_commits", commits_md)
+    readme = replace_chunk(readme, "recent_tracks", recent_tracks_md)
+    readme = replace_chunk(readme, "top_tracks", top_tracks_md)
 
     readme_path.open("w").write(readme)
 
 
-def format_date(date_string):
-    date = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
-    return date.strftime("%d-%m-%Y")
-
-
-def replace_chunk(content, marker, chunk):
-    r = f"<!-- {marker} starts -->.*<!-- {marker} ends -->"
-    return re.sub(
-        r,
-        f"<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->",
-        content,
-        flags=re.DOTALL,
-    )
-
-
 if __name__ == "__main__":
     commits = get_recent_commits()
-    if commits:
-        update_readme(commits)
+
+    lastfm_username = os.environ.get("LASTFM_USERNAME", "")
+    lastfm_api_key = os.environ.get("LASTFM_API_KEY", "")
+
+    if not lastfm_username or not lastfm_api_key:
+        print("Error: Last.fm username or API key not set in environment variables.")
     else:
-        print("No commits found or error occurred. README not updated.")
+        recent_tracks = get_lastfm_recent_tracks(lastfm_username, lastfm_api_key)
+        top_tracks = get_lastfm_top_tracks(lastfm_username, lastfm_api_key)
+
+        if commits and recent_tracks and top_tracks:
+            update_readme(commits, recent_tracks, top_tracks)
+        else:
+            print("Error occurred. README not updated.")
