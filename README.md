@@ -8,7 +8,7 @@ Doing silly programming things. See my recent commits below.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx](https://github.com/yafyx/yafyx/commit/413872a17e3e552f50d9ebb242d8e82b2b362f04): Updated README - 14-09-2024
+[yafyx](https://github.com/yafyx/yafyx/commit/c92659d17b376af6b93673b4942888c84db40096): Merge branch 'main' of https://github.com/yafyx/yafyx - 14-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
@@ -37,21 +37,21 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-- You Let Her Go Again - Reality Club
-- Reciprocal View of the Seashore - TAMAGO
-- While It Lasts - Moongazing And Her
-- Harapan, Pt. 2 - The Cottons
-- <3 Song - Delorians
+<table><tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48"></td><td><b>You Let Her Go Again</b><br>Reality Club</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b>Reciprocal View of the Seashore</b><br>TAMAGO</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48"></td><td><b>While It Lasts</b><br>Moongazing And Her</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48"></td><td><b>Harapan, Pt. 2</b><br>The Cottons</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/260441086bb536847453f161c5b8925c.jpg" width="48" height="48"></td><td><b><3 Song</b><br>Delorians</td></tr></table>
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-- You Let Her Go Again - Reality Club (104 plays)
-- <3 Song - Delorians (42 plays)
-- Oh, Bella - Reality Club (15 plays)
-- Bekerja - Jirapah (11 plays)
-- That Girl on The Shore - TAMAGO (11 plays)
+<table><tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b>You Let Her Go Again</b><br>Reality Club</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b><3 Song</b><br>Delorians</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b>Oh, Bella</b><br>Reality Club</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b>Bekerja</b><br>Jirapah</td></tr>
+<tr><td><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48"></td><td><b>That Girl on The Shore</b><br>TAMAGO</td></tr></table>
 <!-- top_tracks ends -->
 
 </td>
