@@ -39,6 +39,9 @@ def get_recent_commits():
     commits = []
     for repo in repos:
         repo_name = repo["name"]
+        if repo_name == "yafyx":
+            continue
+
         commits_url = (
             f"https://api.github.com/repos/yafyx/{repo_name}/commits?per_page=1"
         )
