@@ -8,6 +8,7 @@ Doing silly programming things. See my recent commits below.
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[yafyx](https://github.com/yafyx/yafyx/commit/132d3f8f0a367a1e3d654917018d42780e8cc6c0): Merge branch 'main' of https://github.com/yafyx/yafyx - 14-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
@@ -26,9 +27,6 @@ Doing silly programming things. See my recent commits below.
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/21a3edc21ee883cbe1f0046fc6dd51c6e433ddac): Minor changes for efficient code - 04-05-2024
 
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
-
-[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
-
 <!-- recent_commits ends -->
 
 </td>
@@ -39,11 +37,22 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+- Reciprocal View of the Seashore - TAMAGO
+- While It Lasts - Moongazing And Her
+- Harapan, Pt. 2 - The Cottons
+- <3 Song - Delorians
+- SheSheShe - TAMAGO
+- Menyala, Meredup - Moongazing And Her
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
+- You Let Her Go Again - Reality Club (103 plays)
+- <3 Song - Delorians (42 plays)
+- Oh, Bella - Reality Club (15 plays)
+- Bekerja - Jirapah (11 plays)
+- That Girl on The Shore - TAMAGO (11 plays)
 <!-- top_tracks ends -->
 
 </td>
