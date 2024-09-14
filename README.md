@@ -37,6 +37,8 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2ecd547171fc923b5b32718a8e8780a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everlong**<br>Foo Fighters<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/aa928ba13f1810ba0e6f7b7ff5484070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**See you soon**<br>Wisp<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna**<br>Wisp<br clear="left">
@@ -44,8 +46,6 @@ Doing silly programming things. See my recent commits below.
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reciprocal View of the Seashore**<br>TAMAGO<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
