@@ -8,7 +8,7 @@ Doing silly programming things. See my recent commits below.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx](https://github.com/yafyx/yafyx/commit/60655557e49dc3e0516f978ef06e7a8141125f01): Updated README - 14-09-2024
+[yafyx](https://github.com/yafyx/yafyx/commit/2e7ba9576d1560e3f8867635e765961b82d74fdd): Updated README - 14-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
