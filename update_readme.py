@@ -61,13 +61,18 @@ def update_readme(commits):
     readme = readme_path.open().read()
 
     commits_md = "\n".join(
-        f"* [{commit['repo']}]({commit['url']}): {commit['message']} - {commit['date'].split('T')[0]}"
+        f"[{commit['repo']}]({commit['url']}): {commit['message']} - {format_date(commit['date'])}"
         for commit in commits[:10]  # Limit to 10 most recent commits
     )
 
     readme = replace_chunk(readme, "recent_commits", commits_md)
 
     readme_path.open("w").write(readme)
+
+
+def format_date(date_string):
+    date = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
+    return date.strftime("%d-%m-%Y")
 
 
 def replace_chunk(content, marker, chunk):
