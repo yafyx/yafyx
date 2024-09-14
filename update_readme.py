@@ -123,16 +123,16 @@ def update_readme(commits, recent_tracks, top_tracks):
     )
 
     recent_tracks_md = "\n".join(
-        f'<tr><td><img src="{track["image"]}" width="48" height="48"></td><td><b>{track["name"]}</b><br>{track["artist"]}</td></tr>'
+        f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
+        f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
         for track in recent_tracks
     )
-    recent_tracks_md = f"<table>{recent_tracks_md}</table>"
 
     top_tracks_md = "\n".join(
-        f'<tr><td><img src="{track["image"]}" width="48" height="48"></td><td><b>{track["name"]}</b><br>{track["artist"]}</td></tr>'
-        for track in top_tracks
+        f'{i}. <img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
+        f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
+        for i, track in enumerate(top_tracks, 1)
     )
-    top_tracks_md = f"<table>{top_tracks_md}</table>"
 
     readme = replace_chunk(readme, "recent_commits", commits_md)
     readme = replace_chunk(readme, "recent_tracks", recent_tracks_md)
