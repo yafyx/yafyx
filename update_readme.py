@@ -125,14 +125,14 @@ def update_readme(commits, recent_tracks, top_tracks):
         for commit in commits[:10]  # Limit to 10 most recent commits
     )
 
-    recent_tracks_md = "\n".join(
+    recent_tracks_md = "\n\n".join(
         f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
         f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
         for track in recent_tracks
     )
 
-    top_tracks_md = "\n".join(
-        f'{i}. <img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
+    top_tracks_md = "\n\n".join(
+        f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
         f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
         for i, track in enumerate(top_tracks, 1)
     )
