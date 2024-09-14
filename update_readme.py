@@ -76,7 +76,14 @@ def get_lastfm_recent_tracks(username, api_key, limit=5):
     if response.status_code == 200:
         data = response.json()
         tracks = data["recenttracks"]["track"]
-        return [f"{track['name']} - {track['artist']['#text']}" for track in tracks]
+        return [
+            {
+                "name": track["name"],
+                "artist": track["artist"]["#text"],
+                "image": track["image"][-1]["#text"],
+            }
+            for track in tracks
+        ]
     else:
         print(
             f"Error: Last.fm API request failed with status code {response.status_code}"
@@ -91,7 +98,11 @@ def get_lastfm_top_tracks(username, api_key, limit=5, period="1month"):
         data = response.json()
         tracks = data["toptracks"]["track"]
         return [
-            f"{track['name']} - {track['artist']['name']} ({track['playcount']} plays)"
+            {
+                "name": track["name"],
+                "artist": track["artist"]["name"],
+                "image": track["image"][-1]["#text"],  # Get the largest image
+            }
             for track in tracks
         ]
     else:
@@ -111,8 +122,17 @@ def update_readme(commits, recent_tracks, top_tracks):
         for commit in commits[:10]  # Limit to 10 most recent commits
     )
 
-    recent_tracks_md = "\n".join(f"- {track}" for track in recent_tracks)
-    top_tracks_md = "\n".join(f"- {track}" for track in top_tracks)
+    recent_tracks_md = "\n".join(
+        f'<tr><td><img src="{track["image"]}" width="48" height="48"></td><td><b>{track["name"]}</b><br>{track["artist"]}</td></tr>'
+        for track in recent_tracks
+    )
+    recent_tracks_md = f"<table>{recent_tracks_md}</table>"
+
+    top_tracks_md = "\n".join(
+        f'<tr><td><img src="{track["image"]}" width="48" height="48"></td><td><b>{track["name"]}</b><br>{track["artist"]}</td></tr>'
+        for track in top_tracks
+    )
+    top_tracks_md = f"<table>{top_tracks_md}</table>"
 
     readme = replace_chunk(readme, "recent_commits", commits_md)
     readme = replace_chunk(readme, "recent_tracks", recent_tracks_md)
