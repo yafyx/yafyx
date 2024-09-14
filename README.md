@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://github.com/yafyx/yafyx/blob/main/gif/idc.gif"/>
-  <img src="https://github.com/yafyx/yafyx/blob/main/gif/sadgosling.gif"/>
-</div>
+![](https://github.com/yafyx/yafyx/blob/main/gif/sadgosling.gif)
+
 Doing silly programming things. See my recent commits below.
 
 ### Recent Commits
