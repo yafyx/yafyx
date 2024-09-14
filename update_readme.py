@@ -104,7 +104,7 @@ def get_lastfm_top_tracks(username, api_key, limit=5, period="1month"):
             {
                 "name": track["name"],
                 "artist": track["artist"]["name"],
-                "image": track["image"][-1]["#text"],  # Get the largest image
+                "image": track["image"][-1]["#text"],
             }
             for track in tracks
         ]
@@ -118,7 +118,7 @@ def get_lastfm_top_tracks(username, api_key, limit=5, period="1month"):
 def update_readme(commits, recent_tracks, top_tracks):
     root = Path(__file__).resolve().parent
     readme_path = root / "README.md"
-    readme = readme_path.open().read()
+    old_readme = readme_path.open().read()
 
     commits_md = "\n\n".join(
         f"[{commit['repo']}]({commit['url']}): {commit['message']} - {format_date(commit['date'])}"
@@ -137,11 +137,15 @@ def update_readme(commits, recent_tracks, top_tracks):
         for i, track in enumerate(top_tracks, 1)
     )
 
-    readme = replace_chunk(readme, "recent_commits", commits_md)
-    readme = replace_chunk(readme, "recent_tracks", recent_tracks_md)
-    readme = replace_chunk(readme, "top_tracks", top_tracks_md)
+    new_readme = old_readme
+    new_readme = replace_chunk(new_readme, "recent_commits", commits_md)
+    new_readme = replace_chunk(new_readme, "recent_tracks", recent_tracks_md)
+    new_readme = replace_chunk(new_readme, "top_tracks", top_tracks_md)
 
-    readme_path.open("w").write(readme)
+    if new_readme != old_readme:
+        readme_path.open("w").write(new_readme)
+        return True
+    return False
 
 
 if __name__ == "__main__":
@@ -152,11 +156,17 @@ if __name__ == "__main__":
 
     if not lastfm_username or not lastfm_api_key:
         print("Error: Last.fm username or API key not set in environment variables.")
-    else:
-        recent_tracks = get_lastfm_recent_tracks(lastfm_username, lastfm_api_key)
-        top_tracks = get_lastfm_top_tracks(lastfm_username, lastfm_api_key)
+        exit(1)
 
-        if commits and recent_tracks and top_tracks:
-            update_readme(commits, recent_tracks, top_tracks)
+    recent_tracks = get_lastfm_recent_tracks(lastfm_username, lastfm_api_key)
+    top_tracks = get_lastfm_top_tracks(lastfm_username, lastfm_api_key)
+
+    if commits and recent_tracks and top_tracks:
+        tracks_changed = update_readme(commits, recent_tracks, top_tracks)
+        if tracks_changed:
+            print("TRACKS_CHANGED=true")
         else:
-            print("Error occurred. README not updated.")
+            print("TRACKS_CHANGED=false")
+    else:
+        print("Error occurred. README not updated.")
+        exit(1)
