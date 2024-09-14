@@ -8,7 +8,7 @@ Doing silly programming things. See my recent commits below.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx](https://github.com/yafyx/yafyx/commit/c5472f7b93cb2aadad5bb58e6cb0d8981e81ed43): Updated README - 14-09-2024
+[yafyx](https://github.com/yafyx/yafyx/commit/c21785d787d3b143275fcbcfd10d7a0c14b0b4c4): Updated README - 14-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
@@ -48,7 +48,7 @@ Doing silly programming things. See my recent commits below.
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-- You Let Her Go Again - Reality Club (103 plays)
+- You Let Her Go Again - Reality Club (104 plays)
 - <3 Song - Delorians (42 plays)
 - Oh, Bella - Reality Club (15 plays)
 - Bekerja - Jirapah (11 plays)
