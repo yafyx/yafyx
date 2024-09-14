@@ -60,7 +60,7 @@ def update_readme(commits):
     readme_path = root / "README.md"
     readme = readme_path.open().read()
 
-    commits_md = "\n".join(
+    commits_md = "\n\n".join(
         f"[{commit['repo']}]({commit['url']}): {commit['message']} - {format_date(commit['date'])}"
         for commit in commits[:10]  # Limit to 10 most recent commits
     )
