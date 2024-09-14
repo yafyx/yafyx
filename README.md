@@ -37,17 +37,17 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11c7192fdd0a84924993a88915b3b38e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Theatre**<br>ETTA MARCUS<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f213ae064b80ec91c9821836d4c1d8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coolest Place in the World**<br>Suki Waterhouse<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67bb8bc79506fa36e8dec1a33290659a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In This Darkness**<br>Clara La San<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee565ced4e623312a79a7f9eef7f33d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**End Of The World**<br>searows<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Blue Could Be Happiness**<br>Florist<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecfb487accdceb0d9df2744d375a19b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cool and Refreshing**<br>Florist<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fear of Losing This**<br>Florist<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2ecd547171fc923b5b32718a8e8780a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everlong**<br>Foo Fighters<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
