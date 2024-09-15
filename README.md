@@ -37,8 +37,6 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Craving (Jenna's version)**<br>twenty one pilots<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/00c7b4f22a922f8c824d074c010e63b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**nicotine stains**<br>Second Thoughts<br clear="left">
