@@ -42,10 +42,6 @@ Doing silly programming things. See my recent commits below.
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/00c7b4f22a922f8c824d074c010e63b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**nicotine stains**<br>Second Thoughts<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a22707d13c216364aa39dfbf119e2956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**~**<br>Hailaker<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/70dc4717e75b00ce0c8c86be55de68e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wait Till U Get Home**<br>Philip Brooks<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -56,10 +52,6 @@ Doing silly programming things. See my recent commits below.
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh, Bella**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
