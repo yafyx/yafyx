@@ -37,17 +37,15 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/70dc4717e75b00ce0c8c86be55de68e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wait Till U Get Home**<br>Philip Brooks<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/70dc4717e75b00ce0c8c86be55de68e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**creek**<br>Philip Brooks<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac16f1f70dc2ca2b2b266fb77c289640.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ice Melt**<br>Crumb<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/743aaee62eeae14a99532816ca7ace99.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Savannah**<br>Flipturn<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/008d700d42ce9b1c0cf2797d0acfaed7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eleven Weeks**<br>Vansire<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44734d7f937dbb4de7e74160fdb0c991.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Friday**<br>Tom Odell<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eyes in the Sun**<br>Florist<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
