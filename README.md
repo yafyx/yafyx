@@ -2,11 +2,7 @@
 
 Doing silly programming things.
 
-<p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,typescript,nodejs,react,nextjs,laravel,tailwind,prisma,postgresql,mongodb,mysql" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,golang,typescript,nodejs,react,nextjs,laravel,tailwind,prisma,postgresql,mongodb,mysql" />
 
 <table><tr>
 <td valign="top" width="50%">
