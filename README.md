@@ -14,7 +14,6 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
@@ -34,7 +33,6 @@ Doing silly programming things.
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
 
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
-
 <!-- recent_commits ends -->
 
 </td>
@@ -45,25 +43,21 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/00c7b4f22a922f8c824d074c010e63b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**nicotine stains**<br>Second Thoughts<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
-
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh, Bella**<br>Reality Club<br clear="left">
-
 <!-- top_tracks ends -->
 
 </td>
