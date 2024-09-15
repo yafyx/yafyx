@@ -73,7 +73,7 @@ def get_recent_commits():
     return commits
 
 
-def get_lastfm_recent_tracks(username, api_key, limit=5):
+def get_lastfm_recent_tracks(username, api_key, limit=3):
     url = f"http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={username}&api_key={api_key}&format=json&limit={limit}"
     response = requests.get(url)
     if response.status_code == 200:
@@ -94,7 +94,7 @@ def get_lastfm_recent_tracks(username, api_key, limit=5):
         return []
 
 
-def get_lastfm_top_tracks(username, api_key, limit=5, period="1month"):
+def get_lastfm_top_tracks(username, api_key, limit=3, period="1month"):
     url = f"http://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user={username}&api_key={api_key}&format=json&limit={limit}&period={period}"
     response = requests.get(url)
     if response.status_code == 200:
