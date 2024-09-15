@@ -37,15 +37,17 @@ Doing silly programming things. See my recent commits below.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Craving (Jenna's version)**<br>twenty one pilots<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/00c7b4f22a922f8c824d074c010e63b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**nicotine stains**<br>Second Thoughts<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a22707d13c216364aa39dfbf119e2956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**~**<br>Hailaker<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/70dc4717e75b00ce0c8c86be55de68e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wait Till U Get Home**<br>Philip Brooks<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/743aaee62eeae14a99532816ca7ace99.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Savannah**<br>Flipturn<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/008d700d42ce9b1c0cf2797d0acfaed7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eleven Weeks**<br>Vansire<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eyes in the Sun**<br>Florist<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
