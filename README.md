@@ -10,9 +10,9 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/8c662ec3da15f6e694e668f9386130e92b799b6d): Fix logic - 16-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/7d2ce5a6833802728e5d1bb166daaae6086f54df): Update some variable to match the api update - 16-09-2024
 
-[agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/8c662ec3da15f6e694e668f9386130e92b799b6d): Fix logic - 16-09-2024
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
 
