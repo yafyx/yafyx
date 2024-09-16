@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leap**<br>Bubble Tea and Cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f01ed8ae7184b6fd8338e6ba8759236.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Yeat<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a9197c1af2dea6a5293b486dc8df57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I love everything about you?**<br>n@di<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b4caa24158a136cb5a84ddd32a6ce42.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALREADY RICH**<br>Yeat<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**maraschino**<br>Apriltwentyfifth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33a71be3f16ad393837e42521a33c86e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**GO AGAIN (feat. Superheaven)**<br>BNYX®<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/669e4fdc792fffd53f969820325843ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heavy**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f78e1df9cf95be3c8bccb57c4d302560.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Feels so Good**<br>Alyson<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
