@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f01ed8ae7184b6fd8338e6ba8759236.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Yeat<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26d7c0ce6a40dcad06e512bd02b941d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**may you never forget me**<br>Temachii<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b4caa24158a136cb5a84ddd32a6ce42.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALREADY RICH**<br>Yeat<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dc42e28da5f5f745e38f3127bf0e991.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow Where It Doesn't Disappear**<br>My Dead Girlfriend<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33a71be3f16ad393837e42521a33c86e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**GO AGAIN (feat. Superheaven)**<br>BNYX®<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/322626b5bf0114470d3a4f0cc6fa3cd9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can we fall in love**<br>s.e. lane<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f78e1df9cf95be3c8bccb57c4d302560.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Feels so Good**<br>Alyson<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7c4511ea77f49957f3a5fc6fd384a5d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nodding Off**<br>Narrow Head<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
