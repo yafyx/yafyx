@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee1d4c61776e1764c94c33ca0cfa3a47.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More**<br>The Greeting Committee<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fear of Losing This**<br>Florist<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59fcc8f87a1113cc5702d89d4d988262.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Best Thing**<br>FLOOR CRY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telescope**<br>Cage the Elephant<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
