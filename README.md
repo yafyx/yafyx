@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26d7c0ce6a40dcad06e512bd02b941d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**may you never forget me**<br>Temachii<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f043460a2f975db2d8bf99520d8ccad3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tangled Dreams**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dc42e28da5f5f745e38f3127bf0e991.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow Where It Doesn't Disappear**<br>My Dead Girlfriend<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enchanting**<br>Novulent<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/322626b5bf0114470d3a4f0cc6fa3cd9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can we fall in love**<br>s.e. lane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fea086e4992bf799f708ffd9803310ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**skipping tiles**<br>Julie<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7c4511ea77f49957f3a5fc6fd384a5d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nodding Off**<br>Narrow Head<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/858fb7e04750f8942269b1f8a6a8da97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**flower**<br>blue smiley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
