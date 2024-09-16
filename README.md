@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/940b56e399d9176807339ba711368fdb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lost**<br>Scarlet House<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee1d4c61776e1764c94c33ca0cfa3a47.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More**<br>The Greeting Committee<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled Demo 1997**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59fcc8f87a1113cc5702d89d4d988262.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Best Thing**<br>FLOOR CRY<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reprise**<br>Salvia Palth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Wanted**<br>Paramore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
