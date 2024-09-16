@@ -10,9 +10,9 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/3eb99cf7f8db528296f962bef7657028bbe10dd9): Minor changes - 16-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1d21ddd22ec58f5659360143a78a4e9329442c9): Fix data loading and prediction - 16-09-2024
 
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/4d7dcb6db8e642bde50e191d781e3f76acf58bb2): Fix negative sign in nutrient sufficiency comparison - 16-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/3eb99cf7f8db528296f962bef7657028bbe10dd9): Minor changes - 16-09-2024
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
 
