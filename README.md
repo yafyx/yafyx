@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/b3d85fb007c1af69bc623153af60ae20a84c367c): Make recommendations are based on the actual data - 16-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/4248e3f4662125c2b9f9259cbfd515ab390ddf6b):  - 16-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/fda14c3a79148b8ccced3255f31be0bdea30b038): Border slightly darker - 13-09-2024
 
