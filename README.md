@@ -39,13 +39,11 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe036030b13d409c8d7388710b69067e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/834a9f8ae9dafe1c1f5ea56445564818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slouch**<br>Water-Mall<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/748254fd1794da43e387608ec1c8ecad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**forest green**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2efc2affc2b4d886454276cd3559c4e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'd stay forever**<br>Whither<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mimi**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65a25491df3af33bdebc087b38040be1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dismal**<br>Midrift<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
