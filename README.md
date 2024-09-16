@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd35e7cfe50b170eae8ef6671cd7c4f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**wonder if you care**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/940b56e399d9176807339ba711368fdb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lost**<br>Scarlet House<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled Demo 1997**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reprise**<br>Salvia Palth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**(Dream)**<br>Salvia Palth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Wanted**<br>Paramore<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
