@@ -10,9 +10,9 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/2cf234e2ccdf7ea91b06b4c659428f41b682be26): Refactor layout component and update nutrient prediction - 16-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/cf7a1aef2376cfbe9585fcc62247c6f86ef13927): Add Procfile for deploying the API with gunicorn - 16-09-2024
 
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/e9e8255411bdf8cb8728a3f4ca64c74d9474b576): Refactor nutrient sufficiency prediction and analysis - 16-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/2cf234e2ccdf7ea91b06b4c659428f41b682be26): Refactor layout component and update nutrient prediction - 16-09-2024
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
 
