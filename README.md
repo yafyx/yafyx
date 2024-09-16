@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fear of Losing This**<br>Florist<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leap**<br>Bubble Tea and Cigarettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a9197c1af2dea6a5293b486dc8df57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I love everything about you?**<br>n@di<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telescope**<br>Cage the Elephant<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**maraschino**<br>Apriltwentyfifth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/669e4fdc792fffd53f969820325843ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heavy**<br>The Marías<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
