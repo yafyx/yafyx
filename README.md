@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/9358e91c9cfe8e7fd7f8e1d779209509cb9437b0): Removing disabled input on rainfall - 16-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/3eb99cf7f8db528296f962bef7657028bbe10dd9): Minor changes - 16-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/4d7dcb6db8e642bde50e191d781e3f76acf58bb2): Fix negative sign in nutrient sufficiency comparison - 16-09-2024
 
