@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/b4b6b25660c57bd06de97dae1afaa504b3d2b991): Refactor layout component and update nutrient prediction - 16-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/2cf234e2ccdf7ea91b06b4c659428f41b682be26): Refactor layout component and update nutrient prediction - 16-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/e9e8255411bdf8cb8728a3f4ca64c74d9474b576): Refactor nutrient sufficiency prediction and analysis - 16-09-2024
 
