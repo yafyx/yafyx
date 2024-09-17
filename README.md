@@ -10,6 +10,8 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
+
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1d21ddd22ec58f5659360143a78a4e9329442c9): Fix data loading and prediction - 16-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/3eb99cf7f8db528296f962bef7657028bbe10dd9): Minor changes - 16-09-2024
@@ -23,8 +25,6 @@ Doing silly programming things.
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
-
-[click-dialogue](https://github.com/yafyx/click-dialogue/commit/21a3edc21ee883cbe1f0046fc6dd51c6e433ddac): Minor changes for efficient code - 04-05-2024
 
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
 
