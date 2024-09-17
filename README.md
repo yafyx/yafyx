@@ -39,11 +39,11 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cfa7366dbdbf7ddbed3c1bad8650624.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Avalon**<br>Zeruel<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/834a9f8ae9dafe1c1f5ea56445564818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slouch**<br>Water-Mall<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65a25491df3af33bdebc087b38040be1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dismal**<br>Midrift<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
