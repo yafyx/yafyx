@@ -10,9 +10,9 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/76456fa351c190a82e92e8b7e32d70eef97d3ba0): method only post allowed - 17-09-2024
 
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1d21ddd22ec58f5659360143a78a4e9329442c9): Fix data loading and prediction - 16-09-2024
+[click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/3eb99cf7f8db528296f962bef7657028bbe10dd9): Minor changes - 16-09-2024
 
