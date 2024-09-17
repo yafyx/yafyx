@@ -10,9 +10,9 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/6883b16914885d611626a88e4fd1235a439649f6): fix: layout responsive - 17-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1f05711f538fc3c50adb322260b77e9673f0f8f): Revert changes on previous commit - 17-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/6883b16914885d611626a88e4fd1235a439649f6): fix: layout responsive - 17-09-2024
 
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
