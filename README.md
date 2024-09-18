@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/c50d1f462bcebd08964bb078383ac6727ecb89ab): Better and consistent layout - 17-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/4f83c5e7ecb6ba96cfa59d194fc8e247d3dbbf50): Merge branch 'prod' of https://github.com/yafyx/AgriPlan into prod - 18-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
