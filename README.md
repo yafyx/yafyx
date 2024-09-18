@@ -10,8 +10,6 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx.github.io](https://github.com/yafyx/yafyx.github.io/commit/3e9bd2e89b082a59b2fc38f24ed331961a49f220): Added CNAME file for custom domain (yfyx.me) - 18-09-2024
-
 [agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
@@ -29,6 +27,8 @@ Doing silly programming things.
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
+
+[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
 </td>
