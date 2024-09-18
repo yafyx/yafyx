@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/31e655adb5f9397509891fa55970727db33129c2): change api endpoint to railway - 18-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
