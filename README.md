@@ -10,7 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[yafyx.github.io](https://github.com/yafyx/yafyx.github.io/commit/d3eba6e25f26eddfd022f120887fcf95f1d95d1f): Added CNAME file for custom domain (yfyx.me) - 18-09-2024
+[yafyx.github.io](https://github.com/yafyx/yafyx.github.io/commit/3e9bd2e89b082a59b2fc38f24ed331961a49f220): Added CNAME file for custom domain (yfyx.me) - 18-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
 
