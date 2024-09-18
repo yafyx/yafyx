@@ -39,13 +39,13 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5aebcf2e48244012c041a32c1c1ca9eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gomenne, Summer (Maafkan, Summer)**<br>JKT48<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
