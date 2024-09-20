@@ -11,9 +11,9 @@ Doing silly programming things
 
 <!-- recent_commits starts -->
 
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1f05711f538fc3c50adb322260b77e9673f0f8f): Revert changes on previous commit - 17-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
 
-[agroplan](https://github.com/yafyx/agroplan/commit/bc2c15ea354f401902a4152ea1533849b28c0aa6): refactor component to moleculs structure and added adjustment predict component - 17-09-2024
+[agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
@@ -42,11 +42,11 @@ Doing silly programming things
 
 <!-- recent_tracks starts -->
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cfa7366dbdbf7ddbed3c1bad8650624.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Avalon**<br>Zeruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2df76df7ead648eb8d4f242429a685a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Emma**<br>Bon Iver<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/834a9f8ae9dafe1c1f5ea56445564818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slouch**<br>Water-Mall<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honey**<br>VACATIONS<br clear="left">
 
 <!-- recent_tracks ends -->
 
