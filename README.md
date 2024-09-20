@@ -10,7 +10,6 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-
 [agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
@@ -30,7 +29,6 @@ Doing silly programming things
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
 
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
-
 <!-- recent_commits ends -->
 
 </td>
@@ -41,25 +39,21 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2df76df7ead648eb8d4f242429a685a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Emma**<br>Bon Iver<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honey**<br>VACATIONS<br clear="left">
-
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh, Bella**<br>Reality Club<br clear="left">
-
 <!-- top_tracks ends -->
 
 </td>
