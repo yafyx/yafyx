@@ -1,8 +1,8 @@
 ![](https://github.com/yafyx/yafyx/blob/main/gif/sadgosling.gif)
 
-Doing silly programming things.
+Doing silly programming things
 
-<img src="https://skillicons.dev/icons?i=python,golang,typescript,nodejs,react,nextjs,laravel,tailwind,prisma,postgresql,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=golang,php,python,typescript,nodejs,laravel,nextjs,react,tailwind,prisma,supabase,figma,mongodb,mysql,postgresql" />
 
 <table><tr>
 <td valign="top" width="50%">
@@ -10,6 +10,7 @@ Doing silly programming things.
 ### Recent Commits
 
 <!-- recent_commits starts -->
+
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/e1f05711f538fc3c50adb322260b77e9673f0f8f): Revert changes on previous commit - 17-09-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/bc2c15ea354f401902a4152ea1533849b28c0aa6): refactor component to moleculs structure and added adjustment predict component - 17-09-2024
@@ -29,6 +30,7 @@ Doing silly programming things.
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
 
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
+
 <!-- recent_commits ends -->
 
 </td>
@@ -39,21 +41,25 @@ Doing silly programming things.
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cfa7366dbdbf7ddbed3c1bad8650624.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Avalon**<br>Zeruel<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/834a9f8ae9dafe1c1f5ea56445564818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slouch**<br>Water-Mall<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
+
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh, Bella**<br>Reality Club<br clear="left">
+
 <!-- top_tracks ends -->
 
 </td>
