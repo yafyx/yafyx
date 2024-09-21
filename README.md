@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86896f3b941b32b7a4a1d6d91dbe45cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**feelings i forgot**<br>mj apanay<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83c040adf581bc877097bb072d431129.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Thrill of Loneliness**<br>Hana Stretton<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2df76df7ead648eb8d4f242429a685a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Emma**<br>Bon Iver<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
