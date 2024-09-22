@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/423cb46225829fb49f97b9f6c90e882f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Felt So Alone**<br>Labrinth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86896f3b941b32b7a4a1d6d91dbe45cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**feelings i forgot**<br>mj apanay<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83c040adf581bc877097bb072d431129.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Thrill of Loneliness**<br>Hana Stretton<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
