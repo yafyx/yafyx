@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Krystal**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2652de4809e5b4349565518b34b85ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**listen before i go**<br>Billie Eilish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/423cb46225829fb49f97b9f6c90e882f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Felt So Alone**<br>Labrinth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de93124034d2967dbfa722e1d7b5fedd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Even If It's a Lie - Demo**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffffc3ae9a6a191670148e8b39691e92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Likes Another Boy**<br>Oscar Lang<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
