@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d204f358ae4063561370b9dc7c0cb8ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Godspeed**<br>Frank Ocean<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b481ca25dbb876ee54be21e48cbb7b05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**.**<br>girl in red<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
