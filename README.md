@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2652de4809e5b4349565518b34b85ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**listen before i go**<br>Billie Eilish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b5bd499be20581718de6c6632e67ced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ゆめうつつ**<br>Lamp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de93124034d2967dbfa722e1d7b5fedd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Even If It's a Lie - Demo**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d204f358ae4063561370b9dc7c0cb8ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Godspeed**<br>Frank Ocean<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffffc3ae9a6a191670148e8b39691e92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Likes Another Boy**<br>Oscar Lang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b481ca25dbb876ee54be21e48cbb7b05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**.**<br>girl in red<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
