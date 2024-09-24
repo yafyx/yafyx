@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Change**<br>Alex G<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under Control**<br>The Strokes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/424063f0c1f36124103a437797e0c242.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**House Song**<br>searows<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/697625c493c69828c0aa9b411bbe73c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cheapest Flight**<br>PREP<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
