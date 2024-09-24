@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/424063f0c1f36124103a437797e0c242.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**House Song**<br>searows<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/697625c493c69828c0aa9b411bbe73c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cheapest Flight**<br>PREP<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b7d699929961ff0ae19159d313b9194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Know How It Is**<br>Kero Kero Bonito<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b5bd499be20581718de6c6632e67ced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ゆめうつつ**<br>Lamp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d204f358ae4063561370b9dc7c0cb8ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Godspeed**<br>Frank Ocean<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
