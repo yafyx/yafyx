@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f593504cad58010ecad1a70947ac507.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swivel**<br>Garside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While It Lasts**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/46e3ed66330f171a146c87900b7a3c7d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout - Remastered**<br>Girl and Her Bad Mood<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/024f3336dfb8e7eff38637c423fa7288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heals**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
