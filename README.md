@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee565ced4e623312a79a7f9eef7f33d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**End Of The World**<br>Searows<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fear of Losing This**<br>Florist<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/744e3b846929f8c8affc9d194b5ad8ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Words**<br>Andrea Chahayed<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Blue Could Be Happiness**<br>Florist<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2d5be75c1cf5ffbe848d7355e93ecdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Claire**<br>Déyyess<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe77e3a334381de71b51073ff1b3ecf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Getaway (feat. Phum Viphurit)**<br>PREP<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecfb487accdceb0d9df2744d375a19b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cool and Refreshing**<br>Florist<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
