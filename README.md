@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd862a15644def8ac5e506b797449302.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**red lights**<br>runo plum<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Looking**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11c7192fdd0a84924993a88915b3b38e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Theatre**<br>ETTA MARCUS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paladin Strait**<br>twenty one pilots<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67bb8bc79506fa36e8dec1a33290659a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In This Darkness**<br>Clara La San<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
