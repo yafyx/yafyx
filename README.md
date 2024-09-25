@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59fcc8f87a1113cc5702d89d4d988262.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Best Thing**<br>FLOOR CRY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd862a15644def8ac5e506b797449302.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**red lights**<br>runo plum<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f213ae064b80ec91c9821836d4c1d8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coolest Place in the World**<br>Suki Waterhouse<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11c7192fdd0a84924993a88915b3b38e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Theatre**<br>ETTA MARCUS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fear of Losing This**<br>Florist<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paladin Strait**<br>twenty one pilots<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
