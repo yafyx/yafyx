@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While It Lasts**<br>Moongazing And Her<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/024f3336dfb8e7eff38637c423fa7288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heals**<br>Girl and Her Bad Mood<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
