@@ -10,7 +10,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[agroplan](https://github.com/yafyx/agroplan/commit/20ffebcb10fa96f9ecc9ce6ae19e840a8a1a6811): change api channels thingspeak - 18-09-2024
+[agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Break**<br>alex_g_offline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Change**<br>Alex G<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While It Lasts**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under Control**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/024f3336dfb8e7eff38637c423fa7288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heals**<br>Girl and Her Bad Mood<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
