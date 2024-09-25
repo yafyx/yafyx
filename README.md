@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dffc490933723c50b37c2242a3a196a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You’d Be Stars (feat. chloe moriondo)**<br>Sydney Rose<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee565ced4e623312a79a7f9eef7f33d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**End Of The World**<br>Searows<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Power Play**<br>Lint<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/744e3b846929f8c8affc9d194b5ad8ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Words**<br>Andrea Chahayed<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed92653f16161f87d6efd47c0db7ef9e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**an unwanted departure - demo**<br>Adolescent Dreams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2d5be75c1cf5ffbe848d7355e93ecdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Claire**<br>Déyyess<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e49a10e9371474d57615038c1a3c5a06.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**what would it take?**<br>Elaine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe77e3a334381de71b51073ff1b3ecf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Getaway (feat. Phum Viphurit)**<br>PREP<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
