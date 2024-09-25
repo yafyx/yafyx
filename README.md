@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8f4b36ecc71d9d16fed6c8362e2e41a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Blue Could Be Happiness**<br>Florist<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecfb487accdceb0d9df2744d375a19b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cool and Refreshing**<br>Florist<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
