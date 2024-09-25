@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Fishes**<br>Benja<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0045c08aefa3312c0c8173653a8e16d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Her**<br>Tuesday Beach Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Or Honolulu**<br>Burmese Bombshells<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While It Lasts**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b03e4e4cbad85e6a7e969761a538b5a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hanagae**<br>Hoa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/024f3336dfb8e7eff38637c423fa7288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heals**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b2776eb31135ce14cc5f6ba9f983cc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TT (terrible things)**<br>Bird.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
