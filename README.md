@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You There?**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**He's Got Me Singing Again**<br>Vira Talisa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f1f21d7a72a10ec769b8e8d80281b1a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Misery**<br>tsai<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretty Stranger**<br>Peej<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26295fe53cd40c54b74f90b9aa8d8765.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**catching feelings 4 u**<br>Jason LaPierre<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh love**<br>Four Leaf Clover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**To You I Love the Most**<br>Yasbille<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
