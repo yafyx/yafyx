@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f8c3dcfb0a9528cbce814250193ff903.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Needy**<br>Delorians<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/931f7aaa7ce0773394329f87c0bc5af6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Cherry Sunrise**<br>RAYHAN NOOR<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/332554b2f9a3787a18a1557b1fbf71c0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ocean Waves**<br>Noni<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be4e11b12451ac3e3ad4db379aa721dc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mermaid Song**<br>INIS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**These Walls**<br>Peej<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
