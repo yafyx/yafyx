@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Little Weary Love**<br>Valentine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f8c3dcfb0a9528cbce814250193ff903.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Needy**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/779f35ff35c5ee74f7034d896f305b0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Staring - alt**<br>Velvet<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/931f7aaa7ce0773394329f87c0bc5af6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Cherry Sunrise**<br>RAYHAN NOOR<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9cc25c1fe43abebf86ec892ee3ab8ab.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Love You So**<br>Delorians<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
