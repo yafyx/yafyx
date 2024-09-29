@@ -39,8 +39,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15bb2e6f96f7e852f5cf61375e724f7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**WASTE**<br>BROCKHAMPTON<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/827fbd1bac1d3ed232ec6c95a2526139.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over - 2011 Remaster**<br>The Smiths<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/332554b2f9a3787a18a1557b1fbf71c0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**things i could never say to you**<br>Noni<br clear="left">
