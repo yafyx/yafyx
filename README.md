@@ -39,6 +39,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/15bb2e6f96f7e852f5cf61375e724f7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**WASTE**<br>BROCKHAMPTON<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**hey, i'm tired**<br>Arash Buana<br clear="left">
