@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/80734b990eeba7177361101a4bb794f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bukan Begitu Caramu**<br>Good Morning Everyone<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the more i try to trace you forthwith, the less i want to know where to find you**<br>eleventwelfth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
