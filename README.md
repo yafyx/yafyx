@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8eca0f3cb6c4b945b8ff8d7455441197.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ribuan Memori**<br>Lomba Sihir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bf0c1c60724ffe2e31d4941863690a82.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jelajahi Rasa**<br>Harra.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rare Symmetry**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
