@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ac162d0411650d457b2198755d03ab1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Iodine**<br>Pinegrove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8eca0f3cb6c4b945b8ff8d7455441197.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ribuan Memori**<br>Lomba Sihir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d3a72ad16c941983af96a805eefeee3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**January 10th, 2014**<br>The World Is a Beautiful Place & I Am No Longer Afraid to Die<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bf0c1c60724ffe2e31d4941863690a82.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jelajahi Rasa**<br>Harra.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rare Symmetry**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
