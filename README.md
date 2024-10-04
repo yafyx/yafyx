@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65e1edb4388ae321c7211d08a8bd9c11.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Down for You**<br>Cosmo's Midnight<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c9150f361cc51039f52a3c464b38bdb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'd Rather Pretend (with d4vd)**<br>Bryant Barnes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f7ea96c88cb415ff24b834a747e155a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face To Face**<br>Ruel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f7ea96c88cb415ff24b834a747e155a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face To Face**<br>Ruel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
