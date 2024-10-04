@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gwen Everest**<br>Panchiko<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e8994adf2b1073ff19cc545823e725c8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Wake Up the Trees (There'll Be a Shortage of Oranges)**<br>Strelitzia<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6738eb444fee70d76f426b12216cf4b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stab**<br>Title Fight<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11ee6a914c14a77a39e2508b42c006a9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Instincts Are the Enemy**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ceb6e421a0247bee08992981cf17faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Death Cup**<br>Mom Jeans.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f7fae21fbc1227b264f84a3ff02a21a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucifer Loves Me**<br>Summer 2000<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
