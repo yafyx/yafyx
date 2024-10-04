@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Sure**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rare Symmetry**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bffa9d08c28ed495ef14979b1bc68c87.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**yeah yeah utah**<br>Marietta<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6738eb444fee70d76f426b12216cf4b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Safe In Your Skin**<br>Title Fight<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
