@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c9150f361cc51039f52a3c464b38bdb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'd Rather Pretend (with d4vd)**<br>Bryant Barnes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33a71be3f16ad393837e42521a33c86e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**GO AGAIN (feat. Superheaven)**<br>BNYX®<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f7ea96c88cb415ff24b834a747e155a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face To Face**<br>Ruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b1f18af3ed7937ba2dcb8f914037a42b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for you**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f7ea96c88cb415ff24b834a747e155a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face To Face**<br>Ruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f7ea96c88cb415ff24b834a747e155a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face To Face**<br>Ruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl**<br>Salvia Palth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
