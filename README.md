@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33a71be3f16ad393837e42521a33c86e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**GO AGAIN (feat. Superheaven)**<br>BNYX®<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f043460a2f975db2d8bf99520d8ccad3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tangled Dreams**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b1f18af3ed7937ba2dcb8f914037a42b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for you**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/125700a0ef6faac975b7611bc8bcb6b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Being Rëal**<br>Yeat<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl**<br>Salvia Palth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pandora**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
