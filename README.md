@@ -24,11 +24,11 @@ Doing silly programming things
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 
+[statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
+
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
 
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
-
-[custom-oh-my-posh-theme](https://github.com/yafyx/custom-oh-my-posh-theme/commit/70f613102821766ad2a5f408404d9c111197f21b): Create yfyx.json - 10-10-2023
 <!-- recent_commits ends -->
 
 </td>
