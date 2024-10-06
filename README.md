@@ -39,7 +39,7 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9e32495f7c5792bde962ef926388965.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secret Admirer**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
