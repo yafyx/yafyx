@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ini Abadi**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/10714f35ab05a396cdf8c1c4e6d1828b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Weather**<br>VoXXes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**over the moon**<br>Arash Buana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
