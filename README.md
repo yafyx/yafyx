@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello You (OST Teman Tapi Menikah)**<br>Iqbaal Ramadhan<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/505b03756b9faa8dcb570d46fa0774e8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flying Solo**<br>Pamungkas<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Inilah Aku**<br>Good Morning Everyone<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae403ab51109c8ba07182f0ec8454ecf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
