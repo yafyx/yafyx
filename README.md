@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eb95fe205d644df99434a94f410ffc6c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rewind featuring Bladee**<br>Charli XCX<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c242691232906578b0a87b965b11d459.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**mona lisa**<br>PRYVT<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/153de39810847e8e0b1d53af4a8ea272.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**if it's not you**<br>PRYVT<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f071498d02e4dd634b3a19ef0383f53.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Perceive**<br>Doma Cyno<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/553bd4734e0e2efb2c6e60aff4a64a41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sampaikan**<br>Coldiac<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/505b03756b9faa8dcb570d46fa0774e8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flying Solo**<br>Pamungkas<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
