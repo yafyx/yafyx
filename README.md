@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**SABILULUNGAN DRILL**<br>Lil Mamat<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold On Till May**<br>Pierce the Veil<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c08212d95960fa8c6a3fbf1a8bfd4710.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heartbreaker**<br>Coldiac<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**King for a Day**<br>Pierce the Veil<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Will You**<br>Elaine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
