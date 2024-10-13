@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82698b70482fa952b5c83acea2595285.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face Down**<br>The Red Jumpsuit Apparatus<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c9d31655bef9bdc50a7aecf749cb9683.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2c1861c992445fa15e43b4af6db55e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Downfall of Us All**<br>A Day to Remember<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fee069a98672ac3719f6c766ff6f0f9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Faint**<br>Linkin Park<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80734b990eeba7177361101a4bb794f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bukan Begitu Caramu**<br>Good Morning Everyone<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
