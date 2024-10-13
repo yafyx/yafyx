@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello You (OST Teman Tapi Menikah)**<br>Iqbaal Ramadhan<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/153de39810847e8e0b1d53af4a8ea272.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**if it's not you**<br>PRYVT<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f071498d02e4dd634b3a19ef0383f53.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Perceive**<br>Doma Cyno<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/553bd4734e0e2efb2c6e60aff4a64a41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sampaikan**<br>Coldiac<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/505b03756b9faa8dcb570d46fa0774e8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flying Solo**<br>Pamungkas<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Inilah Aku**<br>Good Morning Everyone<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
