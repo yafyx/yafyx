@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold On Till May**<br>Pierce the Veil<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82698b70482fa952b5c83acea2595285.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Face Down**<br>The Red Jumpsuit Apparatus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**King for a Day**<br>Pierce the Veil<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c9d31655bef9bdc50a7aecf749cb9683.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2c1861c992445fa15e43b4af6db55e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Downfall of Us All**<br>A Day to Remember<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fee069a98672ac3719f6c766ff6f0f9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Faint**<br>Linkin Park<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
