@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff3da4ce70b56e9012b3ea8436a8fe5f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can I Tell You?**<br>Fiji Blue<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mystery**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Exit**<br>VACATIONS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
