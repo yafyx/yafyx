@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1593ea01a60056cdf324b53f9938df5e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unrequited**<br>Solomon<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow Love**<br>Heaven Affair<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Life You Wanted**<br>Tanjung<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
