@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee27fb5206754158a11dcbe3c41d21fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hanya kau**<br>The Adams<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/913dc14203878a841454ca6d3dd1c12f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Kubur Sampai Mati**<br>Bernadya<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ce1a44111bd0b7e324ad94fea49e2b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kenangan Manis**<br>Pamungkas<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9b640ec54bf9a383077906c3053cebd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berita Kehilangan**<br>.Feast<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canggih**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Ke Sana**<br>Hindia<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
