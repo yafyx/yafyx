@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b9b0a370af36718a7046dce88c162ee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Speak**<br>goodwerks<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (quiet)**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a6f8263833f77e57312f8789b71abc72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**lover boy**<br>Sophie May<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
