@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the older you get, the less you cry**<br>Lany<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cbb416c34c42bdd799b206ac6444d7c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**BETTER THINGS**<br>BROCKHAMPTON<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c6bb86b82404adeca896cb5cd097b33.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Surrender**<br>A Day to Remember<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
