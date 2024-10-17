@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f426e285ae696f3d0486e08c03964afd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ease**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/337772ba00b0754eb940acbdaa550aaf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**(They Long to Be) Close to You**<br>Carpenters<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c4efa4ae2fc37871b57cad0036116d97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out of Tune**<br>The Backseat Lovers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
