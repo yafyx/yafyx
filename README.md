@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee27fb5206754158a11dcbe3c41d21fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hanya kau**<br>The Adams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/913dc14203878a841454ca6d3dd1c12f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Kubur Sampai Mati**<br>Bernadya<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c6bb86b82404adeca896cb5cd097b33.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Surrender**<br>A Day to Remember<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ce1a44111bd0b7e324ad94fea49e2b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kenangan Manis**<br>Pamungkas<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f213ae064b80ec91c9821836d4c1d8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coolest Place in the World**<br>Suki Waterhouse<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
