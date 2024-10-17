@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c6bb86b82404adeca896cb5cd097b33.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Surrender**<br>A Day to Remember<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f213ae064b80ec91c9821836d4c1d8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coolest Place in the World**<br>Suki Waterhouse<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
