@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Sorrowful Reunion**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070a92913ce57cdb9a100da27478b42.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moments**<br>Micah Edwards<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd35185eb2f322e02549fed38efa537a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Flew Away**<br>Laufey<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cbf7922d8e7d32025921e89a4e559339.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**everything changes - sketch**<br>Ethan French<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
