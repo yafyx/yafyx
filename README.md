@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b148dbdd2bfcb6246807e7c6ccf2278.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SheSheShe**<br>TAMAGO<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 3**<br>The Cottons<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
