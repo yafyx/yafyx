@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f8c3dcfb0a9528cbce814250193ff903.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Needy**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070a92913ce57cdb9a100da27478b42.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moments**<br>Micah Edwards<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/531bdb172f66ee3500e344936f1f22bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scott Street**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cbf7922d8e7d32025921e89a4e559339.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**everything changes - sketch**<br>Ethan French<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
