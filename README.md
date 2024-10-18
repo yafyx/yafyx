@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the First Time**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a472fe9191bf62ae51c35105852e15c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**how can i pretend? - Demo**<br>Wasia Project<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/913dc14203878a841454ca6d3dd1c12f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untungnya, Hidup Harus Tetap Berjalan**<br>Bernadya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99c3d900d3adb47d0dd17d8a1ac246cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**sweet decay 부패**<br>Chasu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/716e5940dae2bc4e282077aa7d5adf0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Niscaya**<br>Bilal Indrajaya<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d357310bc7a00ad1bf0e2c53d020c24e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nina**<br>.Feast<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,9 +53,9 @@ Doing silly programming things
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
