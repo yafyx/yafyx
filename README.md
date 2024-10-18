@@ -39,6 +39,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**every question i withhold, every answer you never told**<br>eleventwelfth<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
