@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e21bb3412c93160e2b918b5f973ed5e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Phony**<br>By the End of Summer<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ed37f564dd56fd7be46501df65ea7c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**In Circles - Remastered**<br>Sunny Day Real Estate<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diazepam**<br>Turnover<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take My Head**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
