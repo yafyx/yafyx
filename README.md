@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/913dc14203878a841454ca6d3dd1c12f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lama-Lama**<br>Bernadya<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f7eb1ab8c848521572cffc05255e80d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sinyal-Sinyal**<br>Bernadya<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8eca0f3cb6c4b945b8ff8d7455441197.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ribuan Memori**<br>Lomba Sihir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89421a4d4898fa3d1396fa849d4e6140.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rumah Ke Rumah**<br>Hindia<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
