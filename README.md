@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecdf672380734790c7a26d305ec1644d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unfinished**<br>Mineral<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2f838886c444defcd4200fd2c490d7b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parking Lot**<br>Mineral<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c4efa4ae2fc37871b57cad0036116d97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out of Tune**<br>The Backseat Lovers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/37a1684eb4a7f8dee1e24dfe8b79e8dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vertigo Flowers**<br>Nothing<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Summer Ends**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
