@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0005f5016a6bcc0013c69f918c61f5bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You When You're Gone**<br>Anxious<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86b8f58d45dd4d06bc986e8982078339.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Take You Everywhere**<br>Penfold<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecdf672380734790c7a26d305ec1644d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unfinished**<br>Mineral<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2f838886c444defcd4200fd2c490d7b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parking Lot**<br>Mineral<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/37a1684eb4a7f8dee1e24dfe8b79e8dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vertigo Flowers**<br>Nothing<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Summer Ends**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
