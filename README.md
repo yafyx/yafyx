@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/913dc14203878a841454ca6d3dd1c12f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lama-Lama**<br>Bernadya<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecde36d21748d132b1fba28b9c2d9c30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here We Go Again / Fanboi**<br>Ardhito Pramono<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
