@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80734b990eeba7177361101a4bb794f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bukan Begitu Caramu**<br>Good Morning Everyone<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae403ab51109c8ba07182f0ec8454ecf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
