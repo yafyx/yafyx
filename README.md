@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ba24340be42673d5301c97cc5259a5e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bed Chem**<br>Sabrina Carpenter<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/24112fe244555ae39c243102384bebaa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please Please Please**<br>Sabrina Carpenter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
