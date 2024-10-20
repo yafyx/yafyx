@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ba24340be42673d5301c97cc5259a5e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bed Chem**<br>Sabrina Carpenter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecd0fbedb8ea2a25857f2d70d645d133.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Would You Be My November?**<br>Mr. Sonjaya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/24112fe244555ae39c243102384bebaa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please Please Please**<br>Sabrina Carpenter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c08212d95960fa8c6a3fbf1a8bfd4710.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Was You**<br>Coldiac<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ini Abadi**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
