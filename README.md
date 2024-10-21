@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/346e103cd68cdd07c2911cd073dff8b6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Wanna Be Okay Without You**<br>Charlie Burg<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a0c458e8214ed833c8b553959d36a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Marie**<br>The Walters<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5731e2bb603528f8268b09f6e30781a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i saw you in a dream**<br>The Japanese House<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4fa8d015b3d388a393571af600f116d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unrequited Love (& other clichés)**<br>Breakup Shoes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
