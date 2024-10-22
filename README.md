@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecd0fbedb8ea2a25857f2d70d645d133.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Would You Be My November?**<br>Mr. Sonjaya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c96ddf758bcaf869b0ac8ff5679bcecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Mind**<br>Coldiac<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ini Abadi**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae403ab51109c8ba07182f0ec8454ecf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
