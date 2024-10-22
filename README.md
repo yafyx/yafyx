@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b769f123614abb0b6c50fd56b1f1036d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Homemade Holiday**<br>Babygirl<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7767c3aaf76e3f3a7d2507b5dbb31db3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**what does he have that i don't?**<br>Zeph<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies**<br>Yellow Flower Living Water<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c79f42864b040f5ebb191d70da4c6b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letters, Lights, Travels On The Streets**<br>Penthouse<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
