@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies**<br>Yellow Flower Living Water<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/346e103cd68cdd07c2911cd073dff8b6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Wanna Be Okay Without You**<br>Charlie Burg<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a0c458e8214ed833c8b553959d36a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Marie**<br>The Walters<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
