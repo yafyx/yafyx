@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b769f123614abb0b6c50fd56b1f1036d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Homemade Holiday**<br>Babygirl<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dc42e28da5f5f745e38f3127bf0e991.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow Where It Doesn't Disappear**<br>My Dead Girlfriend<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7767c3aaf76e3f3a7d2507b5dbb31db3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**what does he have that i don't?**<br>Zeph<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/350d3e46766f4a81ca9cc94802d269b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Say You Love Me**<br>Jessie Ware<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c79f42864b040f5ebb191d70da4c6b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letters, Lights, Travels On The Streets**<br>Penthouse<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80734b990eeba7177361101a4bb794f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bukan Begitu Caramu**<br>Good Morning Everyone<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
