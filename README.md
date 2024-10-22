@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd862a15644def8ac5e506b797449302.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**red lights**<br>runo plum<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/44734d7f937dbb4de7e74160fdb0c991.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Friday**<br>Tom Odell<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4fa8d015b3d388a393571af600f116d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unrequited Love (& other clichés)**<br>Breakup Shoes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**scars**<br>Novulent<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
