@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/702412d421bc0cadff3785aadc759f93.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mind Over Matter**<br>Young the Giant<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Daydreams**<br>Cage the Elephant<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telescope**<br>Cage the Elephant<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow**<br>Coldplay<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e6a34793a424eec94bde00c621caa70f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SLOW DANCING IN THE DARK**<br>Joji<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
