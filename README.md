@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paladin Strait**<br>twenty one pilots<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c9d31655bef9bdc50a7aecf749cb9683.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Not Okay (I Promise)**<br>My Chemical Romance<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b10a6e40aef3e147118f879e4b875b35.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cancer**<br>twenty one pilots<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/702412d421bc0cadff3785aadc759f93.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mind Over Matter**<br>Young the Giant<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Daydreams**<br>Cage the Elephant<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telescope**<br>Cage the Elephant<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
