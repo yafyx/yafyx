@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vignette**<br>twenty one pilots<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67bb8bc79506fa36e8dec1a33290659a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In This Darkness**<br>Clara La San<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Craving (Jenna's version)**<br>twenty one pilots<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cutting My Fingers Off**<br>Turnover<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Miss You**<br>blink-182<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c1449b38b0093d9fab3f20c026c622.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Caldera<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
