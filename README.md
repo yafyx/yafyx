@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vignette**<br>twenty one pilots<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Craving (Jenna's version)**<br>twenty one pilots<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Miss You**<br>blink-182<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Routines in the Night**<br>twenty one pilots<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac5cd74a4359479c8376d2451fa4c86b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everybody Talks**<br>Neon Trees<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
