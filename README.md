@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61c27fbfff3505b63d2f2be660d581f2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm So Tired**<br>Fugazi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Daydreams**<br>Cage the Elephant<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d070e505cdab4b27cb39bfe28eb63343.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telescope**<br>Cage the Elephant<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/858fb7e04750f8942269b1f8a6a8da97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**flower**<br>blue smiley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow**<br>Coldplay<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e6a34793a424eec94bde00c621caa70f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SLOW DANCING IN THE DARK**<br>Joji<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
