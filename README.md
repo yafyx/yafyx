@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0dd8da3c754059bc054545661b62aa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall for You (Acoustic)**<br>Secondhand Serenade<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3aba78e204fc4a488afe1339265562f8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like We Used To**<br>A Rocket to the Moon<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/67bb8bc79506fa36e8dec1a33290659a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In This Darkness**<br>Clara La San<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cutting My Fingers Off**<br>Turnover<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
