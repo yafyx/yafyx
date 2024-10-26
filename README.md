@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7c197200f921e89e07d3cdff65d7146.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Green**<br>12BH<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**slow dive**<br>wave to earth<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f83a01b288ebb5b48adb9ab58c005d72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**what am i to you?**<br>Rocco<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homesick**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**beck.**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About Last Night..**<br>Yel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
