@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0dc73067f3415ea9f745baf06ccb1002.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blank**<br>Glare<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homesick**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**beck.**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aa928ba13f1810ba0e6f7b7ff5484070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**See you soon**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About Last Night..**<br>Yel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
