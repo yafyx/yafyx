@@ -39,8 +39,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yang Tercinta**<br>Romantic Echoes<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**jealous over you**<br>Arash Buana<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0dd8da3c754059bc054545661b62aa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall for You (Acoustic)**<br>Secondhand Serenade<br clear="left">
