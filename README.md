@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**LUKEWARM**<br>Jordie Yose<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/00e90c76af9bf59f9ec7458a1f690367.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One**<br>brb.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db682ab46a3a5dd8cb5af7b51d534db6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birdcage**<br>Novo Amor<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
