@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**LUKEWARM**<br>Jordie Yose<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rare Symmetry**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
