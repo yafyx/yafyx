@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69628d7606c8e3916141050c32505a9e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Was I Made For? [From the Motion Picture "Barbie"]**<br>Billie Eilish<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/00e90c76af9bf59f9ec7458a1f690367.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One**<br>brb.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db682ab46a3a5dd8cb5af7b51d534db6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birdcage**<br>Novo Amor<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
