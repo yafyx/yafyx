@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honey**<br>VACATIONS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/32d86a507ca8a086ad646411b4ac19dc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Girl**<br>crisaunt<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3954d56601f31106b0be09fe183947ce.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In a Good Way**<br>Faye Webster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/70ad3665dd596512fd99b599d6d3ced2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**red love**<br>Dream, Ivory<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/93fe3c819e6073e735f7571929ffed8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How - demo**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cf6a0d70602994b899a805989c09620.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chateau (Feel Alright)**<br>Djo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fec5db8a897691ade6f20cbaf2142ba7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**stuck on you**<br>April June<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
