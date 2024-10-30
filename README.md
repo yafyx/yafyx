@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12f706c62bf69111cd7b33f1a34a592f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You and I**<br>d4vd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honey**<br>VACATIONS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1645e2f9f7f9f79154b75fd6fbdf6293.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**body dysmorphia**<br>Eyedress<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3954d56601f31106b0be09fe183947ce.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In a Good Way**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/824921f6bdcf5846a4f5c25654abbbf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roommates**<br>Malcolm Todd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/93fe3c819e6073e735f7571929ffed8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How - demo**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
