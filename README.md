@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69628d7606c8e3916141050c32505a9e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Was I Made For? [From the Motion Picture "Barbie"]**<br>Billie Eilish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12f706c62bf69111cd7b33f1a34a592f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You and I**<br>d4vd<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1645e2f9f7f9f79154b75fd6fbdf6293.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**body dysmorphia**<br>Eyedress<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/00e90c76af9bf59f9ec7458a1f690367.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One**<br>brb.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/824921f6bdcf5846a4f5c25654abbbf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roommates**<br>Malcolm Todd<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
