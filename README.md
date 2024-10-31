@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**WHEN YOU'RE NOT AROUND**<br>Skyline<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long as It's You**<br>KIDO3008<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
