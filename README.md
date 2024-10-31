@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9a2d0d70dd857cb062a5bbeecc019b6f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**someone will love you better**<br>Johnny Orlando<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a52bfc9d0d13819b458c364df8bd797a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**4EVER**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dc42e28da5f5f745e38f3127bf0e991.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow Where It Doesn't Disappear**<br>My Dead Girlfriend<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
