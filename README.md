@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a52bfc9d0d13819b458c364df8bd797a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**4EVER**<br>Clairo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a74d738abe29fb1a40584ccc8843dcd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Numb**<br>Men I Trust<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
