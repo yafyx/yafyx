@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd3559aed1b0d06e6f36b1e7818dd2a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Young World**<br>Slow Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/104ae0812a7bb9eee6634368a8f7f6ef.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rings**<br>Pinegrove<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fc5eb9bbce9468b3362114520964a59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next to You**<br>macseal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c9385e24dba01ad0a4eda4d16c6d7e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where the Clouds End**<br>I Feel Fine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The One With the Wurlitzer**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f217132f4303c3bb435bfc2fc9e25087.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Poured Sugar in Your Shoes**<br>Horse Jumper of Love<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cutting My Fingers Off**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
