@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i've always loved you**<br>Arash Buana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**jealous over you**<br>Arash Buana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55ce55fcd1af1760bbf3922391e9dfcb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Darling**<br>KIDO3008<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Need to Go**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
