@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57c0f22fcbdde0a48e6606f12e68ca4f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**U (You)**<br>KIDO3008<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Need to Go**<br>Skyline<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c96ddf758bcaf869b0ac8ff5679bcecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Mind**<br>Coldiac<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**talk**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5586b94d503a350afe5daf4c8cb2190.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Takkan Berpaling**<br>Teddy Adhitya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**over the moon**<br>Arash Buana<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
