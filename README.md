@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e5d460a9700e4dd78b23063727da29e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unconditionally**<br>Takayoshi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beautiful Stranger**<br>Laufey<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6052e3eebb9050386ed016fa78d8f354.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lily of the Valley**<br>Daniel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
