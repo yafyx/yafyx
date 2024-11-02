@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b89f833329a9bca1dadb72bd6a21211b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**like u love me**<br>Rin<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bb1a2744f144d0fac19f82637673d588.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Shine**<br>LEEHEESANG<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d3f08283a1d329c0a5f3af191d93015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dreams Tonite**<br>Alvvays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94994638b4305d100e95026e361c1722.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While You Were Sleeping**<br>Laufey<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Horse**<br>Slow Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c242691232906578b0a87b965b11d459.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**mona lisa**<br>PRYVT<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
