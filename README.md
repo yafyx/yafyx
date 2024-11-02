@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/104ae0812a7bb9eee6634368a8f7f6ef.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rings**<br>Pinegrove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/206d2609f2866448e93b43a0b0d15eae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky for You**<br>Novo Amor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c9385e24dba01ad0a4eda4d16c6d7e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where the Clouds End**<br>I Feel Fine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cutting My Fingers Off**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Savior Complex**<br>Phoebe Bridgers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**But the Regrets Are Killing Me**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
