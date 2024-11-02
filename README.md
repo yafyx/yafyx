@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d3f08283a1d329c0a5f3af191d93015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dreams Tonite**<br>Alvvays<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Horse**<br>Slow Pulp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72bd9b7aacf04e15ceb41777295ec93c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Clay Pigeons**<br>Michael Cera<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd35185eb2f322e02549fed38efa537a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Flew Away**<br>Laufey<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
