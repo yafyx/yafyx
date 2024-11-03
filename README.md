@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdf516d223a80cc4ea10d5cde96c1af5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothin' Without You**<br>HangSung<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e5d460a9700e4dd78b23063727da29e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unconditionally**<br>Takayoshi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
