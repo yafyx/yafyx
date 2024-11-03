@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
