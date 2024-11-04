@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff3da4ce70b56e9012b3ea8436a8fe5f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can I Tell You?**<br>Fiji Blue<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (quiet)**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5db74aadf4bce4a2f0be97c603989c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Last Time**<br>Summer Salt<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
