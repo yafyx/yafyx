@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Making Memories**<br>Tanjung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5db74aadf4bce4a2f0be97c603989c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Last Time**<br>Summer Salt<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/345fddecada337d6d9f68b2364b35844.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Might Be Sleeping**<br>Jakob<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/931eaaf43141d6ce5ef81f464dcd4595.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unlucky**<br>Lunar Vacation<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a0c458e8214ed833c8b553959d36a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Marie**<br>The Walters<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
