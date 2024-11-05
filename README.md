@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff3da4ce70b56e9012b3ea8436a8fe5f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can I Tell You?**<br>Fiji Blue<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under The City Lights**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Closure**<br>Impromptu.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
