@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under The City Lights**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ca61b9c621ef20f528ccc0397b8cd43.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Polyurethane**<br>Lomelda<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Closure**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Exit**<br>VACATIONS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
