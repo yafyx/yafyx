@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ca61b9c621ef20f528ccc0397b8cd43.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Polyurethane**<br>Lomelda<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sidelines**<br>Phoebe Bridgers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
