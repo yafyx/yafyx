@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Carolina**<br>Lor<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
