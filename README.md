@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**every question i withhold, every answer you never told**<br>eleventwelfth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d722c2511d6aee22bee0bd6144f1519d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Somethin' Stupid**<br>Frank Sinatra<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 3**<br>The Cottons<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
