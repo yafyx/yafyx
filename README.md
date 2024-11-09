@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae403ab51109c8ba07182f0ec8454ecf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me, never let go**<br>Rocco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/35e9b2ecc01ae64ee0c569b4668d01f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Right Side of My Neck**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3668a275467fc56cdde8d477593a6a62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blondie**<br>Current Joys<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
