@@ -41,8 +41,6 @@ Doing silly programming things
 <!-- recent_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twin Flames**<br>Midrift<br clear="left">
