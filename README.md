@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twin Flames**<br>Midrift<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a0beb2c48c08e2d3ded06875fe248bb2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When the Sun Hits**<br>Slowdive<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**not a lot, just forever**<br>Adrianne Lenker<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
