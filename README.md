@@ -39,19 +39,21 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Worry For Being Alone**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twin Flames**<br>Midrift<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
 <!-- top_tracks ends -->
