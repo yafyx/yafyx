@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Change of Heart - Alt. Version**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f6a7c962ca10bbe3e10bb975731a47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Middle Of Nowhere**<br>Vancouver Sleep Clinic<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d3de1fe8f4455baaa4f129044a8b0397.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flowers**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99f5755dd9b28d4493d87b6ad6ca77a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unstoppable**<br>Daniel Caesar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Life - Extended**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ac86785a1875d184447d8827a008838.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once More**<br>d4vd<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baby in Red**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7f13ba9f2214575b5dd2b1fa4a80f80a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Killing Me**<br>Omar Apollo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
