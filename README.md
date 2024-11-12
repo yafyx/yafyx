@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4358642e69ae85fa9287f31eeed83b89.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Allday**<br>himi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/00e90c76af9bf59f9ec7458a1f690367.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One**<br>brb.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33683ee3aa622eb2f8c14cf5a8ddc8b4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Temple Fair**<br>Phum Viphurit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon Flower**<br>Plantar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dd2c4ed7e959dbf69e1956efff4b049a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**June**<br>YUGA<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/951a8387b598c0bbe4aa53b3627c0f35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TV**<br>Billie Eilish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing #2 (feat. Alex Siegel)**<br>THE CHARM PARK<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
