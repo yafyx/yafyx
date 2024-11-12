@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca4ffb377634aa6b7d7713a841fef1e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Velvet**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26d19dc84a33fb9c2c056577c36d94b0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Sky View**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your Way**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**On The Night Like This**<br>Mocca<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b148dbdd2bfcb6246807e7c6ccf2278.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SheSheShe**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2c49992adb1566968772bbf1bc85a395.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Bottles of Wine (Don't Let Me Be Alone)**<br>Dead Bachelors<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
