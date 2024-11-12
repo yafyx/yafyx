@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb83f79445be08a99f5b8c2cbddeeddc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**パレード**<br>Miz<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af8467c7507c170ab0f898d11cc1313.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More Than Friends (with HONNE)**<br>BEKA<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5cd216b0f80af53d91a7b80465be4c66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sleepwalk**<br>Grace Gardner<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f6a7c962ca10bbe3e10bb975731a47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Middle Of Nowhere**<br>Vancouver Sleep Clinic<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99f5755dd9b28d4493d87b6ad6ca77a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unstoppable**<br>Daniel Caesar<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ac86785a1875d184447d8827a008838.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once More**<br>d4vd<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7f13ba9f2214575b5dd2b1fa4a80f80a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Killing Me**<br>Omar Apollo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
