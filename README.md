@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heart Break Emoji**<br>Yellow Flower Living Water<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your Way**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Epiphany**<br>Impromptu.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sneeze!**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
