@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b7cc7669e712ccbe85d1ba97923059e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Five Past One**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**WHEN YOU'RE NOT AROUND**<br>Skyline<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Only One**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/886ae797a538474ba0dfc371a36d04b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You**<br>Mocca<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9e32495f7c5792bde962ef926388965.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secret Admirer**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Sorrowful Reunion**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
