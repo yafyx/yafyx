@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb83f79445be08a99f5b8c2cbddeeddc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**パレード**<br>Miz<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4358642e69ae85fa9287f31eeed83b89.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Allday**<br>himi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af8467c7507c170ab0f898d11cc1313.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More Than Friends (with HONNE)**<br>BEKA<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/33683ee3aa622eb2f8c14cf5a8ddc8b4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Temple Fair**<br>Phum Viphurit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5cd216b0f80af53d91a7b80465be4c66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sleepwalk**<br>Grace Gardner<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dd2c4ed7e959dbf69e1956efff4b049a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**June**<br>YUGA<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f6a7c962ca10bbe3e10bb975731a47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Middle Of Nowhere**<br>Vancouver Sleep Clinic<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/951a8387b598c0bbe4aa53b3627c0f35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TV**<br>Billie Eilish<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
