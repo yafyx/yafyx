@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3be40e6abb2058527c07b4bf110f128.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ride**<br>Hybs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tell Me Now**<br>Astera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b96a1ace661b3a9f092278e2d64dcf5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ocean tide**<br>cykim<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Greetings**<br>Astera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/310f82069b2a486dbce873dc8db172a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**l-o-v-e**<br>Rocco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unlogic Dialogue**<br>Astera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2397ff47cea2c965598a601688029aaa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**blue**<br>yung kai<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Life - Extended**<br>Astera<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
