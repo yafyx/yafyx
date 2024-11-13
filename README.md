@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/00e90c76af9bf59f9ec7458a1f690367.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One**<br>brb.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me, never let go**<br>Rocco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon Flower**<br>Plantar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bad**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing #2 (feat. Alex Siegel)**<br>THE CHARM PARK<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2397ff47cea2c965598a601688029aaa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**blue**<br>yung kai<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
