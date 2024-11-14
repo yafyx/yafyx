@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Air Emas**<br>Heals<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
