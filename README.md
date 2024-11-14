@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**YOUR WEDDING**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disappear**<br>White Chorus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca4ffb377634aa6b7d7713a841fef1e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Velvet**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mentors**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
