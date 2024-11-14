@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Only One**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All That I've Been Missing**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/687aebb44ae3cd300ea7c767a3783743.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Minggu**<br>White Chorus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Inilah Aku**<br>Good Morning Everyone<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2c49992adb1566968772bbf1bc85a395.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Bottles of Wine (Don't Let Me Be Alone)**<br>Dead Bachelors<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
