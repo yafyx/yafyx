@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mentors**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love is a Holiday**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon Flower**<br>Plantar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbf73a5cb81028dfc4bae26cbbfc364.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paths**<br>Niki<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**CHIHIRO**<br>Billie Eilish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/886ae797a538474ba0dfc371a36d04b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
