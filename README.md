@@ -10,7 +10,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[simlabgro](https://github.com/yafyx/simlabgro/commit/5d894df79c054d6f716925533f88fce7d40b5f81): first commit - 14-11-2024
+[simlabgro](https://github.com/yafyx/simlabgro/commit/9aaca14b52daa45cc847eb5c0f6343000eed4c41): deploy: SIMLABGRO/simlabgro-web@c6f3ce44c34832a31b1912cfda42c968aecb947b - 14-11-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
 
