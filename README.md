@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hide**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gwen Everest**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/52793f26e4fe9fc22890cff8b8b739f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Need**<br>Midrift<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your face**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
