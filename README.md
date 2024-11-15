@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bd6bec311f9333cc80f9d2c672c561f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gehenna**<br>Loathe<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3514a3d0b64b59417b02111a1aac00bc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blight**<br>Zeruel<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9e32495f7c5792bde962ef926388965.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secret Admirer**<br>Vira Talisa<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Air Emas**<br>Heals<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
