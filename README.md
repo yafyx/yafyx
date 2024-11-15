@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**In Pictures**<br>Midrift<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f7fae21fbc1227b264f84a3ff02a21a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucifer Loves Me**<br>Summer 2000<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enchanting**<br>Novulent<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mimi**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/71c1f05aa9a5ed6793dbe71887bbbbc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Stay**<br>Blossom<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f32fb140d7657de8c6607e62bc6da4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spinning**<br>Trauma Ray<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
