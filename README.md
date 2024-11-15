@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bd6bec311f9333cc80f9d2c672c561f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gehenna**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12609e5454f891391a8857894e993a25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wishes**<br>Alison's Halo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**See you soon**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8640919267cd41c6c1820aacfb916978.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Press**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Machina**<br>Midrift<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/35dbb9ec142a1bce27184359d5db9e18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**lunar eclipse**<br>FlyingFish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b790df9e7012d2c84d668c5247e26b0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wish**<br>sign crushes motorist<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pandora**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
