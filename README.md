@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3270c90b5f5548dfc85ae98f9c5c467c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leave**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d4f2dcae4669d2252d1a88cda4c51ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**In Pictures**<br>Midrift<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b790df9e7012d2c84d668c5247e26b0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Left**<br>sign crushes motorist<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a0beb2c48c08e2d3ded06875fe248bb2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**40 Days**<br>Slowdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/71c1f05aa9a5ed6793dbe71887bbbbc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Stay**<br>Blossom<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
