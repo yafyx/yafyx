@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8640919267cd41c6c1820aacfb916978.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Feel**<br>Whirr<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/29b2cd129a1e2a2154478f08e684f5b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Grind**<br>Trauma Ray<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fea086e4992bf799f708ffd9803310ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**lochness**<br>Julie<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Drive A Lot**<br>Starflyer 59<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
