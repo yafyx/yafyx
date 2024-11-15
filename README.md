@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bd6bec311f9333cc80f9d2c672c561f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gehenna**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hide**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3514a3d0b64b59417b02111a1aac00bc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blight**<br>Zeruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/52793f26e4fe9fc22890cff8b8b739f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Need**<br>Midrift<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0c612d023ed1e1d6cf639c19775e9d5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**change**<br>FlyingFish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9e32495f7c5792bde962ef926388965.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secret Admirer**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
