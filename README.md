@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f7fae21fbc1227b264f84a3ff02a21a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucifer Loves Me**<br>Summer 2000<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Toss**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enchanting**<br>Novulent<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under The Same Name**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mimi**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**savior**<br>Novulent<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f32fb140d7657de8c6607e62bc6da4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spinning**<br>Trauma Ray<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ba7f07d97efaeb5ff8b4c855b98660e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Burden**<br>Midrift<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
