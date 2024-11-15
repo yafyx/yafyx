@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d716386604bd0e0ab1e6924ac2fddc2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**take my heart**<br>s.e. lane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/29b2cd129a1e2a2154478f08e684f5b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Grind**<br>Trauma Ray<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Junebouvier**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fea086e4992bf799f708ffd9803310ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**lochness**<br>Julie<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bfb2be53c5e0e227fa0c17a78b5ddde9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**highschool**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Drive A Lot**<br>Starflyer 59<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a0a4f093138405d685c2f1251202c88.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oztroja**<br>Zeruel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/748254fd1794da43e387608ec1c8ecad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**forest green**<br>FlyingFish<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
