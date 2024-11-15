@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/35dbb9ec142a1bce27184359d5db9e18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**newyork**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d716386604bd0e0ab1e6924ac2fddc2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**take my heart**<br>s.e. lane<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/54f2d2c2735e190f280c08059a27f346.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ranger**<br>Dottie<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Junebouvier**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f7fae21fbc1227b264f84a3ff02a21a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Hundred 70**<br>Summer 2000<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bfb2be53c5e0e227fa0c17a78b5ddde9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**highschool**<br>FlyingFish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b242ef8fe77d4189bbb93e7cdb4f045c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sundae**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a0a4f093138405d685c2f1251202c88.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oztroja**<br>Zeruel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
