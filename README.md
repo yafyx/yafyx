@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0866b804ba39288a4690927cb5e7f659.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Are We Gonna Do Now**<br>Indigo De Souza<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sandy**<br>Alex G<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dragon eyes**<br>Adrianne Lenker<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
