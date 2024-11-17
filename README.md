@@ -39,6 +39,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We're on a Date!**<br>Drizzly.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
