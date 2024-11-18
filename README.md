@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d65d31aff2164102cb3bf17d5c95bd39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pergi Tanpa Pesan**<br>Sore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5dfaf563a94c8ddedd202d291bfcd64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backburner**<br>Niki<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye Your Side**<br>Girl and Her Bad Mood<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**in 1997 the bullet was shy**<br>Sore<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
