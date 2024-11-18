@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Elastic Hearts**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/10714f35ab05a396cdf8c1c4e6d1828b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Weather**<br>VoXXes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dear the queen**<br>Loon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b2776eb31135ce14cc5f6ba9f983cc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TT (terrible things)**<br>Bird.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d65d31aff2164102cb3bf17d5c95bd39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pergi Tanpa Pesan**<br>Sore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe26688366c3e2d7ccc590263e172a3b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Little Joy**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
