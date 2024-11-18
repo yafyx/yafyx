@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Younger Than You**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bianglala**<br>starrducc<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/748254fd1794da43e387608ec1c8ecad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**forest green**<br>FlyingFish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9f1ff5a97ac7608997d667b08b3ad51.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ease**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Starting Over**<br>LSD and the Search for God<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Babe, You're So Unreachable**<br>Upleaf<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -55,7 +55,7 @@ Doing silly programming things
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**cool enough for you**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
