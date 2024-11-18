@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2c49992adb1566968772bbf1bc85a395.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Bottles of Wine (Don't Let Me Be Alone)**<br>Dead Bachelors<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/10714f35ab05a396cdf8c1c4e6d1828b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Weather**<br>VoXXes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b2776eb31135ce14cc5f6ba9f983cc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TT (terrible things)**<br>Bird.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe26688366c3e2d7ccc590263e172a3b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Little Joy**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
