@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lihat**<br>Sore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Carolina**<br>Lor<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mentors**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
