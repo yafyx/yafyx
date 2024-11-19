@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long as It's You**<br>KIDO3008<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Come Around**<br>Sleep Shelter<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
