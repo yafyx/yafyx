@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aebd9219849312d3f9f2debb17d071ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dance In Room Song**<br>Sipper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1191500a5b332aded7c364324f101194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Milk - 2021 Remaster**<br>Sweet Trip<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63ea8d50b43146e7c64414891c20d378.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Archie, Marry Me**<br>Alvvays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Blue, I’ll Be coming**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c68f5ee27f675b94df752d95542b183d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Days**<br>Elephant Kind<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f4a3cb2f6d2c3bb2dc1a2821dc7f1fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**cyan**<br>Plant Cell<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/10113ca0e11a1e32767647e058c8bda2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nanti**<br>Thee Marloes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
