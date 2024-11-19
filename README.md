@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe26688366c3e2d7ccc590263e172a3b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tender**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long as It's You**<br>KIDO3008<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disappear**<br>White Chorus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Come Around**<br>Sleep Shelter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**karolina**<br>Sore<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
