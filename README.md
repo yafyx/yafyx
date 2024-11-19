@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hesitation**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Sunshine**<br>Door Plant<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26295fe53cd40c54b74f90b9aa8d8765.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**catching feelings 4 u**<br>Jason LaPierre<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
