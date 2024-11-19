@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aebd9219849312d3f9f2debb17d071ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dance In Room Song**<br>Sipper<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63ea8d50b43146e7c64414891c20d378.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Archie, Marry Me**<br>Alvvays<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c68f5ee27f675b94df752d95542b183d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Days**<br>Elephant Kind<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/10113ca0e11a1e32767647e058c8bda2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nanti**<br>Thee Marloes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
