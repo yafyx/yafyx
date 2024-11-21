@@ -10,8 +10,6 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[pharmatalk](https://github.com/yafyx/pharmatalk/commit/6966a0f109cc3bf640b21c0c88eb43d1c6bc2330): deploy: Pharmatalk/web@4bd239f6a919a32e7e0ee75603ce7f6121415d60 - 21-11-2024
-
 [agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
@@ -29,6 +27,8 @@ Doing silly programming things
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 
 [hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
+
+[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
 </td>
