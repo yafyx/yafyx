@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disappear**<br>White Chorus<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1191500a5b332aded7c364324f101194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Milk - 2021 Remaster**<br>Sweet Trip<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Blue, I’ll Be coming**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forevermore**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f4a3cb2f6d2c3bb2dc1a2821dc7f1fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**cyan**<br>Plant Cell<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
