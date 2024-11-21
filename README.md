@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
