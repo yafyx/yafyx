@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f4a3cb2f6d2c3bb2dc1a2821dc7f1fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Landscape of green lakeside**<br>Plant Cell<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Horse**<br>Slow Pulp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**(forever?????????)**<br>Glass Beach<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
