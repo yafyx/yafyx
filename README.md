@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd5024632cdad7638ec63f09bac8622f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Four Corners**<br>Oh, Flamingo!<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semestinya**<br>Caldera<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuning**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
