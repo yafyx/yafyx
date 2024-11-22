@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c68f5ee27f675b94df752d95542b183d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Believe in You**<br>Elephant Kind<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over**<br>KIDO3008<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**anything 4 u**<br>Arash Buana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bca30aaa0ff3f5029c8ada4d0817e7c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It The Answer**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
