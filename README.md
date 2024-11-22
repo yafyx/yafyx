@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Me Into Your Heart**<br>Upleaf<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2c49992adb1566968772bbf1bc85a395.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two Bottles of Wine (Don't Let Me Be Alone)**<br>Dead Bachelors<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Carolina**<br>Lor<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
