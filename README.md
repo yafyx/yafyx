@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**On My Own, Again**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f77e5af1fad50ef0ee69a19ff9c233fc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Mine**<br>FLU<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/10714f35ab05a396cdf8c1c4e6d1828b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Weather**<br>VoXXes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe26688366c3e2d7ccc590263e172a3b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roses**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Young Man**<br>Me and My Sandcastle<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
