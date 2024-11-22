@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Carousel**<br>Kurosuke<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7421973a1011f31d94bab6c9ceaafcea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friend Song**<br>alpha yang<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d99d009821de5d6cb7f591773e1ba60a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**everest**<br>Public Library Commute<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Honey Boy**<br>Me and My Sandcastle<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
