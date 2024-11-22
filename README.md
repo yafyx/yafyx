@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f77e5af1fad50ef0ee69a19ff9c233fc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Mine**<br>FLU<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/10714f35ab05a396cdf8c1c4e6d1828b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warm Weather**<br>VoXXes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe26688366c3e2d7ccc590263e172a3b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roses**<br>Kurosuke<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Young Man**<br>Me and My Sandcastle<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
