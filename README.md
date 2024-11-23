@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Place Like Home**<br>VACATIONS<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e1349972bb62eb4c33327a163640c835.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Built By Design**<br>Far Caspian<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Small Things**<br>Me and My Sandcastle<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e98e3f15a95ec2ae595be7b16385a0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irony Would Have It**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4179e750521c1d354f9ea75bdf3dc264.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nice Try**<br>Marshall Van Leuven<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
