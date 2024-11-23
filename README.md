@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over You**<br>VACATIONS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Next Exit**<br>VACATIONS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/023cf3fff87cac7bf679b3fe86bc9ecb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over and Over**<br>Love Spells<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (quiet)**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/994f8c70c2fb16aa31bdc5a03d67172c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
