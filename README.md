@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4179e750521c1d354f9ea75bdf3dc264.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nice Try**<br>Marshall Van Leuven<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over You**<br>VACATIONS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/023cf3fff87cac7bf679b3fe86bc9ecb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over and Over**<br>Love Spells<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
