@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e32e1cdd845df9dbb5c253c399669daf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Place Like Home**<br>VACATIONS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tokyo**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e1349972bb62eb4c33327a163640c835.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Built By Design**<br>Far Caspian<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Run Away**<br>Chezile<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Small Things**<br>Me and My Sandcastle<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6acc2209b8601438d97948c2a2f28698.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Safe House**<br>Yot Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e98e3f15a95ec2ae595be7b16385a0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irony Would Have It**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6fa19eccd731420566dbdbd8d2a73ecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**haunt me~**<br>Corbon Amodio<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
