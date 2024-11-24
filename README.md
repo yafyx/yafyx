@@ -39,8 +39,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fatal Attraction**<br>Reality Club<br clear="left">
