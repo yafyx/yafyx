@@ -39,7 +39,7 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6184d6308b544012965130dc72bb96b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Could You Count the Time I've Given to You?**<br>Coldiac<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
 
