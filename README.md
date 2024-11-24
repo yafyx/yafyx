@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9cc25c1fe43abebf86ec892ee3ab8ab.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Love You So**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/366251bc030bb7fbddfcfce74c613adf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just A Game**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tattoo**<br>Upleaf<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Graceful Retreat**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Me Into Your Heart**<br>Upleaf<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
