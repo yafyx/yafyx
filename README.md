@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wrote This for You**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the Time Being**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Distant Memories**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598ac4909da0217817e279d66aa1c9e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**jealous over you**<br>Arash Buana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We're on a Date!**<br>Drizzly.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
