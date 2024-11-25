@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1191500a5b332aded7c364324f101194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Milk - 2021 Remaster**<br>Sweet Trip<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fatal Attraction**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Blue, I’ll Be coming**<br>Yuragi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f4a3cb2f6d2c3bb2dc1a2821dc7f1fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**cyan**<br>Plant Cell<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
