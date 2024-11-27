@@ -39,6 +39,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b2776eb31135ce14cc5f6ba9f983cc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hardwood jack**<br>Bird.<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Streets**<br>MATOKI<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweater Kleptomaniac**<br>TAMAGO<br clear="left">
