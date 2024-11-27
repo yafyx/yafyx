@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Weathre**<br>Heals<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Me Into Your Heart**<br>Upleaf<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b148dbdd2bfcb6246807e7c6ccf2278.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SheSheShe**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Venita**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3006824aaf5826b0e2cb8823a5933c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Norwegian Crush**<br>Kaveh Kanes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
