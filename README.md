@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Moon Parch’t**<br>Drizzly.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a6820b92477ea180d2007640a56e8f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gidget (feat. Anderson .Paak & T.Nava)**<br>Free Nationals<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kembalikanku - Live Version**<br>Teddy Adhitya<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
