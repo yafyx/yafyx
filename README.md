@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pesisir**<br>Hindia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuning**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4085c2aeee9b24fa11e9cde379bc0118.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dalam Hitungan**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Per Hari Ini**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tak ada yang Selamanya**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
