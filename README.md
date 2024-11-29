@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ada35bb8954dfab2f01b857b400a28d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Di Padang Lumpuh**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hijau**<br>Efek Rumah Kaca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Api Dan Lentera**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d06dcf91d79a57eda0f57aea979d7079.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Masa-Masa**<br>The Adams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tears Are Holding Me Tight**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
