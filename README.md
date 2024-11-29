@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Api Dan Lentera**<br>Barasuara<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbf1b59c1176981dfa3bc8cbb4cdab2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**American Tradition**<br>Nicole Dollanganger<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb902776c17dfb8d69ba053b33275bda.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zombie (Acoustic Version)**<br>The Cranberries<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
