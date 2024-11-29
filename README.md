@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Khawatir, Kawan**<br>Hindia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c797f7edf8804abe65d24e2e1e9670da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aftertaste**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccffe2bc7d7dc94093bd4736d53a680a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Esok**<br>The Adams<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jalan Tikus**<br>Lomba Sihir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c027352af6b70094afbcb4375be594ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Di Udara**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
