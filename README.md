@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd27972da01ce2d25cbafe341683f144.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lagu Kritik Lagi**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bahas Bahasa**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Caught in a Trap**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menunggang Badai**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bayangkan Jika Kita Tidak Menyerah**<br>Hindia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
