@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7327bd581388498d9188d75467e535b7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Can't Handle Change**<br>Roar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccffe2bc7d7dc94093bd4736d53a680a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a869ea64cde724b56a326eeeb53a70c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sullen Girl**<br>Fiona Apple<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Api Dan Lentera**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Between the Bars**<br>Elliott Smith<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbf1b59c1176981dfa3bc8cbb4cdab2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**American Tradition**<br>Nicole Dollanganger<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af72b5db35df4bd9b9c6772989454f5a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to never stop being sad**<br>dandelion hands<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb902776c17dfb8d69ba053b33275bda.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zombie (Acoustic Version)**<br>The Cranberries<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
