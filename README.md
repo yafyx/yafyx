@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Lack Of A Better Word**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
