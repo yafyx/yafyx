@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tentang Bunga**<br>Romantic Echoes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
