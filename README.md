@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Putih**<br>Efek Rumah Kaca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers Again**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
