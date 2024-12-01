@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Lack Of A Better Word**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies - Remastered**<br>Yellow Flower Living Water<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
