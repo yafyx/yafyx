@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Babe, You're So Unreachable**<br>Upleaf<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccffe2bc7d7dc94093bd4736d53a680a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
