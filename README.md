@@ -39,8 +39,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Lack Of A Better Word**<br>Reality Club<br clear="left">
