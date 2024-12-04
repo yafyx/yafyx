@@ -39,7 +39,7 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae403ab51109c8ba07182f0ec8454ecf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secepat Mungkin**<br>Good Morning Everyone<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers Again**<br>Magnolia Celebration<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c308eac76ff47f9f78720c77d13ab761.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Madeleine**<br>sunshine blvd.<br clear="left">
 
