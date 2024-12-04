@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55d0bf5a060367aafa2302b89f49866e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Padi Milik Rakyat**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Janji Palsu**<br>Hindia<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Putih**<br>Efek Rumah Kaca<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1aa05a5a8ce84bceda4c971f58c54978.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Affectionate Affair**<br>Roadtrip to Antarctica<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pop Kinetik**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
