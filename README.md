@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c84ecfdec30cbcc4cc17f7bbbfc5228.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maju**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/191d3bc51be93884d70d34e0d96cf76e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ramai Sepi Bersama**<br>Hindia<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Membelah Belantara**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Seragam Ketat**<br>Lomba Sihir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/455af04799dd66709d4267752dd24c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Metro**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
