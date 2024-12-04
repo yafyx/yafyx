@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bernyanyi Menunggu**<br>rumahsakit<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ec745fb85d15639fbf7004f53e07c975.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rencana Usang**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers Again**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c308eac76ff47f9f78720c77d13ab761.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Madeleine**<br>sunshine blvd.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
