@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Belum Bernyali**<br>Harra.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Belum Bernyali**<br>Harra.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b78805e337c92deae281bf3196fc73b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**NOSTYLIST**<br>Destroy Lonely<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a21a6f8d8ed1789cbcb23c32ba7e7a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hasratku Saja**<br>Harra.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/85868227d53f7eb3cdc69fde410a615b.gif" width="48" height="48" align="left" style="margin-right: 10px;"/>**how u feel?**<br>Destroy Lonely<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Belum Bernyali**<br>Harra.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/42c140b14232d392ffad267c830cbf0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**NEVEREVER**<br>Destroy Lonely<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
