@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e2660a8e46b01d5651dc6d3f18db373.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Obsessed With Your Mind**<br>Love Spells<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3c49a1b02761dde8973bf8beebb63b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**spanish in chinese**<br>Zeauxi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Taking My Time to Be**<br>Strawberry Guy<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leave**<br>Puremoon<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
