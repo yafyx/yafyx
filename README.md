@@ -44,8 +44,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loveisheroin**<br>Chezile<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dddf54c96c26fc8ec06ea2fba0f7b0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovergirl**<br>saturra<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
