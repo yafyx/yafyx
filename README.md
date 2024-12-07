@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdb15976fab63e06b4845502343f953a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**till i go red**<br>runo plum<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a472fe9191bf62ae51c35105852e15c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**impossible**<br>Wasia Project<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/998f2b64aeaf176d84dd5777e0b245e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow in October**<br>Blaize Jenkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Philadelphia (with Searows)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b9694c6807ae54c76de0d03d40fae8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Interlude**<br>Blaize Jenkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b13f5656f3cdc5960460449a78fa4cd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Petals on the Moon**<br>Wasia Project<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
