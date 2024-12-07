@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f72f87d13f33665b02d510c26573612.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**just me (demo)**<br>Rin<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdb15976fab63e06b4845502343f953a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**till i go red**<br>runo plum<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80ff0d0372eb1e0cb8aafa17f20cedf2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**we lie apart**<br>Adolescent Dreams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9a719a90480cf476516c2dc15e711c62.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Something To You**<br>Natalie Wilson<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/998f2b64aeaf176d84dd5777e0b245e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow in October**<br>Blaize Jenkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e98e3f15a95ec2ae595be7b16385a0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coward**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b9694c6807ae54c76de0d03d40fae8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Interlude**<br>Blaize Jenkins<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
