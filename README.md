@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d3de1fe8f4455baaa4f129044a8b0397.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flowers**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Girl**<br>MATOKI<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dear the queen**<br>Loon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
