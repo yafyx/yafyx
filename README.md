@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/687aebb44ae3cd300ea7c767a3783743.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Minggu**<br>White Chorus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Girl**<br>MATOKI<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3d227fe6453f01428b67a2444ad172e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pleasure**<br>mmmarkos!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dear the queen**<br>Loon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6f8a0e9ffc677b8dde9c173fff94443.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**15.000 langkah**<br>starrducc<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daun dan Ranting Menuju Surga**<br>The Milo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
