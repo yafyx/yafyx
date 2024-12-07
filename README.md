@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All That I've Been Missing**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/411559af092e820b47508012cacbb486.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serbuk Terbang Telah Sirna**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Too Loong**<br>Yellow Flower Living Water<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stethoscope**<br>The Milo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wanna Wanna Go**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
