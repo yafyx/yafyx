@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d3de1fe8f4455baaa4f129044a8b0397.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flowers**<br>Astera<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bury It Down - Remastered**<br>Yellow Flower Living Water<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mutamycete**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
