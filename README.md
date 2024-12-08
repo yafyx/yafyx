@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cc864f1e46eb68c2967989e18f699a2c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Running Around**<br>The Walters<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow Down**<br>Laufey<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/008d700d42ce9b1c0cf2797d0acfaed7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eleven Weeks**<br>Vansire<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loveisheroin**<br>Chezile<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
