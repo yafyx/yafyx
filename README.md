@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow Down**<br>Laufey<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/008d700d42ce9b1c0cf2797d0acfaed7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eleven Weeks**<br>Vansire<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loveisheroin**<br>Chezile<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dddf54c96c26fc8ec06ea2fba0f7b0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovergirl**<br>saturra<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
