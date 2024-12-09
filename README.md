@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d99d009821de5d6cb7f591773e1ba60a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**everest**<br>Public Library Commute<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e98e3f15a95ec2ae595be7b16385a0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irony Would Have It**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/97369f6952233fc3212b955f501b9dc7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where Do I Go**<br>Minova<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4dc11d09eece584bf9eb6d3aab49b02e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beanie**<br>Chezile<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14baef943782e643384546149d098415.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Vision**<br>Vansire<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me, never let go**<br>Rocco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
