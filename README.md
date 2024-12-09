@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Company**<br>Strawberry Guy<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mystery**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b110ff4d374c219e6b7c3ba543173119.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Were Mine**<br>Minova<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2a5aa5209a6f83acf3defc563cae7e4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is there free breakfast here?**<br>Hotel Ugly<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1e34ee7b44a5fcdf7836269af9ec8341.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friends**<br>VACATIONS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dddf54c96c26fc8ec06ea2fba0f7b0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovergirl**<br>saturra<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
