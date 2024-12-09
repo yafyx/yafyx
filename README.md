@@ -39,11 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fcb13263fda1e40fbd5bef5bbe75632.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nice to See You**<br>Vansire<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Company**<br>Strawberry Guy<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mystery**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b110ff4d374c219e6b7c3ba543173119.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Were Mine**<br>Minova<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
