@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8786f8db510251a274cf4d2aab565564.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh, Bella**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d99d009821de5d6cb7f591773e1ba60a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**everest**<br>Public Library Commute<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Come Around**<br>Sleep Shelter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**karolina**<br>Sore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4dc11d09eece584bf9eb6d3aab49b02e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beanie**<br>Chezile<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
