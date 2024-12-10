@@ -10,7 +10,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hindia](https://github.com/yafyx/hindia/commit/7e51c0e6782c9dfa8e20be2479ee0102b8df44ce): Simple animations using framer-motion - 10-12-2024
+[hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 
 [baak-api](https://github.com/yafyx/baak-api/commit/ed24a3d7c406d210b197fae964a785f52bbc3837): Translate README.md to Indonesian and add .gitignore file - 10-12-2024
 
@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kini Tiada**<br>rumahsakit<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Haru Paling Biru**<br>Perunggu<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/bdfda8017ed1d68460434d33a716a25c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>The Panturas<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hilang**<br>rumahsakit<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Balerina**<br>Efek Rumah Kaca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
