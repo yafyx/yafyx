@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reciprocal View of the Seashore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcb268ca59e4e99e1b5bb1a1fde81556.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Without You**<br>VoXXes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbf9245eae41b63f804958c99c26de24.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fly Me To The Sun**<br>Romantic Echoes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4afe92b6156d8514452a43d81a3bb7fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Noisy Train**<br>Dreane<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cc864f1e46eb68c2967989e18f699a2c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Running Around**<br>The Walters<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a8089454af6859800fc402e8c4bc98e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uneven**<br>Dreane<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
