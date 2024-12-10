@@ -39,11 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarung Bebas**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canggih**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hijau**<br>Efek Rumah Kaca<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**scars**<br>Novulent<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take My Head**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
