@@ -10,6 +10,8 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[hindia](https://github.com/yafyx/hindia/commit/3bd1b16dbacb07839cbad8af7888f9597e7f1d27): Fixed album filtering - 10-12-2024
+
 [baak-api](https://github.com/yafyx/baak-api/commit/ed24a3d7c406d210b197fae964a785f52bbc3837): Translate README.md to Indonesian and add .gitignore file - 10-12-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
@@ -26,8 +28,6 @@ Doing silly programming things
 
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 
-[hindia](https://github.com/yafyx/hindia/commit/a37b7d678456ec7e43e60f73f861593b14f41ddd): Update Navbar content - 27-02-2024
-
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c797f7edf8804abe65d24e2e1e9670da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aftertaste**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Balerina**<br>Efek Rumah Kaca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nirrrlaba**<br>Lomba Sihir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anomali**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/455af04799dd66709d4267752dd24c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kabar Bahagia**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Esok**<br>The Adams<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
