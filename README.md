@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcb268ca59e4e99e1b5bb1a1fde81556.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Without You**<br>VoXXes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d8aa17b09740b2490b2e266a5848331.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Light Upon The Surface**<br>Sleepwalk<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4afe92b6156d8514452a43d81a3bb7fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Noisy Train**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b9694c6807ae54c76de0d03d40fae8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Interlude**<br>Blaize Jenkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a8089454af6859800fc402e8c4bc98e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uneven**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63ea8d50b43146e7c64414891c20d378.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Archie, Marry Me**<br>Alvvays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c544a3d1b6fdf30b69c17e2e5ba65f12.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Relay**<br>Trauma Ray<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
