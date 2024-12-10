@@ -39,13 +39,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d8aa17b09740b2490b2e266a5848331.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Light Upon The Surface**<br>Sleepwalk<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**scars**<br>Novulent<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b9694c6807ae54c76de0d03d40fae8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Interlude**<br>Blaize Jenkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63ea8d50b43146e7c64414891c20d378.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Archie, Marry Me**<br>Alvvays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c544a3d1b6fdf30b69c17e2e5ba65f12.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Relay**<br>Trauma Ray<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take My Head**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
