@@ -10,6 +10,8 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[baak-api](https://github.com/yafyx/baak-api/commit/ed24a3d7c406d210b197fae964a785f52bbc3837): Translate README.md to Indonesian and add .gitignore file - 10-12-2024
+
 [agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
@@ -17,8 +19,6 @@ Doing silly programming things
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
-
-[baak-api](https://github.com/yafyx/baak-api/commit/3a822f83b44e2be4bcbc66f307c7fe2734c1369f): Remove addYearIfMissing function - 05-09-2024
 
 [timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
 
@@ -39,13 +39,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarung Bebas**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c797f7edf8804abe65d24e2e1e9670da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aftertaste**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canggih**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nirrrlaba**<br>Lomba Sihir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hijau**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80a348c9b01dcb060ee7317d81bb5813.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**scars**<br>Novulent<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
