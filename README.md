@@ -1,5 +1,3 @@
-![](https://github.com/yafyx/yafyx/blob/main/gif/sadgosling.gif)
-
 Doing silly programming things
 
 <img src="https://skillicons.dev/icons?i=golang,php,python,typescript,nodejs,laravel,nextjs,react,tailwind,prisma,supabase,figma,mongodb,mysql,postgresql" />
