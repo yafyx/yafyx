@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36392ea1546e0f7b4525394da33215f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Know Who You Are At Every Age - Remastered 2006**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fell In Love At 22**<br>Starflyer 59<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Care**<br>LSD and the Search for God<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7866cbb444d5ebad096e8f563d7d462.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ginkgo**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
