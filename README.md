@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36392ea1546e0f7b4525394da33215f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Know Who You Are At Every Age - Remastered 2006**<br>Cocteau Twins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Look Back In Anger - Remastered**<br>Oasis<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Care**<br>LSD and the Search for God<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Put Me Down**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80f256e56b1043cdbb99da3ac4dd69a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Someday**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7866cbb444d5ebad096e8f563d7d462.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ginkgo**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
