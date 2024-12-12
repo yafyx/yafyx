@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Automatic Stop**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/529accaeb5bb8771982b09385178e21b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled Acoustic Song - 1997 Remaster**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paul - 2023 Remaster**<br>Big Thief<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Between the Bars**<br>Elliott Smith<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598b41917c70a08782be7986198fabdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Could Die for You**<br>Red Hot Chili Peppers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lift**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
