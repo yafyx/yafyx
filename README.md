@@ -8,11 +8,11 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[agroplan](https://github.com/yafyx/agroplan/commit/798691c3cbeaadaa0fd4799877e5efa9197fde00): fix typo - 13-12-2024
+
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 
 [baak-api](https://github.com/yafyx/baak-api/commit/ed24a3d7c406d210b197fae964a785f52bbc3837): Translate README.md to Indonesian and add .gitignore file - 10-12-2024
-
-[agroplan](https://github.com/yafyx/agroplan/commit/57e3f887bd2b18f0d219dfc695cd4ea1901e1b2a): Update favicon ico - 25-09-2024
 
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
