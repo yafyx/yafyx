@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Surprises**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sorry**<br>Alex G<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chances**<br>The Strokes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck on the Puzzle**<br>Alex Turner<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab1f41d1988899ed1398a2819d17c3fd.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Go Slowly**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
