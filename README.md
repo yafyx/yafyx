@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5f03861dbe9ad41357c4bdcde2d6ff4b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love**<br>Elephant Kind<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
