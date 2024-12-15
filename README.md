@@ -8,6 +8,8 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
+
 [agroplan](https://github.com/yafyx/agroplan/commit/798691c3cbeaadaa0fd4799877e5efa9197fde00): fix typo - 13-12-2024
 
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
@@ -17,8 +19,6 @@ Doing silly programming things
 [agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
-
-[ugcnn](https://github.com/yafyx/ugcnn/commit/7b622f68c0fda3d840915b0e5adbf9c8ace923bf): Update event status display and add countdown timer - 09-09-2024
 
 [timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
 
