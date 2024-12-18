@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fell In Love At 22**<br>Starflyer 59<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
