@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sandiwara Semu**<br>rumahsakit<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Apatis Ria**<br>Sore<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**in 1997 the bullet was shy**<br>Sore<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out Of Reach**<br>Vira Talisa<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
