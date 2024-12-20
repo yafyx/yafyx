@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/240670768b137f2755a02198da160d10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Not**<br>Big Thief<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Fruits For Today**<br>Sore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c68f5ee27f675b94df752d95542b183d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Days**<br>Elephant Kind<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the Time Being**<br>Vira Talisa<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuning**<br>rumahsakit<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sandiwara Semu**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
