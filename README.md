@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b23aba37bd1ff5d544d4ed054abee519.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lonesome Town**<br>Ricky Nelson<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ebd8b6f8ac6766fb26303245a265a2e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**OverHeated**<br>Billie Eilish<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/466ee1232cea0c84851b889887f3a495.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Between the Bars**<br>Elliott Smith<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a869ea64cde724b56a326eeeb53a70c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sullen Girl**<br>Fiona Apple<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
