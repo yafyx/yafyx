@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/240670768b137f2755a02198da160d10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Not**<br>Big Thief<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/466ee1232cea0c84851b889887f3a495.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Fruits For Today**<br>Sore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Between the Bars**<br>Elliott Smith<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c68f5ee27f675b94df752d95542b183d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Better Days**<br>Elephant Kind<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a869ea64cde724b56a326eeeb53a70c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sullen Girl**<br>Fiona Apple<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
