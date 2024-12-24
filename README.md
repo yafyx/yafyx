@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Tale of a Lonely Man**<br>Cause<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f300a54609dc4d5fcdc62af8e82d810c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strange Is the Song in Our Conversation (feat. Marsha Suryawinata)**<br>Monkey To Millionaire<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**(Nice Dream)**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
