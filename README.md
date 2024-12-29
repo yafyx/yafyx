@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Glass in the Park**<br>Alex Turner<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck on the Puzzle**<br>Alex Turner<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Linger**<br>The Cranberries<br clear="left">
