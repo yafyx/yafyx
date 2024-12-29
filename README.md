@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Look Back In Anger - Remastered**<br>Oasis<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2dba9bb89781df306fec73499ba23530.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Married With Children - Remastered**<br>Oasis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chances**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8d6acedbe66b4e69ced210643799dc4c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Live Forever**<br>Oasis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can You Be Sure?**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
