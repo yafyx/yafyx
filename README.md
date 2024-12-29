@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b7b99453f573bc17fb35cc8fa24f560.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Highschool Lover**<br>Air<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36392ea1546e0f7b4525394da33215f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Know Who You Are At Every Age - Remastered 2006**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can You Be Sure?**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598b41917c70a08782be7986198fabdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Could Die for You**<br>Red Hot Chili Peppers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Owe You Anything - 2011 Remaster**<br>The Smiths<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
