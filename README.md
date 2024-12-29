@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6cb91d2c3e554b028133947dfae73b43.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**About a Girl**<br>Nirvana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b7b99453f573bc17fb35cc8fa24f560.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Highschool Lover**<br>Air<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36392ea1546e0f7b4525394da33215f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Know Who You Are At Every Age - Remastered 2006**<br>Cocteau Twins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7866cbb444d5ebad096e8f563d7d462.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ginkgo**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598b41917c70a08782be7986198fabdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Could Die for You**<br>Red Hot Chili Peppers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
