@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Look Back In Anger - Remastered**<br>Oasis<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can You Be Sure?**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Owe You Anything - 2011 Remaster**<br>The Smiths<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
