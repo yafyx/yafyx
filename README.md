@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Weird Fishes / Arpeggi**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5991ea63419e6a8adfa747cf9fb9ef60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chocolate**<br>The Lantis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please, Please, Please, Let Me Get What I Want - 2011 Remaster**<br>The Smiths<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sodium Chloride**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
