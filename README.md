@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Put Me Down**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b897255bf422baa93a42536af293f9f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dumb**<br>Nirvana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1191500a5b332aded7c364324f101194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Milk - 2021 Remaster**<br>Sweet Trip<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ac3bcf2d7e6fd3cfe692122b1135843.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cico Buff**<br>Cocteau Twins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
