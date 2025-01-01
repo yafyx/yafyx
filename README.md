@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9ecee63b650378558eac6a50fda2fd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a67ea7dd1f6a8c04312538a2f40f9a34.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Belum Tentu**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d06dcf91d79a57eda0f57aea979d7079.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**a trip to the rainbow road**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f28dc346d76912c5141d1bce195afa81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Marigold**<br>Nirvana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuning**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Which Will**<br>Nick Drake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ec745fb85d15639fbf7004f53e07c975.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rencana Usang**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
