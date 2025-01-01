@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can You Be Sure?**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b897255bf422baa93a42536af293f9f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dumb**<br>Nirvana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a04e0c3995c2f6912fd5aaf74ea2aa61.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You're Gone**<br>The Cranberries<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ac3bcf2d7e6fd3cfe692122b1135843.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cico Buff**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck on the Puzzle**<br>Alex Turner<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34df33d23f970baafdfea3f846e489f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven or Las Vegas**<br>Cocteau Twins<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
