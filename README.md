@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honestly?**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5276617dc2925ee168721ceceda1cd14.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Somewhere**<br>Sun Kil Moon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b77a8a007f65193401c62345e3f37b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh My Love - Remastered 2010**<br>John Lennon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gwen Everest**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/974b110dc0cb03da388b0835112fadb2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Space Travel Is Boring**<br>Sun Kil Moon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sulk**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/529accaeb5bb8771982b09385178e21b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled Acoustic Song - 1997 Remaster**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
