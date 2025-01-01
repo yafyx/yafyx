@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/191d3bc51be93884d70d34e0d96cf76e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ramai Sepi Bersama**<br>Hindia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Membelah Belantara**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a67ea7dd1f6a8c04312538a2f40f9a34.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Belum Tentu**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**a trip to the rainbow road**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuning**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Esok**<br>The Adams<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
