@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gardenia**<br>Sore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82c9a410e66249df9723be5aca1b8a52.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5991ea63419e6a8adfa747cf9fb9ef60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chocolate**<br>The Lantis<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab1f41d1988899ed1398a2819d17c3fd.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Go Slowly**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ad5bb9ae7a39800ca78fd979a83a4b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gas**<br>FSTVLST<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/669e4fdc792fffd53f969820325843ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heavy**<br>The Marías<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
