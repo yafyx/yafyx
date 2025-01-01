@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Picture Soundtrack**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee2a3ca4bbb25f3c9ea0e36a82d0afa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Time**<br>LSD and the Search for God<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breathe (In the Air)**<br>Pink Floyd<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/535359c59f45494dc91be0847671a1b8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Something Changed**<br>Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bullet Proof ... I Wish I Was**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Still Do**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Certain Someone**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
