@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Picture Soundtrack**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b77a8a007f65193401c62345e3f37b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh My Love - Remastered 2010**<br>John Lennon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/974b110dc0cb03da388b0835112fadb2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Space Travel Is Boring**<br>Sun Kil Moon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/535359c59f45494dc91be0847671a1b8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Something Changed**<br>Pulp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/529accaeb5bb8771982b09385178e21b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled Acoustic Song - 1997 Remaster**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Still Do**<br>The Cranberries<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
