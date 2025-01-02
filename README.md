@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ec745fb85d15639fbf7004f53e07c975.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rencana Usang**<br>Perunggu<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hati dan Paru-Paru**<br>Lomba Sihir<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5991ea63419e6a8adfa747cf9fb9ef60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chocolate**<br>The Lantis<br clear="left">
