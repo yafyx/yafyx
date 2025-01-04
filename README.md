@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8dff8efd42789cce562288b795374328.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flesh**<br>Sleepwalk<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/000b39c027853ae76cb15068bb9727bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow**<br>Uchu Nekoko<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dee351160fec2435fb51d47406250bb5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kuchuu Buranko (空中ブランコ)**<br>ROCKSTXR!<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
