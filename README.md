@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/132505b32c337aa10724ce6182164234.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You and Me**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/84d8e7ab301df9f5c53f079155f3fdee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dreaming My Dreams**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3820170a0a6cb7d7d429e2945cd067c9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking About You**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
