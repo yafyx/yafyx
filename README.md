@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Me Into Your Heart**<br>Upleaf<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5f03861dbe9ad41357c4bdcde2d6ff4b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love**<br>Elephant Kind<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a94c3770e4754cd101c1d973f5c13ed0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No More Like That**<br>Eiafuawn<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers Again**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
