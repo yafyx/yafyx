@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Distant Memories**<br>Kurosuke<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky**<br>Crying City<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/401917f4ea6604b4aa367917e7a3d4ba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**and Forevermore**<br>Daniel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
