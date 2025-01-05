@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ea95dac13b9cc5a74e8506870dee1eec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**如常**<br>No Party For Cao Dong<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b5bd499be20581718de6c6632e67ced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**密やかに**<br>Lamp<br clear="left">
