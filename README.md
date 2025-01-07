@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ea95dac13b9cc5a74e8506870dee1eec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**如常**<br>No Party For Cao Dong<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck on the Puzzle**<br>Alex Turner<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b5bd499be20581718de6c6632e67ced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**密やかに**<br>Lamp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Weird Fishes / Arpeggi**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breathe (In the Air)**<br>Pink Floyd<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Automatic Stop**<br>The Strokes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,7 +53,7 @@ Doing silly programming things
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Sure**<br>American Football<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
