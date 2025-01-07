@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f921118f7455d60fb9e48357f8e73573.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tapi**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**YOURS**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66092948eafe43ffc331bfd6f13c875a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wot's...uh the Deal**<br>Pink Floyd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e20a43d51a8ebea25ad20aa0be28d85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Come Back with Me**<br>Siggerr<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**THE GIRL WILL BE OKAY**<br>RC AVENUE<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
