@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08beb21c6354a709aed01faf77ec0aea.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's just you, my dear**<br>asumuh<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream house**<br>12BH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**mona lisa**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/10117215863a5228b940168ac752e694.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Soju**<br>Jesse Barrera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/41a087f474e9ff62f40fea49f2ea2129.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**annie.**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f27f8c5d3828528b5f3494414481fe8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Steal This Night**<br>Rocco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/825edd6c0ca1aff538c9756af88d8c71.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heartbeat**<br>siopaolo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
