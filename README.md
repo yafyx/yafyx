@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ac3bcf2d7e6fd3cfe692122b1135843.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cico Buff**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f921118f7455d60fb9e48357f8e73573.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tapi**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df3fbf6c1d3a425c8e1140f98c888dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gagging Order**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**On Earth**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66092948eafe43ffc331bfd6f13c875a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wot's...uh the Deal**<br>Pink Floyd<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
