@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck on the Puzzle**<br>Alex Turner<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bullet Proof ... I Wish I Was**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Weird Fishes / Arpeggi**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Place to Be**<br>Nick Drake<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breathe (In the Air)**<br>Pink Floyd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**But the Regrets Are Killing Me**<br>American Football<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Automatic Stop**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
