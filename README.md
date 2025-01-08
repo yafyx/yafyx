@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream house**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
