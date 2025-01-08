@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/be7d7c515d4bbd90eb10d62b51a4fffb91d48d57): Update README.md - 08-01-2025
+[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/424f8be1237f96daf03ee632e72ca767ea0032cc): Update Admin Dashboard: Simplify recent chats handling and update header title. Enhance chat display with sender images and optional chaining for sender/receiver names. - 08-01-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
