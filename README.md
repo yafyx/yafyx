@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/2fe9951bd8ed25745c7380f17d90fce49fc04cb4): Add medicine search functionality to chat component - 07-01-2025
+[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/be7d7c515d4bbd90eb10d62b51a4fffb91d48d57): Update README.md - 08-01-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
