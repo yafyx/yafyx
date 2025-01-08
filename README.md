@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/f49ac98930405049da6732bfbc52e523bddd553d): Update chat and stats fetching in admin pages - 08-01-2025
+[pharmatalk-next](https://github.com/yafyx/pharmatalk-next/commit/8e827aed98669499bc02e2b85f5562447ba55129): Update README.md - 08-01-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
