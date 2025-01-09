@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mati Suri**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c84ecfdec30cbcc4cc17f7bbbfc5228.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maju**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d95051e07a714889c8f7fbbccf61bf8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**In the Aeroplane Over the Sea**<br>Neutral Milk Hotel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Expectation**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Sure**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Apa Yang Tak Bisa**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
