@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/535359c59f45494dc91be0847671a1b8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Something Changed**<br>Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/974b110dc0cb03da388b0835112fadb2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Space Travel Is Boring**<br>Sun Kil Moon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The One With the Wurlitzer**<br>American Football<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75f21e82af9941a78c97a1a90ea4a9c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**almost fantasy**<br>Fog Lake<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,9 +51,9 @@ Doing silly programming things
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**(Nice Dream)**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Sure**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
