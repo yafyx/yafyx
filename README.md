@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7fcf77a6d248cbe6ea50f8daf3991c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**lost in you**<br>Oftn<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8a8005c421e0ebf534a5842ed7ebefe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**on ur mind**<br>Takayoshi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91f129d52292a729f89c1929372de726.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you don't know what you got**<br>Takayoshi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**another day**<br>Takayoshi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89bd85251cb3566372f8180dd82e1906.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**endlessly**<br>Bixby<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**dreams about you**<br>cykim<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
