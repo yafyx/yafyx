@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d59fb77b86ba4dd5d7f99c34564a56ce.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Knives Out**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
