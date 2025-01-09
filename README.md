@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menunggang Badai**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Siapa yang akan Datang ke Pemakamanmu Nanti?**<br>Hindia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2918d0428743781e8730636f8d57ac25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pikiran dan Perjalanan**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91f129d52292a729f89c1929372de726.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you don't know what you got**<br>Takayoshi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89bd85251cb3566372f8180dd82e1906.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**endlessly**<br>Bixby<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
