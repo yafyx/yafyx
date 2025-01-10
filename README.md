@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bbecac8015fa2126223eaf6edd30f4a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**gazebo**<br>potsu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything in Its Right Place**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61fab0ff36e3f1473d28bd1f8b19d1d2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Waiter**<br>Folk9<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e1b1788db344b63d0495af534e1c3a45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It All (Happens Suddenly)**<br>Fadhilonn<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb4862c27d5ff292b8846bb6468b3377.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lua**<br>Bright Eyes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream house**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/466ee1232cea0c84851b889887f3a495.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
