@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the more i try to trace you forthwith, the less i want to know where to find you**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bbecac8015fa2126223eaf6edd30f4a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**gazebo**<br>potsu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61fab0ff36e3f1473d28bd1f8b19d1d2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Waiter**<br>Folk9<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e1b1788db344b63d0495af534e1c3a45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It All (Happens Suddenly)**<br>Fadhilonn<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream house**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
