@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything in Its Right Place**<br>Radiohead<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb4862c27d5ff292b8846bb6468b3377.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lua**<br>Bright Eyes<br clear="left">
