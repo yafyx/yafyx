@@ -37,6 +37,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me, never let go**<br>Rocco<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/69628d7606c8e3916141050c32505a9e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Was I Made For? [From the Motion Picture "Barbie"]**<br>Billie Eilish<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here's Where the Story Ends**<br>The Sundays<br clear="left">
