@@ -8,6 +8,8 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[hulio-studio](https://github.com/yafyx/hulio-studio/commit/23474ea9782b274dc9fa39ca8f06c68356361fcf): Add utility functions, types, and components for booking system - 13-01-2025
+
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
 [agroplan](https://github.com/yafyx/agroplan/commit/798691c3cbeaadaa0fd4799877e5efa9197fde00): fix typo - 13-12-2024
@@ -25,8 +27,6 @@ Doing silly programming things
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
-
-[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
 </td>
