@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hulio-studio](https://github.com/yafyx/hulio-studio/commit/23474ea9782b274dc9fa39ca8f06c68356361fcf): Add utility functions, types, and components for booking system - 13-01-2025
+[hulio-studio](https://github.com/yafyx/hulio-studio/commit/5d9256c43e54720c9c0a0f90634e07070033bac1): feat: add time input field with dynamic value and change handler - 13-01-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
