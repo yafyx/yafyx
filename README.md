@@ -37,6 +37,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6a3abe714e38640f0dd2d8885082faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loneliness**<br>DECALIUS<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3006824aaf5826b0e2cb8823a5933c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Norwegian Crush**<br>Kaveh Kanes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**only if you weren’t so loud.**<br>eleventwelfth<br clear="left">
