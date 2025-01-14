@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canggih**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Realize**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2df76df7ead648eb8d4f242429a685a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Emma**<br>Bon Iver<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b148dbdd2bfcb6246807e7c6ccf2278.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SheSheShe**<br>TAMAGO<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
