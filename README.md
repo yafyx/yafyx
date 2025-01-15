@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5686e36046e94ae998baf6b015284ace.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High Tide**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6a3abe714e38640f0dd2d8885082faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loneliness**<br>DECALIUS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3006824aaf5826b0e2cb8823a5933c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Norwegian Crush**<br>Kaveh Kanes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Obsessed**<br>Eastcape<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0b48cc5274f44258818bb33aaf0c646.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Have You?**<br>Polyester Embassy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
