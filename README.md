@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hulio-studio](https://github.com/yafyx/hulio-studio/commit/8e2a01f3d7ad2e0d4bc91c09933863446017c437): downgrade react Dependency - 14-01-2025
+[hulio-studio](https://github.com/yafyx/hulio-studio/commit/3fc689176bc362baa4b5d14ec9f9193ee279f1b4): Add Open Graph metadata for Hulio Studio and update favicon.ico - 15-01-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
