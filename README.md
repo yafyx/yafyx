@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**On My Own, Again**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Faults**<br>Sleep Shelter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/886ae797a538474ba0dfc371a36d04b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Esok**<br>The Adams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
