@@ -8,7 +8,7 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hulio-studio](https://github.com/yafyx/hulio-studio/commit/5d9256c43e54720c9c0a0f90634e07070033bac1): feat: add time input field with dynamic value and change handler - 13-01-2025
+[hulio-studio](https://github.com/yafyx/hulio-studio/commit/8e2a01f3d7ad2e0d4bc91c09933863446017c437): downgrade react Dependency - 14-01-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
