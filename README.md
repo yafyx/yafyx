@@ -8,8 +8,6 @@ Doing silly programming things
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hulio-studio](https://github.com/yafyx/hulio-studio/commit/3fc689176bc362baa4b5d14ec9f9193ee279f1b4): Add Open Graph metadata for Hulio Studio and update favicon.ico - 15-01-2025
-
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
@@ -27,6 +25,8 @@ Doing silly programming things
 [timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
+
+[statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 <!-- recent_commits ends -->
 
 </td>
