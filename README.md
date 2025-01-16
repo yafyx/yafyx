@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nirrrlaba**<br>Lomba Sihir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**my angel**<br>Adrianne Lenker<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canggih**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Savior Complex**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8cf706e07116a992a149f79ee60fdb16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bitter to See You**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Punisher**<br>Phoebe Bridgers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/431f51f7525d2724d6f2e1eaf0867c7f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It'll All Work Out (Bonus Track)**<br>Phoebe Bridgers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
