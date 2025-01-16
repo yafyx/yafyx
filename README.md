@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blood On My Hands**<br>The Sundays<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e606a81febdfccd074a04c625bf56973.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serpentskirt - Remastered 2006**<br>Cocteau Twins<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry**<br>The Sundays<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**my angel**<br>Adrianne Lenker<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Savior Complex**<br>Phoebe Bridgers<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Punisher**<br>Phoebe Bridgers<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/431f51f7525d2724d6f2e1eaf0867c7f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It'll All Work Out (Bonus Track)**<br>Phoebe Bridgers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
