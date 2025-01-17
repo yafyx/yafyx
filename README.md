@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d3de1fe8f4455baaa4f129044a8b0397.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flowers**<br>Astera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bathroom**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Expectation**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +53,7 @@ Doing silly programming things
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Sure**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
