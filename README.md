@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/466ee1232cea0c84851b889887f3a495.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Goodbye**<br>Jeff Buckley<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e606a81febdfccd074a04c625bf56973.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serpentskirt - Remastered 2006**<br>Cocteau Twins<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**my angel**<br>Adrianne Lenker<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
