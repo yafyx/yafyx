@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bathroom**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b96a1ace661b3a9f092278e2d64dcf5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ocean tide**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Expectation**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Urn**<br>Crying City<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
