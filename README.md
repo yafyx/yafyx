@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**infinity**<br>asumuh<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26f1c0a9c370c9b1364cb2af7eee84c9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**forever &**<br>EJEAN<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**infinity**<br>asumuh<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**dreams about you**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b96a1ace661b3a9f092278e2d64dcf5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ocean tide**<br>cykim<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40ccf679f2d24a2ee3032c2038bfa6c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forevermore**<br>HangSung<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40ccf679f2d24a2ee3032c2038bfa6c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forevermore**<br>HangSung<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
