@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d97230ef8fd5bd5e5188f25483b7a068.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**better (with you)**<br>Crying City<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**peach eyes**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b341ac7dc30fa313f3f3a3113d04d2b9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**love languages**<br>CHSKA<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
