@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/248af11b8f09f9fb20fd8e4d58b8f8d4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer**<br>The Volunteers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/39be3846bbc7bcfa40ece935a7cbb099.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**darling, he lied**<br>Bixby<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb74357e172fd77c4533a7793fdca589.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pages**<br>WIMY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f2238c6b8e02300827a72d3fa766277.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twenty Two**<br>Damdamgugu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f2238c6b8e02300827a72d3fa766277.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Late Summer**<br>Damdamgugu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a94d6e63efadd36ddc92cfb4d8bbc1dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tip Toe**<br>Hybs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
