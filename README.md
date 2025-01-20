@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**BELIEVE**<br>PRYVT<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c075435f3dc42ad6459bd00228eb520f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**light**<br>wave to earth<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**beck.**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
