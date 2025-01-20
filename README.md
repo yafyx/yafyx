@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/39be3846bbc7bcfa40ece935a7cbb099.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**darling, he lied**<br>Bixby<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6052e3eebb9050386ed016fa78d8f354.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lily of the Valley**<br>Daniel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f2238c6b8e02300827a72d3fa766277.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twenty Two**<br>Damdamgugu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Architect**<br>Crying City<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bad**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08beb21c6354a709aed01faf77ec0aea.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's just you, my dear**<br>asumuh<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
