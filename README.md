@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**hear the way**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**annie.**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e09ef9f754e15ca3eb43eacc1dae1c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**BLUFF**<br>Yel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Am I To U?**<br>Yel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44ad54e0e92dddd22493d5f47171617d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'VE SEEN THIS MOVIE BEFORE**<br>Hyejin<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
