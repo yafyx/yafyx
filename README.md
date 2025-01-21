@@ -12,13 +12,9 @@ Doing silly programming things
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
 
-[agroplan](https://github.com/yafyx/agroplan/commit/798691c3cbeaadaa0fd4799877e5efa9197fde00): fix typo - 13-12-2024
-
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 
 [baak-api](https://github.com/yafyx/baak-api/commit/ed24a3d7c406d210b197fae964a785f52bbc3837): Translate README.md to Indonesian and add .gitignore file - 10-12-2024
-
-[agroplan-api](https://github.com/yafyx/agroplan-api/commit/71ee60d0cea6dd63cdc3f1aac7706cae7dd8f22e): change predict value - 17-09-2024
 
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
@@ -27,6 +23,10 @@ Doing silly programming things
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
+
+[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
+
+[custom-oh-my-posh-theme](https://github.com/yafyx/custom-oh-my-posh-theme/commit/70f613102821766ad2a5f408404d9c111197f21b): Create yfyx.json - 10-10-2023
 <!-- recent_commits ends -->
 
 </td>
@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**0214**<br>Yel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86bb9da4e003ca985462dcabe595ba9b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maybe We Could Be a Thing**<br>Jesse Barrera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7f223bc802f1b1ef2baba778d316f9b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**WASH AWAY**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d97230ef8fd5bd5e5188f25483b7a068.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**better (with you)**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Urn**<br>Crying City<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08beb21c6354a709aed01faf77ec0aea.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's just you, my dear**<br>asumuh<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Sorrowful Reunion**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
