@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b96a1ace661b3a9f092278e2d64dcf5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ocean tide**<br>cykim<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ba49c27dbfaaa2fb96fba19c5309bde6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Polaroid**<br>Schoolgirl byebye<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6052e3eebb9050386ed016fa78d8f354.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lily of the Valley**<br>Daniel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5446f70a2fa85cb4439414755966471b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**annie.**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e776bb2a7e2747b277b93302eed362f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long As We Stay**<br>FUGŌ<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
