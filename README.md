@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**hear the way**<br>cykim<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e09ef9f754e15ca3eb43eacc1dae1c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**BLUFF**<br>Yel<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44ad54e0e92dddd22493d5f47171617d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'VE SEEN THIS MOVIE BEFORE**<br>Hyejin<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
