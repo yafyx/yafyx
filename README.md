@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e89a2ca55d614cf9be4d1c1a25764207.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**love... at first sight?**<br>Regina Song<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**0214**<br>Yel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**potential for love**<br>Adriel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86bb9da4e003ca985462dcabe595ba9b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maybe We Could Be a Thing**<br>Jesse Barrera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a99869a7a68dddadf84e2f889d930ccc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out of Melodies**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d97230ef8fd5bd5e5188f25483b7a068.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**better (with you)**<br>Crying City<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**calla**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08beb21c6354a709aed01faf77ec0aea.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's just you, my dear**<br>asumuh<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
