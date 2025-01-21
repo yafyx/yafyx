@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a99869a7a68dddadf84e2f889d930ccc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daisy**<br>Delorians<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**1 for U**<br>Xerikho<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7500a7cf301dd964a6498f65a89d66dc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**with you.**<br>asumuh<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serenity**<br>KIDO3008<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72147a27e4e83785a402810b8a686edb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**BEAUTiFUL**<br>Paul Partohap<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
