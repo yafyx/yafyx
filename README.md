@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a99869a7a68dddadf84e2f889d930ccc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baby Don't Cry**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a99869a7a68dddadf84e2f889d930ccc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mind**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3be40e6abb2058527c07b4bf110f128.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prettiest To Me**<br>Hybs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Fallin For You**<br>Farthai<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**mona lisa**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Say That You're Mine**<br>JSO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Lemonade**<br>citygodok<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter To Mars**<br>Rocco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
