@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ba49c27dbfaaa2fb96fba19c5309bde6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Polaroid**<br>Schoolgirl byebye<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky**<br>Crying City<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
