@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/90b7d611c17ca1baaafd5a42302335cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If U Want Me 2**<br>LayZi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/524044b81c3453396b2a319c1b8f26ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know**<br>Fiona Apple<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c416e70f07829204a1a336fe913931d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Me & You**<br>Tokyo Tea Room<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a1bd8f8f160885630552956454747a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teenage Blue**<br>Dreamgirl<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14baef943782e643384546149d098415.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nosebleed Seats**<br>Vansire<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4512de4c362771f6f58686f7dc0c60d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Glow**<br>VACATIONS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e98e3f15a95ec2ae595be7b16385a0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irony Would Have It**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fcb13263fda1e40fbd5bef5bbe75632.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Halcyon Age**<br>Vansire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
