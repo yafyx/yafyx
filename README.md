@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b152f7a1f9a84ae5d0d1fd8942422e31.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0fa007956816a4acd1bf361b761e364c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sea, Swallow Me - 2024 Remaster**<br>Cocteau Twins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/403d95a4671922a60ef05cf8882d1857.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**These Days**<br>Nico<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f3dd53076a4760c6394e68a3ebe9683.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**skin in the game**<br>Slowdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
