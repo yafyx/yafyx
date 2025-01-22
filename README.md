@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/524044b81c3453396b2a319c1b8f26ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know**<br>Fiona Apple<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**D>E>A>T>H>M>E>T>A>L**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a1bd8f8f160885630552956454747a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teenage Blue**<br>Dreamgirl<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1876f9f91df57eece4e55bb3c9365574.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Bug Collector**<br>Haley Heynderickx<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4512de4c362771f6f58686f7dc0c60d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Glow**<br>VACATIONS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paul - 2023 Remaster**<br>Big Thief<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fcb13263fda1e40fbd5bef5bbe75632.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Halcyon Age**<br>Vansire<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34df33d23f970baafdfea3f846e489f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cherry-Coloured Funk**<br>Cocteau Twins<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
