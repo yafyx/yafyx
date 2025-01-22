@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Romansa Mengejar Mimpi**<br>Romantic Echoes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c96ddf758bcaf869b0ac8ff5679bcecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mendekat Menjauh**<br>Coldiac<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**LUKEWARM**<br>Jordie Yose<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f921118f7455d60fb9e48357f8e73573.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tapi**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3100cdd806e01e848ebbd7fd1857c40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tentang Cita - Remastered 2023**<br>White Shoes & The Couples Company<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
