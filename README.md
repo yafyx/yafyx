@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/403d95a4671922a60ef05cf8882d1857.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**These Days**<br>Nico<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f3dd53076a4760c6394e68a3ebe9683.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**skin in the game**<br>Slowdive<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How to Disappear Completely**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
