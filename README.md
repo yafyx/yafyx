@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**D>E>A>T>H>M>E>T>A>L**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7178fb99c3c643bf6bc67b9f8515fbba.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Songs on the Radio**<br>Mojave 3<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1876f9f91df57eece4e55bb3c9365574.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Bug Collector**<br>Haley Heynderickx<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/827fbd1bac1d3ed232ec6c95a2526139.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over - 2011 Remaster**<br>The Smiths<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paul - 2023 Remaster**<br>Big Thief<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab5fafed3484610025812a001ca7a67e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bells Ring**<br>Mazzy Star<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34df33d23f970baafdfea3f846e489f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cherry-Coloured Funk**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3800a09ce5c24143a3249a7316aeaee6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'd Like to Walk Around in Your Mind**<br>Vashti Bunyan<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
