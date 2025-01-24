@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fa162f37fc2e7325e8cad3ceae3da72c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homicide freestyle**<br>Hyejin<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8a0848d6de033967f558d31b0dc4c3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wings**<br>So!YoON!<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4b493b786f8d1e5879602c36d78a1cc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**daisy.**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
