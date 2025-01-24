@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/273d57a8a65afe1a526e1645afc5647c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard to Love**<br>Crying City<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d03c3f983759debc8e34128bd7b9d75.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I can't go home, anymore**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f97514bdfe428bb02f61942e3a7c5a7d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Heart It Beats for You**<br>grentperez<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/647b15e7347b8f6341c4b0af08aeca9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Comin' Through**<br>Hojean<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**0214**<br>Yel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
