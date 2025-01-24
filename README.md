@@ -37,6 +37,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b632de99e5515626d001c40371ffa1fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau Bukan Satu-Satunya Laki**<br>The Dare<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b152f7a1f9a84ae5d0d1fd8942422e31.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
