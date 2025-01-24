@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0f45e9a45eb0473566db0afbbdff08.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**K**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fell In Love At 22**<br>Starflyer 59<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gwen Everest**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roda Asmara**<br>Soenji<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/74f05b741bd9481a88cf7b3b471697f1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Angel**<br>Mazzy Star<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Summer Ends**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
