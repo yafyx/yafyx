@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/273d57a8a65afe1a526e1645afc5647c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard to Love**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**potential for love**<br>Adriel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f97514bdfe428bb02f61942e3a7c5a7d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Heart It Beats for You**<br>grentperez<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fa162f37fc2e7325e8cad3ceae3da72c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homicide freestyle**<br>Hyejin<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/647b15e7347b8f6341c4b0af08aeca9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Comin' Through**<br>Hojean<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8a0848d6de033967f558d31b0dc4c3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wings**<br>So!YoON!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/831f1e6e1cc904853517f8b5866c5efd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**0214**<br>Yel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4b493b786f8d1e5879602c36d78a1cc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**daisy.**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
