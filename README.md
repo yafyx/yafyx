@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0f45e9a45eb0473566db0afbbdff08.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**K**<br>Mac DeMarco<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gwen Everest**<br>Panchiko<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roda Asmara**<br>Soenji<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/29a10d8a404a2bc5d3a6d24268c53af3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Percuma**<br>Skandal<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maka Terjadilah Sekilas Kisah Murah**<br>Sore<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
