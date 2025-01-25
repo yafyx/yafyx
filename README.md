@@ -37,7 +37,7 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3d227fe6453f01428b67a2444ad172e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pleasure**<br>mmmarkos!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Turn Back**<br>Astera<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Persembahan Dari Masa Lalu**<br>Romantic Echoes<br clear="left">
 
