@@ -37,19 +37,21 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**potential for love**<br>Adriel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweetbitter**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fa162f37fc2e7325e8cad3ceae3da72c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homicide freestyle**<br>Hyejin<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Boots**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8a0848d6de033967f558d31b0dc4c3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wings**<br>So!YoON!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream No.24**<br>Rio<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**WASH AWAY**<br>Rio<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucky**<br>Crying City<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
 <!-- top_tracks ends -->
