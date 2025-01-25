@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9be4c4ffa8a51ac663f986d8aeaa1e58.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sleep**<br>Night Off<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cccbdf6b9e710c97c8861410266133a5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ntmc**<br>Night Off<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**space**<br>The Poles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60c73115130a6a37ee38f4bb6f8f8355.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**So, Again - New Ver.**<br>The Poles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bce8b570efb924a83280d4ce6226718.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heavy Heart**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61e93abee813b5c2744140b9427752c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nevertheless**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Rose Song**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
