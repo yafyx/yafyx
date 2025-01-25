@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cccbdf6b9e710c97c8861410266133a5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ntmc**<br>Night Off<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3d227fe6453f01428b67a2444ad172e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pleasure**<br>mmmarkos!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60c73115130a6a37ee38f4bb6f8f8355.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**So, Again - New Ver.**<br>The Poles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Persembahan Dari Masa Lalu**<br>Romantic Echoes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61e93abee813b5c2744140b9427752c1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nevertheless**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c4e4cc9de06d7039b540056aaede87c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye.**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/963324909a52a4baa0969714ae0a2089.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pueblo**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
