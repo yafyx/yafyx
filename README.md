@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1000 Tears Deep**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7549488ae9cad1108bd2c34eae748ce3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Memories**<br>Sunny Summer Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (quiet)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bury It Down - Remastered**<br>Yellow Flower Living Water<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
