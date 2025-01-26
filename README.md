@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76034468e8fe3b25e30ac57a5b29239d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canna**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3be40e6abb2058527c07b4bf110f128.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Killer**<br>Hybs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14c93a4e9a020b6283e7b17711403167.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Our FIlm**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8ecb2ff43ba480fb57a76c54406b79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letting Go**<br>Rehash<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**evening glow**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
