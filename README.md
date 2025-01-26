@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c99e6a19ba2c5bd70614a42ee1cb7cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Favorite Pillow**<br>Hyejin<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**evening glow**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
