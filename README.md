@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f486a5623b8f9e6fc987db3854576c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love**<br>Damdamgugu<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eaec3e1fbda29d44e50c2c02134af77.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tell me, will we survive?**<br>PRYVT<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
