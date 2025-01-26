@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76034468e8fe3b25e30ac57a5b29239d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canna**<br>Rio<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3be40e6abb2058527c07b4bf110f128.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Killer**<br>Hybs<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14c93a4e9a020b6283e7b17711403167.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Our FIlm**<br>Rio<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8ecb2ff43ba480fb57a76c54406b79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letting Go**<br>Rehash<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
