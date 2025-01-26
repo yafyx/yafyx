@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8ecb2ff43ba480fb57a76c54406b79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letting Go**<br>Rehash<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alison**<br>Slowdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
