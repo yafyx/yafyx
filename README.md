@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/29a10d8a404a2bc5d3a6d24268c53af3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Utara**<br>Skandal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bathroom**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a30db2907e22dedf3bf76d3c304560bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1978**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Drive A Lot**<br>Starflyer 59<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/084a5b512c5fecd9ced0c6e503db7844.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Adore U, regardless**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
