@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/29a10d8a404a2bc5d3a6d24268c53af3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Utara**<br>Skandal<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a30db2907e22dedf3bf76d3c304560bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1978**<br>Roadtrip to Antarctica<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Drive A Lot**<br>Starflyer 59<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45b1efe17c63c2567099e7f5976a8cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Muta**<br>Whirr<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
