@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e776bb2a7e2747b277b93302eed362f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long As We Stay**<br>FUGŌ<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Reason Why**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon & The Sun**<br>FUGŌ<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
