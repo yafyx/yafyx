@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5414bea53c7d5b491148cba68cccf782.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye.**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye-Bye**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under The Same Name**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Whailing**<br>Yellow Flower Living Water<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
