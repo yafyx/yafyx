@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d5b106892ca754bea4193353001d24eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**inference (i)**<br>Fog Lake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fc59bae691754012c011ca58e5a9ba21.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Better Time to Meet**<br>Adrianne Lenker<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pink Moon**<br>Nick Drake<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Realize**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7568c8fa48cc4fb6cf688fe89161f8a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Death With Dignity**<br>Sufjan Stevens<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fell In Love At 22**<br>Starflyer 59<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
