@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12b3b9de8208a80603ba58f189285c11.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**baby, come home**<br>WIMY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**YOURS**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4086c69feadc010ef62620a5dbb4741d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**moviestar**<br>asumuh<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a313639d3fe5d22033a07fd0ab91a8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love, My World Is Full**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/401917f4ea6604b4aa367917e7a3d4ba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**and Forevermore**<br>Daniel<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Boots**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15fcb04268a2f0eafc483126d1f212ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anybody**<br>Shae<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
