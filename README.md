@@ -37,6 +37,8 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**House of Cards**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a39a04103267495e81eb81054fa7430f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Piano Fire**<br>Sparklehorse<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fc59bae691754012c011ca58e5a9ba21.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Better Time to Meet**<br>Adrianne Lenker<br clear="left">
