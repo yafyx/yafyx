@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/556d45625a3c1eef794c9268b0c62750.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Promises**<br>Phantom Youth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9a328951c3a2a6c676022be6c347f10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Fling**<br>Milledenials<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca3f5f94550bfe58ef49b95bf93a9682.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gmod**<br>Mellowpunk<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1a93e486af5e0e42ffb297f76a31a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**November**<br>Growing Pains<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/086e650ff0bc7b068bb5d275c0a08a40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Je ne sais Quoi**<br>boycomma<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
