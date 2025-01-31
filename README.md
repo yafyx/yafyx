@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/556d45625a3c1eef794c9268b0c62750.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Promises**<br>Phantom Youth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf69cf4fbc155b7ae713e79f754ad3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slows Me Down**<br>Pet Fox<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9a328951c3a2a6c676022be6c347f10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Fling**<br>Milledenials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd2755705f4d561ec531e684535f6ed3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll take you everywhere**<br>österreich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca3f5f94550bfe58ef49b95bf93a9682.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gmod**<br>Mellowpunk<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/56501010c79a2e5771bf87617d1477e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**sequin lights**<br>You Could Be a Cop<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1a93e486af5e0e42ffb297f76a31a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**November**<br>Growing Pains<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6a0219498dd28ef0b889b1d50e31dcb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretend to Sleep**<br>Growing Pains<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
