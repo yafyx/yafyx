@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf69cf4fbc155b7ae713e79f754ad3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slows Me Down**<br>Pet Fox<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd2755705f4d561ec531e684535f6ed3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll take you everywhere**<br>österreich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/56501010c79a2e5771bf87617d1477e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**sequin lights**<br>You Could Be a Cop<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6a0219498dd28ef0b889b1d50e31dcb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretend to Sleep**<br>Growing Pains<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
