@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9a328951c3a2a6c676022be6c347f10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Fling**<br>Milledenials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d1d9aa580db77c5c0279f7bf5b9704d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Way Out**<br>ivri<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca3f5f94550bfe58ef49b95bf93a9682.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gmod**<br>Mellowpunk<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66698cc586f545b786c828424861ad1f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**faded blur**<br>Polyester Embassy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1a93e486af5e0e42ffb297f76a31a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**November**<br>Growing Pains<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/134586039db9ef91b2c3b4b7053fed65.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thank You Notes**<br>Parachute Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/086e650ff0bc7b068bb5d275c0a08a40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Je ne sais Quoi**<br>boycomma<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
