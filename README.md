@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9e32495f7c5792bde962ef926388965.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Secret Admirer**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/886ae797a538474ba0dfc371a36d04b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d1d9aa580db77c5c0279f7bf5b9704d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Way Out**<br>ivri<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the Time Being**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66698cc586f545b786c828424861ad1f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**faded blur**<br>Polyester Embassy<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/134586039db9ef91b2c3b4b7053fed65.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thank You Notes**<br>Parachute Day<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
