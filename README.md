@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Backseat Affairs**<br>Astera<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a30d168167ce2f931fd237a259ba9c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enouement**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
