@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6d1008dabee3bd2345de085599d4950a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rag Doll**<br>Pencil Legs<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
