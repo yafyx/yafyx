@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2a5aa5209a6f83acf3defc563cae7e4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Action Figures Fighting**<br>Hotel Ugly<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5894975698cc32797d30653db734d73d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**into the blackhole**<br>Hoax<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ALRIGHT**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cca4140d260bf0df68144720f7b8e8bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Précis Two**<br>Vansire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
