@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e1c2af66754a2c98906243c8796c58d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**that cool girl from the gig**<br>Palbia<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyday I Miss You**<br>Puff Punch<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yang Tercinta**<br>Romantic Echoes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
