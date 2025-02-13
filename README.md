@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forevermore**<br>Kurosuke<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbc08bd2d3ee4853670c6d494b49720e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where My Loved One Stayed**<br>Daniel<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4088db0b9c4b617f106c74fcd092c842.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Today's Weather Was a Failure**<br>Night Off<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e6373bc40263e010a6a776b0772f63f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I thought it was love.**<br>SaGong<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a6966c3be1b1836073fa472e892f7c4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About love**<br>Off The Menu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
