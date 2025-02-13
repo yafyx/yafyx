@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Boots**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe56b0e1701c373bb1016ae14392431d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**춤**<br>Damdamgugu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweetbitter**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Map On Your Face**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f914adc3a135d87581b34839eef72a66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No way home**<br>Off The Menu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream No.24**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7c197200f921e89e07d3cdff65d7146.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Green**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +53,7 @@ Doing silly programming things
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
