@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe56b0e1701c373bb1016ae14392431d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**춤**<br>Damdamgugu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4088db0b9c4b617f106c74fcd092c842.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Today's Weather Was a Failure**<br>Night Off<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6686e7ccbc1f9e0d0cf4c7dc1573f984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**orange flavored cigarettes**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e6373bc40263e010a6a776b0772f63f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I thought it was love.**<br>SaGong<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f914adc3a135d87581b34839eef72a66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No way home**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7c197200f921e89e07d3cdff65d7146.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Green**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a6966c3be1b1836073fa472e892f7c4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About love**<br>Off The Menu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
