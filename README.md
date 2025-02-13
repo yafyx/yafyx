@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7551b50218e34acd1db51d4ea2bb7cfe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menantang Rasi Bintang**<br>FSTVLST<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bernyanyi Menunggu**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Not Okay (I Promise)**<br>My Chemical Romance<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard Times**<br>Paramore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7551b50218e34acd1db51d4ea2bb7cfe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menantang Rasi Bintang**<br>FSTVLST<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
