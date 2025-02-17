@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d5d8c65067ad0b5a61219f13cdae3d14.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Floetry**<br>millkzy<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold Me Down**<br>Daniel Caesar<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f4f6d093a7b522b8e4d25c86a0aa23a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ovr it/u.**<br>Praise.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
