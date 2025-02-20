@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/455af04799dd66709d4267752dd24c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Metro**<br>rumahsakit<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Khawatir, Kawan**<br>Hindia<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2918d0428743781e8730636f8d57ac25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pikiran dan Perjalanan**<br>Barasuara<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac43368e6463bc92d33890f742c8e56f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bimbang - Remastered 2024**<br>Melly Goeslaw<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b152f7a1f9a84ae5d0d1fd8942422e31.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
