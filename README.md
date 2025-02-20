@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sometimes**<br>my bloody valentine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94f3583bf5a40e78c0da131a612437e0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**New Invention**<br>I DONT KNOW HOW BUT THEY FOUND ME<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/41178a3002067d2739a12c95942b9117.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roseblood**<br>Mazzy Star<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Sleep**<br>my bloody valentine<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/248af11b8f09f9fb20fd8e4d58b8f8d4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer**<br>The Volunteers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
