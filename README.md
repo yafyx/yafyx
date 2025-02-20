@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sometimes**<br>my bloody valentine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/41178a3002067d2739a12c95942b9117.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roseblood**<br>Mazzy Star<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Sleep**<br>my bloody valentine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Picture Soundtrack**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/248af11b8f09f9fb20fd8e4d58b8f8d4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer**<br>The Volunteers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
