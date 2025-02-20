@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Khawatir, Kawan**<br>Hindia<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Iron Lung**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2918d0428743781e8730636f8d57ac25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pikiran dan Perjalanan**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac43368e6463bc92d33890f742c8e56f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bimbang - Remastered 2024**<br>Melly Goeslaw<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How to Disappear Completely**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b152f7a1f9a84ae5d0d1fd8942422e31.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
