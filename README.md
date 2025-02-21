@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Knows I'm Miserable Now - 2011 Remaster**<br>The Smiths<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
