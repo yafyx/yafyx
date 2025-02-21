@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55d0bf5a060367aafa2302b89f49866e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Padi Milik Rakyat**<br>.Feast<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Seragam Ketat**<br>Lomba Sihir<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccffe2bc7d7dc94093bd4736d53a680a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
