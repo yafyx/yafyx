@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a04e0c3995c2f6912fd5aaf74ea2aa61.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You're Gone**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9df2abbdd41063d6ecbc4f2db1aa55e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d59ad62744be9b8d058662dca6204397.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget Her**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cancer**<br>My Chemical Romance<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Knows I'm Miserable Now - 2011 Remaster**<br>The Smiths<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
