@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55d0bf5a060367aafa2302b89f49866e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Padi Milik Rakyat**<br>.Feast<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Seragam Ketat**<br>Lomba Sihir<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccffe2bc7d7dc94093bd4736d53a680a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tears Are Holding Me Tight**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mosi Tidak Percaya**<br>Efek Rumah Kaca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
