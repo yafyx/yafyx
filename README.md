@@ -37,8 +37,6 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Call It Fate, Call It Karma**<br>The Strokes<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paul - 2023 Remaster**<br>Big Thief<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When the Sun Hits**<br>Slowdive<br clear="left">
