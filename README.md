@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jalan Tikus**<br>Lomba Sihir<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Watching Him Fade Away**<br>Mac DeMarco<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9df2abbdd41063d6ecbc4f2db1aa55e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selfless**<br>The Strokes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Knows I'm Miserable Now - 2011 Remaster**<br>The Smiths<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
