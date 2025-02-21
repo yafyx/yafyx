@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/248af11b8f09f9fb20fd8e4d58b8f8d4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer**<br>The Volunteers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you**<br>The caroline's<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/455af04799dd66709d4267752dd24c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Metro**<br>rumahsakit<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7458dc26471923cf0d493351fc273a9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Khawatir, Kawan**<br>Hindia<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
