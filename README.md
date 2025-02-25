@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c027352af6b70094afbcb4375be594ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melankolia**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f300a54609dc4d5fcdc62af8e82d810c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fakta Dan Citra**<br>Monkey To Millionaire<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a94c3770e4754cd101c1d973f5c13ed0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No More Like That**<br>Eiafuawn<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/da3ebde64761a4920f4badbc59d879af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Have The Moon**<br>Lush<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +51,7 @@ Doing silly programming things
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
