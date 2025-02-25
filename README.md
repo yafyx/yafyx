@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abcbd7ec5a4db8a67daebe51ec5d4e17.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Would You Be So Kind**<br>dodie<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**feels good to be loved (i think)**<br>Arash Buana<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**a trip to the rainbow road**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
