@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rollercoaster**<br>Midnight Lobster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a94c3770e4754cd101c1d973f5c13ed0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No More Like That**<br>Eiafuawn<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**WE ALWAYS KNEW**<br>TOFU (TH)<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/da3ebde64761a4920f4badbc59d879af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Have The Moon**<br>Lush<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae4026af42f4c5f76d79f4a37f13db0f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Here When You're Back**<br>Beaux<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lift**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
