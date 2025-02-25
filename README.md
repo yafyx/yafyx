@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c84ecfdec30cbcc4cc17f7bbbfc5228.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maju**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d06dcf91d79a57eda0f57aea979d7079.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala**<br>Perunggu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Rose Song**<br>Rio<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/692d2f6ac0ce204a3eaf24ab323983d6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diego Superego**<br>Rimba<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
