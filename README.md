@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9f39472f6302e74190ff3add237dc9b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**semua lagu cinta terdengar sama**<br>Hindia<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9f39472f6302e74190ff3add237dc9b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**the world is ending all over again**<br>Hindia<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Honey**<br>Porch Light<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
