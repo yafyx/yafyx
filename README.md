@@ -47,11 +47,11 @@ Doing silly programming things
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
