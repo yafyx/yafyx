@@ -37,7 +37,7 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f768a04eeb23a23500fb79a2de48414a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Noir Scene and The White Sheep Before I Sleep**<br>Ray Viera Laxmana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5fcde1113d15a623c2f24991922c324.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Story of Teenage Love**<br>White Chorus<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Life You Wanted**<br>Tanjung<br clear="left">
 
