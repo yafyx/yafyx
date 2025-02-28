@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarung Bebas**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c1449b38b0093d9fab3f20c026c622.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Caldera<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reciprocal View of the Seashore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Etalase**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
