@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c1449b38b0093d9fab3f20c026c622.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Caldera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leave**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reciprocal View of the Seashore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Elastic Hearts**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/716e5940dae2bc4e282077aa7d5adf0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bermuda**<br>Bilal Indrajaya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
