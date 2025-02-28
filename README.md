@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jalan Tikus**<br>Lomba Sihir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1aa05a5a8ce84bceda4c971f58c54978.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Affectionate Affair**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a67ea7dd1f6a8c04312538a2f40f9a34.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Belum Tentu**<br>.Feast<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ebab4f1267294a49a73a586f55a7c868.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Setapak Sriwedari**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Making Memories**<br>Tanjung<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**LUKEWARM**<br>Jordie Yose<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
