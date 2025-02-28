@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0b48cc5274f44258818bb33aaf0c646.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Have You?**<br>Polyester Embassy<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Leave**<br>Puremoon<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Elastic Hearts**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/716e5940dae2bc4e282077aa7d5adf0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bermuda**<br>Bilal Indrajaya<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
