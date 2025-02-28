@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Himalaya**<br>MALIQ & D'Essentials<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merayakan Fana**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e95c2cb3328617635cdf277e5783bb42.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gugatan Rakyat Semesta**<br>.Feast<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d51f511f1e1bbedbd5c8b166cc20e8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**His Way**<br>FUGŌ<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
