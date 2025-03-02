@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/144d388221ab248153b037819583a203.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daisy**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8ecb2ff43ba480fb57a76c54406b79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letting Go**<br>Rehash<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/423cb46225829fb49f97b9f6c90e882f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Felt So Alone**<br>Labrinth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f69fdf1f27e87f97c7e59d3f9b316539.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ghost**<br>Megumi Acorda<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aff72df0cb56c297fd62ae7b809214ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**stars burn out**<br>cykim<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hurts Me Too**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de915bce509904328f870e8c52a47c6b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Organon**<br>Men I Trust<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Butt**<br>Bubble Tea and Cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
