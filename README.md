@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fe56b0e1701c373bb1016ae14392431d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**춤**<br>Damdamgugu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f69fdf1f27e87f97c7e59d3f9b316539.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unexpectedly**<br>Megumi Acorda<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bonfire**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ec497e801200146c55c6afe5d677519.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over the Moon**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**so real**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birch Tree**<br>Strawberry Guy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
