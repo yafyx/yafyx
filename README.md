@@ -42,8 +42,6 @@ Doing silly programming things
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dried flower**<br>wave to earth<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2553ac661cedd3542e42578c7eceb00e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How It Goes**<br>Sweet Mylo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
