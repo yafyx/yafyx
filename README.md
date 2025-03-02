@@ -37,13 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3064edc467b05a9a509ff113ecf9eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 Hold U**<br>Clairo<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**so real**<br>wave to earth<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**5AM Empanada with You**<br>Bubble Tea and Cigarettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f4383b31b008f60b77c0fb298d1b8ee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ballad of Better Land**<br>Musogabi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
