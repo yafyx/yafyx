@@ -37,13 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fec5db8a897691ade6f20cbaf2142ba7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**stuck on you**<br>April June<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bonfire**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dried flower**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ec497e801200146c55c6afe5d677519.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over the Moon**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birch Tree**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2553ac661cedd3542e42578c7eceb00e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How It Goes**<br>Sweet Mylo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
