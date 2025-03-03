@@ -37,11 +37,11 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fec5db8a897691ade6f20cbaf2142ba7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**stuck on you**<br>April June<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c008dfdbe0899c23f85126424dd6cc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menepi**<br>The Rain<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dried flower**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2810b4cb1ff4439894c25afa311ced91.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rahasia Hati**<br>The Rain<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intermission**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68f89dcd0a5c8f2ff72b85b64db42325.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gagal Bersembunyi**<br>The Rain<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
