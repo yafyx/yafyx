@@ -37,11 +37,13 @@ Doing silly programming things
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c008dfdbe0899c23f85126424dd6cc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menepi**<br>The Rain<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91c0b50106662227e0e704af90f4c570.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diana**<br>Well Whale<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2810b4cb1ff4439894c25afa311ced91.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rahasia Hati**<br>The Rain<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68f89dcd0a5c8f2ff72b85b64db42325.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gagal Bersembunyi**<br>The Rain<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alter Ego**<br>Roadtrip to Antarctica<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
