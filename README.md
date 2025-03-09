@@ -1,4 +1,4 @@
-Doing silly programming things
+i just git push and pray
 
 <img src="https://skillicons.dev/icons?i=golang,php,python,typescript,nodejs,laravel,nextjs,react,tailwind,prisma,supabase,figma,mongodb,mysql,postgresql" />
 
