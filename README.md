@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a741bcc09687871839c77b5d40e096d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take Me**<br>Dreane<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91c0b50106662227e0e704af90f4c570.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diana**<br>Well Whale<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -49,9 +51,9 @@ i just git push and pray
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Arteri**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pikiran dan Perjalanan**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
