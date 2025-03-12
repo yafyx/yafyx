@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**House of Cards**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Subterranean Homesick Alien**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cupid De Locke - Remastered 2012**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3954d56601f31106b0be09fe183947ce.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Dream with a Baseball Player**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/74f05b741bd9481a88cf7b3b471697f1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Halah**<br>Mazzy Star<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dfc90eece3bcdfbfe7c860d1f54477b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Needs Him**<br>Her's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untuk Bunga**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Right Side of My Neck**<br>Faye Webster<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
