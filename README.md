@@ -37,13 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Four Summers**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/36392ea1546e0f7b4525394da33215f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Know Who You Are At Every Age - Remastered 2006**<br>Cocteau Twins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ebc53796f18f4c4bba97a26b71b4e0ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Well I Wonder - 2011 Remaster**<br>The Smiths<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/74f05b741bd9481a88cf7b3b471697f1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Angel**<br>Mazzy Star<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3332b3cee5de8598dbd080f8e2783f93.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Place Where He Inserted The Blade**<br>Black Country, New Road<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
