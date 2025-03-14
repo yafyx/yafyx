@@ -8,9 +8,9 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/e6a04fd1009857d6b401cfa7b61bada5a0e1147d): Enhance application configuration and documentation; enable experimental Turbo feature in Next.js, update README with project overview, features, and setup instructions, and improve layout metadata for better mobile support. - 14-03-2025
 
-[ugcnn](https://github.com/yafyx/ugcnn/commit/d9ccf18ee1bd880d75222dbdc9738d7c1c195649): Add PWA support with service worker and manifest configuration - 15-12-2024
+[pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 
