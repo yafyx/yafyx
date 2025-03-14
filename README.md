@@ -37,8 +37,6 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eecfa1d397190fab164347d7c6cdae9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just**<br>The Adams<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0b48cc5274f44258818bb33aaf0c646.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Have You?**<br>Polyester Embassy<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
