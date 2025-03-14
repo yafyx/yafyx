@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/f9fc9d8c301bf34b4875ac4553a8941af314800e): Update layout and enhance UI components; update viewport colors, improve background elements, and refine error handling in Home and Timeline components for better user experience. - 14-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/6aa52dea4c4aed41d9b3297be801d541f275c6b5): Update package dependencies; add Geist - 14-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5f64f1912aebaef21c9bd18a5d19219b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Portland - Single Version**<br>rebelsuns.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eecfa1d397190fab164347d7c6cdae9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just**<br>The Adams<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Four Summers**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0b48cc5274f44258818bb33aaf0c646.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Have You?**<br>Polyester Embassy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d6a1f21a6c4f08b5f3c63fb53552a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laki-laki Pemalu**<br>Pandai Besi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
