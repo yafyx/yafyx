@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/40f7070dfdebb2feb0e459fe59a2a9b988e27ef6): Add horizontal scrolling to Timeline component; implement mouse event handlers for scroll sensitivity and display scroll instructions - 14-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/38e10686a1695876dd174ef0cf0f699f46c50ff9): Update Timeline component and update font configuration; wrap Timeline in a div for better layout, remove maximum height constraint for events display, and switch to Geist font family. - 14-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
