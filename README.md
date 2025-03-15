@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/5bb25b6cea0a8a136f97fa82d6bcb159e2eeec31): Update Home component layout and styles - 15-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/d184cd9e35d3e1f3c2119c56194604880e8b0464): Refine Timeline component gradient styles for enhanced visual consistency and improved dark mode support - 15-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
