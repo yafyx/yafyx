@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/ca61e46c453e4b9390d15937f86212359d0a24ab): Refine Timeline component styles for improved visual clarity - 15-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/2a78b82b2fba39a083f917e4480ac275d85aa945): Enhance Timeline component functionality - 15-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
