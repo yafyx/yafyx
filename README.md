@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/3d42eb9e510319013e514d80b26471dfc6d85bb4): Update SearchResults component by removing Card components and replacing them with divs for a cleaner layout - 15-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/589ba9c501cd1902d997575e56d27f15ec967add): Update Timeline component minor ui changes - 16-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
