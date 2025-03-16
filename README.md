@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/589ba9c501cd1902d997575e56d27f15ec967add): Update Timeline component minor ui changes - 16-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/c3543db1c8227ca22bc2bff7ef5506c06440a82f): Update Home and SearchForm components with improved UI elements, validation handling, and layout adjustments; added new components like CardFooter and Chip for better user experience, and updated Timeline component for visual consistency. - 16-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
