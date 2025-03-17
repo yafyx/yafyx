@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/4a978be3a6b37aff74ce2e2f654980a49fb29689): Prevent the blue overlay from appearing when users tap on timeline events on mobile devices - 17-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/0c1455d3fa4a5ffcf15b36fecd5a0880376e9950): Utilize dynamic imports for improved loading performance; integrate Suspense for better handling of loading states, and replace skeleton loading with a dedicated TimelineSkeleton component for enhanced user experience. - 17-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
