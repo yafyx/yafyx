@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paranoia**<br>The Marías<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**blue salvia**<br>PRYVT<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anything You Want**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdf516d223a80cc4ea10d5cde96c1af5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothin' Without You**<br>HangSung<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3eecfa1d397190fab164347d7c6cdae9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just**<br>The Adams<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
