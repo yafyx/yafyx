@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/d7bfd7b5f1b47b74697403543d3896dd358c2d2f): Removed arrow down icon anomaly - 17-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/5e1f58e7f3aef3c9c61d83a80c2992cd38f3fd52): Update project name to "UG Pulse" - 17-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
@@ -37,13 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89473c46eb240a97039f340b6ae61067.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking About You**<br>Faye Webster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/655875346b507ca00c33e2a72ca788e7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**H.S.K.T. (feat. Wonstein)**<br>LeeHi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/824921f6bdcf5846a4f5c25654abbbf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roommates**<br>Malcolm Todd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bags**<br>Clairo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juna**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/655875346b507ca00c33e2a72ca788e7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ONLY**<br>LeeHi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
