@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/39935795543f882d7552dd4f8522eb86de4ddef2): Better skeleton loading on timeline - 17-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/4a978be3a6b37aff74ce2e2f654980a49fb29689): Prevent the blue overlay from appearing when users tap on timeline events on mobile devices - 17-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
