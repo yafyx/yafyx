@@ -8,9 +8,9 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/39935795543f882d7552dd4f8522eb86de4ddef2): Better skeleton loading on timeline - 17-03-2025
 
-[ugcnn](https://github.com/yafyx/ugcnn/commit/5e1f58e7f3aef3c9c61d83a80c2992cd38f3fd52): Update project name to "UG Pulse" - 17-03-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
