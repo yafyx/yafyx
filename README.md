@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/a63715a5e1cce96f555c357f52802c74752ae338): Fix context deadline exceeded by increase HTTP client timeout - 17-03-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/79589ab9185d8ed0495ff4e99f5eef9ba4d10e9a): Update Go version, dependencies, and enhance README with API features and endpoints - 17-03-2025
 
 [ugcnn](https://github.com/yafyx/ugcnn/commit/5e1f58e7f3aef3c9c61d83a80c2992cd38f3fd52): Update project name to "UG Pulse" - 17-03-2025
 
