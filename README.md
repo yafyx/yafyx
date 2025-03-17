@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/044b4033b444886b14e057ed62fb42266701ef94): Add TypeScript configuration to ignore build errors - 16-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/d7bfd7b5f1b47b74697403543d3896dd358c2d2f): Removed arrow down icon anomaly - 17-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paranoia**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89473c46eb240a97039f340b6ae61067.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking About You**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**blue salvia**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/824921f6bdcf5846a4f5c25654abbbf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roommates**<br>Malcolm Todd<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anything You Want**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bags**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdf516d223a80cc4ea10d5cde96c1af5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothin' Without You**<br>HangSung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juna**<br>Clairo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
