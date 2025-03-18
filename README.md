@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/655875346b507ca00c33e2a72ca788e7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**H.S.K.T. (feat. Wonstein)**<br>LeeHi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59f921c8e4690be1601afe65999135ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melt**<br>Rhyu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/655875346b507ca00c33e2a72ca788e7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ONLY**<br>LeeHi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**what if i told u?**<br>asumuh<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d807cd2f8c17c047deff7a187e843ffe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**eventually (feat. Yel)**<br>G. Nine<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
