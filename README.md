@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c52c0ad4a2054724c7a08318c5005adc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flashback**<br>Whirr<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3270c90b5f5548dfc85ae98f9c5c467c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue**<br>Whirr<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45b1efe17c63c2567099e7f5976a8cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Sugar**<br>Whirr<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c054b7b5888f4213c2c00a269987550d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**遠く、近く**<br>goji-sanpun<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab0417accf792bacaf853e18c4057f1d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Call Me Out**<br>Porch Light<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mellow**<br>Whirr<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14bfe6e9d0d64453d79477f23b77ae03.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Starcharts**<br>pasteboard<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
