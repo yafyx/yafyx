@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/2445b2fc0da9d42aa079e0dc7e2a17dab9134460): Added success handling and loading indicators - 18-03-2025
+[ugcnn](https://github.com/yafyx/ugcnn/commit/73a76aa8660735c8e0b1d15f932a8e7d59364769): SWR caching - 18-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
