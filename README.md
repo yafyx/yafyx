@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugcnn](https://github.com/yafyx/ugcnn/commit/73a76aa8660735c8e0b1d15f932a8e7d59364769): SWR caching - 18-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/04eb48681c74c82896f10f7f86d6d619035343fa): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/postcss-8.4.31 - 19-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
