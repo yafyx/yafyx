@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[spotifyx](https://github.com/yafyx/spotifyx/commit/69c65eff6006c214169053d552c65c16c6ce0d51): Update README with detailed installation instructions, usage guidelines, and troubleshooting - 19-03-2025
+[spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/04eb48681c74c82896f10f7f86d6d619035343fa): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/postcss-8.4.31 - 19-03-2025
 
