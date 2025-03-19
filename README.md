@@ -8,6 +8,8 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[spotifyx](https://github.com/yafyx/spotifyx/commit/69c65eff6006c214169053d552c65c16c6ce0d51): Update README with detailed installation instructions, usage guidelines, and troubleshooting - 19-03-2025
+
 [ugpulse](https://github.com/yafyx/ugpulse/commit/04eb48681c74c82896f10f7f86d6d619035343fa): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/postcss-8.4.31 - 19-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
@@ -25,8 +27,6 @@ i just git push and pray
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 
 [hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
-
-[custom-oh-my-posh-theme](https://github.com/yafyx/custom-oh-my-posh-theme/commit/70f613102821766ad2a5f408404d9c111197f21b): Create yfyx.json - 10-10-2023
 <!-- recent_commits ends -->
 
 </td>
