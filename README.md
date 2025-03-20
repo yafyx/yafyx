@@ -37,6 +37,8 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/798523fcb47734448c1a9eb82d3bdd3c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It Isn’t Perfect But It Might Be - from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack**<br>Olivia Dean<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9b40dea822c0cee83c9beb25f3df0c8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Noise Is A Social Skill (V.0.8)**<br>Sweet Trip<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While My Waves Wonder**<br>Yuragi<br clear="left">
