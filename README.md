@@ -37,11 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9b40dea822c0cee83c9beb25f3df0c8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Noise Is A Social Skill (V.0.8)**<br>Sweet Trip<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**While My Waves Wonder**<br>Yuragi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kicking Cars**<br>Panchiko<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
