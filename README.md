@@ -37,11 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Grrrl**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two-Way Mirror**<br>Loathe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Grrrl**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/798523fcb47734448c1a9eb82d3bdd3c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It Isn’t Perfect But It Might Be - from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack**<br>Olivia Dean<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a01cccf92a5cbb4e80e7b00e9134a765.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Pretends**<br>CSCD<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
