@@ -37,11 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e0b8a412a8ee15fe72249a67c1148bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You'll Be In My Heart - Spotify Singles**<br>Niki<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two-Way Mirror**<br>Loathe<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a01cccf92a5cbb4e80e7b00e9134a765.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Pretends**<br>CSCD<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
