@@ -37,8 +37,6 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hideous Towns**<br>The Sundays<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/df3fbf6c1d3a425c8e1140f98c888dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gagging Order**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Present Tense**<br>Radiohead<br clear="left">
