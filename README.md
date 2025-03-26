@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/3d4f3b84db06d2a139a9241165109baae1f770d0): Merge branch 'main' of https://github.com/yafyx/ugcnn - 21-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/40e5abd79c143d9009957351dd090f2088397e8e): Update timeline component - 26-03-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 
@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2af46691b479a94ed6337ddc2fcb4888.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Igloo**<br>Lee Jun Hyung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mati Suri**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0045c08aefa3312c0c8173653a8e16d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Her**<br>Tuesday Beach Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wings**<br>jungumul<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/509625a5f7fa8417aee5c70ab7d919cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love, Fig**<br>Yel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**mona lisa**<br>PRYVT<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
