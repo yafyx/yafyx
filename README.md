@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e0b8a412a8ee15fe72249a67c1148bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You'll Be In My Heart - Spotify Singles**<br>Niki<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2af46691b479a94ed6337ddc2fcb4888.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Igloo**<br>Lee Jun Hyung<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Two-Way Mirror**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0045c08aefa3312c0c8173653a8e16d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Her**<br>Tuesday Beach Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/509625a5f7fa8417aee5c70ab7d919cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love, Fig**<br>Yel<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
