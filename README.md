@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When I'm Thinking About You**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Finest Hour**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When I'm Thinking About You**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chances**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lift**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82c9a410e66249df9723be5aca1b8a52.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
