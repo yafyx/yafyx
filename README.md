@@ -8,11 +8,11 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[baak-api](https://github.com/yafyx/baak-api/commit/31f6fdcf8a6af4c2289f18f6d7e3ebc8ac4cdc36): Add function timeout settings in Vercel configuration and enhance context handling in API requests - 27-03-2025
+
 [ugpulse](https://github.com/yafyx/ugpulse/commit/9793c39a0c8bc58c0696fd88544b261bba39426e): Enhance error handling and UI feedback across components - 26-03-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
-
-[baak-api](https://github.com/yafyx/baak-api/commit/73e7b040c8347e612cc43e121e03b09eb9ad048a): Rename package from 'main' to 'handler' - 17-03-2025
 
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Never Change**<br>Coldplay<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e436bb09a1a8e3035305bba7df0ce252.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dawn of the Sun**<br>softsurf<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d72520d9b038628ff46b1ca02d49e50.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Sweet**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Blue, I’ll Be coming**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hideous Towns**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f73614a4c6ed88aab8f9bfde845ce5e8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Dear**<br>Hybs<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hideous Towns**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e20d8e1063e463d34f4ac51e280af4dc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**FLOWERS IN MAY**<br>Hanuel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
