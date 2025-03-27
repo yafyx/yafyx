@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/4fb434a2421a359beaea7eec912fbc6dd53e9116): Update component styles to remove unnecessary shadow effects in various components - 27-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/40b4671fc0eecdec5d84931edf87717e989f4e23): Add version history modal - 27-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/16fe43ff03190dcd206d9b5d6dea80e07c8c50da): ohh boyy - 27-03-2025
 
@@ -42,8 +42,6 @@ i just git push and pray
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d4924a6ce6ad4345e78ea0d59a5269d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bedside - album ver.**<br>Yuragi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunlight’s Everywhere**<br>Yuragi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You By My Side**<br>Yuragi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
