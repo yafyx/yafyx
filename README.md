@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/d52001fb52bb51bf68db45115f0b15df980b74ff): lib types. local timeline data - 27-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/4fb434a2421a359beaea7eec912fbc6dd53e9116): Update component styles to remove unnecessary shadow effects in various components - 27-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/16fe43ff03190dcd206d9b5d6dea80e07c8c50da): ohh boyy - 27-03-2025
 
@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f426e285ae696f3d0486e08c03964afd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lean**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Underneath It All**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d4924a6ce6ad4345e78ea0d59a5269d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bedside - album ver.**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14bfe6e9d0d64453d79477f23b77ae03.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breakbeats**<br>pasteboard<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunlight’s Everywhere**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6ce3ab5d3589efc6ef0ba735fe08fdd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**f**<br>re:lapse<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You By My Side**<br>Yuragi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
