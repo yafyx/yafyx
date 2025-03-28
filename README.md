@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/5bc86589b9c72bb122e3447efceffa2074223532): Consistent container layout size - 28-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/404c3f1a9521809baa491098ac951bae17f21aae): update Footer component - 28-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
