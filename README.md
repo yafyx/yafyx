@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/677e47a770ba480d9733b2e0021b511daa99ab6e): Add Upstash Redis and remove legacy timeline storage implementation - 28-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/3683527d5e6022e3ddebce19feb041f2d1acb6e0): Implement toast notifications for timeline data updates and enhance version handling in the timeline component - 28-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/865b5a8f63dca6109ad3b6d4870128c63b48f4f1): Update anti-403, Introduced direct IP access, improved TLS settings, and added session establishment methods - 28-03-2025
 
