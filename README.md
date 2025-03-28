@@ -8,7 +8,7 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/6f6dc1cc715b39dded5b05398b30f452e5ba3b42): Add loading state and skeleton component to TimelinePage - 28-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/614ec764b8b148530651e0d6f90a686e95f7b34a): Update Navbar component - 28-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
