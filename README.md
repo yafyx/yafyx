@@ -8,9 +8,9 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/865b5a8f63dca6109ad3b6d4870128c63b48f4f1): Update anti-403, Introduced direct IP access, improved TLS settings, and added session establishment methods - 28-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/677e47a770ba480d9733b2e0021b511daa99ab6e): Add Upstash Redis and remove legacy timeline storage implementation - 28-03-2025
 
-[ugpulse](https://github.com/yafyx/ugpulse/commit/40b4671fc0eecdec5d84931edf87717e989f4e23): Add version history modal - 27-03-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/865b5a8f63dca6109ad3b6d4870128c63b48f4f1): Update anti-403, Introduced direct IP access, improved TLS settings, and added session establishment methods - 28-03-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 
