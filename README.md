@@ -8,9 +8,9 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/5bc86589b9c72bb122e3447efceffa2074223532): Consistent container layout size - 28-03-2025
 
-[ugpulse](https://github.com/yafyx/ugpulse/commit/7fe7d059ccaf14d7fffa47ba46f7ff1828db3a45): Updaet TimelinePage component to initialize eventsData state and remove loading spinner - 28-03-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 
