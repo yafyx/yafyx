@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57b122e05ded2a780008d15d6fff45a6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Clementine**<br>Elliott Smith<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Say Yes**<br>Elliott Smith<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ceee834fce15af98d1b260b1ceecc64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wonder**<br>Yuragi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Underneath It All**<br>Yuragi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d4924a6ce6ad4345e78ea0d59a5269d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bedside - album ver.**<br>Yuragi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunlight’s Everywhere**<br>Yuragi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
