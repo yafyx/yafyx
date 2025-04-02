@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57b122e05ded2a780008d15d6fff45a6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Clementine**<br>Elliott Smith<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3a6b66dfcb0cf165d52075dfba632333.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cheetah**<br>Deux Visages<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Say Yes**<br>Elliott Smith<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**He Asked Me To Quit Smoking**<br>Bubble Tea and Cigarettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ceee834fce15af98d1b260b1ceecc64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wonder**<br>Yuragi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abffc50a1609f36004214895f98372ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rainy Tapestry**<br>Lamp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
