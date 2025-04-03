@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ada983341d20a27d9490a9d9758bfdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please don't stop being sweet to me**<br>Lace<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/294236673237889ba97fcf54fd0bdc05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do I Wanna Know? - Live At the BBC**<br>Hozier<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ada983341d20a27d9490a9d9758bfdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please don't stop being sweet to me**<br>Lace<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget Her**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abffc50a1609f36004214895f98372ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Lovers**<br>Lamp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/79bc74df1fa0810d238e8ace9c99eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your New Favorite Song**<br>Wallows<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
