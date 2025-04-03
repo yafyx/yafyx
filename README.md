@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/294236673237889ba97fcf54fd0bdc05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do I Wanna Know? - Live At the BBC**<br>Hozier<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget Her**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**not a lot, just forever**<br>Adrianne Lenker<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/79bc74df1fa0810d238e8ace9c99eb59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your New Favorite Song**<br>Wallows<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/97708fea8918ff0a2ccea6c9d8853339.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Crashing (with Kali Uchis)**<br>d4vd<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
