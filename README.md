@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ec3a75b609451c5bf05812d5213a69c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terekam (Tak Pernah Mati) - Live**<br>The Upstairs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pertama Kali**<br>Alfin Harce<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/41f3d9af96335437848bbd9ec734cf49.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Who are you?**<br>Saga Faye<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7a5675b93ddd0c2279470931820faf8e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Philia**<br>Krunkle<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ae2dd7d3417833ba1628be7e1c60d90.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Myself**<br>Cal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbee0adfdaaf93d7d87b42273e1df04.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What They Do In The Summer**<br>The Cat Police<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
