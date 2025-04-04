@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**you still linger on**<br>REIKA<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17ee6c8861d2b270bb9051ae087f274d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer's Gone And So Are You**<br>uju<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ec034e790de94dd0acc432cae48e9ec2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Guess It's Not Too Late**<br>Noa Mal<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**not a lot, just forever**<br>Adrianne Lenker<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
