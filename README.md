@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Third Avenue**<br>Rocco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/41f3d9af96335437848bbd9ec734cf49.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Who are you?**<br>Saga Faye<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**space**<br>The Poles<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**calla**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
