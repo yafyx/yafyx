@@ -42,8 +42,6 @@ i just git push and pray
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/69d1986c0c862e04e46f5d7800f05543.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Setting Sun**<br>The Poles<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wish You'd Ask Me**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bird**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
