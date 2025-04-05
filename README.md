@@ -37,13 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/70d57e200651770a01e5b3c39adb161f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**summer, night (feat. wave to earth)**<br>Jeon Jin Hee<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cc0aa5097c0f5dc1a9dd1c92addcd30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Third Avenue**<br>Rocco<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**space**<br>The Poles<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**calla**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
