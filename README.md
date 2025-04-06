@@ -37,13 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/008d700d42ce9b1c0cf2797d0acfaed7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eleven Weeks**<br>Vansire<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beautiful Stranger**<br>Laufey<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d6af1d7a35ead5e593bd543e892bfd8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Might Be Sleeping**<br>Jakob<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**5AM Empanada with You**<br>Bubble Tea and Cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intolewd**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
