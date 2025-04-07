@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami, Akhirnya**<br>Fuad<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6f8a0e9ffc677b8dde9c173fff94443.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tempat ternyaman**<br>starrducc<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lihat**<br>Sore<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bianglala**<br>starrducc<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6f8a0e9ffc677b8dde9c173fff94443.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tenang menghilang**<br>starrducc<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dear the queen**<br>Loon<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
