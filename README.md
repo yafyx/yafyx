@@ -37,8 +37,6 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**warna primer**<br>starrducc<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8462ef33e5997ae93a287807d2a05e27.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tetaplah Terlelap**<br>Efek Rumah Kaca<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f1ee59e928955e70646079ba3b25cf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ingin Dekatmu**<br>Indische Party<br clear="left">
