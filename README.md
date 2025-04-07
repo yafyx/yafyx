@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**warna primer**<br>starrducc<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ce4dc0539ad234c7a1f444374ac0bc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pelawak Sekarang Lestari Mendatang**<br>The Marsh Kids<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8462ef33e5997ae93a287807d2a05e27.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tetaplah Terlelap**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f1ee59e928955e70646079ba3b25cf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ingin Dekatmu**<br>Indische Party<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mata Berdebu**<br>Sore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acc9da1424a2519ba147525fe1b14b62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Inthrovvvert**<br>The Dare<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
