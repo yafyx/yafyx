@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beautiful Stranger**<br>Laufey<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d6af1d7a35ead5e593bd543e892bfd8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Might Be Sleeping**<br>Jakob<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intolewd**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
