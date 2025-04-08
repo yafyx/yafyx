@@ -8,6 +8,8 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/92eed52d617ec9b861884ea480082b2ac76eb317): Create LICENSE - 08-04-2025
+
 [ugpulse](https://github.com/yafyx/ugpulse/commit/614ec764b8b148530651e0d6f90a686e95f7b34a): Update Navbar component - 28-03-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
@@ -25,8 +27,6 @@ i just git push and pray
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 
 [statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
-
-[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
 </td>
