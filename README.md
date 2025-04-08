@@ -42,8 +42,6 @@ i just git push and pray
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a373eefa94fb7523128e69665c60a31.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Given**<br>Collapse<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c42b6135772f86f08b4b04b413592e1c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Story of A Courage**<br>Texpack<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c3a8d2bb048a642a1cbf17e199932217.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Akan Bertemu Di sana**<br>WhisperDesire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
