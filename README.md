@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5defc753d7ea7cb1c1b0ff9fde5163b4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biru**<br>Barefood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/068358eac78b03e7e93b7feb339561f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Alarm**<br>Heals<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You And Me Against The World**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a373eefa94fb7523128e69665c60a31.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Given**<br>Collapse<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55035221518394cbf9fab3e1e61cb288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merona**<br>FLEUR!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c42b6135772f86f08b4b04b413592e1c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Story of A Courage**<br>Texpack<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d6f8a0e9ffc677b8dde9c173fff94443.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**tempat ternyaman**<br>starrducc<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c3a8d2bb048a642a1cbf17e199932217.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Akan Bertemu Di sana**<br>WhisperDesire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
