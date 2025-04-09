@@ -37,13 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How to Disappear Completely**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90546f29c1b4c2dd6efba2df336bdb5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7104f9a9022eca91a09421c38c8b1505.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Call It Fate, Call It Karma**<br>The Strokes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Girl**<br>MATOKI<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a1bd8f8f160885630552956454747a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teenage Blue**<br>Dreamgirl<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
