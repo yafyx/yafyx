@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/068358eac78b03e7e93b7feb339561f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Alarm**<br>Heals<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How to Disappear Completely**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a373eefa94fb7523128e69665c60a31.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Given**<br>Collapse<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90546f29c1b4c2dd6efba2df336bdb5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c42b6135772f86f08b4b04b413592e1c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Story of A Courage**<br>Texpack<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Call It Fate, Call It Karma**<br>The Strokes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Girl**<br>MATOKI<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
