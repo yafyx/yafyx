@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/531bdb172f66ee3500e344936f1f22bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scott Street**<br>Phoebe Bridgers<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae4026af42f4c5f76d79f4a37f13db0f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Here When You're Back**<br>Beaux<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sexy To Someone**<br>Clairo<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/80f922302652266472c5b8bced5123bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Life**<br>SZA<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf6f1d233991014a20695a1099613a7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Steeeam**<br>Shelly<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
