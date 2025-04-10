@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80f922302652266472c5b8bced5123bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Crybaby**<br>SZA<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juna**<br>Clairo<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever**<br>Alex G<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7104f9a9022eca91a09421c38c8b1505.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a1bd8f8f160885630552956454747a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teenage Blue**<br>Dreamgirl<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
