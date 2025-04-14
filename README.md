@@ -8,9 +8,9 @@ i just git push and pray
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/92eed52d617ec9b861884ea480082b2ac76eb317): Create LICENSE - 08-04-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
-[ugpulse](https://github.com/yafyx/ugpulse/commit/614ec764b8b148530651e0d6f90a686e95f7b34a): Update Navbar component - 28-03-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/92eed52d617ec9b861884ea480082b2ac76eb317): Create LICENSE - 08-04-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
