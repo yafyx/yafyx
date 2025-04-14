@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Di mana alamatmu sekarang**<br>Sal Priadi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/89473c46eb240a97039f340b6ae61067.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking About You**<br>Faye Webster<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**5AM Empanada with You**<br>Bubble Tea and Cigarettes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6e2927453261425c831c87a000cd6c70.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fell In Love At 22**<br>Starflyer 59<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f1ee59e928955e70646079ba3b25cf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ingin Dekatmu**<br>Indische Party<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
