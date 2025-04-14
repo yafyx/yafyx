@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/da36c1d2357bcb567021c9c33b78ce13.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Songs**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6a4b32a5bc008ccc3f0ccad903a54e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunsets With You**<br>Cliff<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7c197200f921e89e07d3cdff65d7146.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Green**<br>12BH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdf516d223a80cc4ea10d5cde96c1af5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothin' Without You**<br>HangSung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4041bedc34881bad5a5616e3dc7e9331.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Glass in the Park**<br>Alex Turner<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
