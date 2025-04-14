@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**anything**<br>Adrianne Lenker<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/311c04f9abb2447999e426c6c55eabd3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I Had A Gun…**<br>Noel Gallagher's High Flying Birds<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6a4b32a5bc008ccc3f0ccad903a54e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunsets With You**<br>Cliff<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdf516d223a80cc4ea10d5cde96c1af5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothin' Without You**<br>HangSung<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/465859c4ca5f9100f95f539c81189bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**noah**<br>orange flavored cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
