@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16b4440d16bacbfb348ea2ed9e15e1e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing And Everything**<br>Seaside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a30d168167ce2f931fd237a259ba9c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enouement**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything's fine**<br>Pop at Summer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/06b1ad3f9047364ee8409004b9a95a04.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Elora**<br>Pure Saturday<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c882a79eec90e87675099cb0849d70c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be The One**<br>Lunarways<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/084a5b512c5fecd9ced0c6e503db7844.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Adore U, regardless**<br>The caroline's<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Homebody**<br>Puff Punch<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
