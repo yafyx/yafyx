@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a30d168167ce2f931fd237a259ba9c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enouement**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**if it's not you**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/06b1ad3f9047364ee8409004b9a95a04.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Elora**<br>Pure Saturday<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/084a5b512c5fecd9ced0c6e503db7844.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Adore U, regardless**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9cc64cbe5d4a555287f9f1d91ed494c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Less Afraid**<br>Lomba Sihir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Homebody**<br>Puff Punch<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b98fdc473228d9856430d80a2cd3afb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Common Things**<br>The Cat Police<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
