@@ -37,11 +37,11 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a737c967e8d84155a818619c09af74c0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bila Kau Tak Disampingku**<br>Sheila on 7<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9297ad32d77ffffd12e040afdf94b01f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita**<br>Sheila on 7<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I can't go home, anymore**<br>PRYVT<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67953dc12478f64f62bf6fe6103e49fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting Room**<br>Phoebe Bridgers<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/493a5ad4c036f69b73678589688cd281.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Piece of You**<br>Nathaniel Constantin<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
