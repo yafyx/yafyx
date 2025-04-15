@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a737c967e8d84155a818619c09af74c0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bila Kau Tak Disampingku**<br>Sheila on 7<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/24f729ec390e4282d1b2faf3ec070c6f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Across Ur City**<br>MATOKI<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9297ad32d77ffffd12e040afdf94b01f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita**<br>Sheila on 7<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I can't go home, anymore**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40c91f388f12744d3829d6e285a8fde7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**AM**<br>Moongazing And Her<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More & More**<br>Vira Talisa<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
