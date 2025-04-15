@@ -37,8 +37,6 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de264408de17b7f3ceb8060bf52be9b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juxtapose**<br>hazylazy<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/16b4440d16bacbfb348ea2ed9e15e1e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing And Everything**<br>Seaside<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything's fine**<br>Pop at Summer<br clear="left">
