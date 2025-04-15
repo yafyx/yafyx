@@ -37,13 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/24f729ec390e4282d1b2faf3ec070c6f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Across Ur City**<br>MATOKI<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de264408de17b7f3ceb8060bf52be9b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juxtapose**<br>hazylazy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16b4440d16bacbfb348ea2ed9e15e1e5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing And Everything**<br>Seaside<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40c91f388f12744d3829d6e285a8fde7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**AM**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything's fine**<br>Pop at Summer<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More & More**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c882a79eec90e87675099cb0849d70c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be The One**<br>Lunarways<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
