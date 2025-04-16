@@ -37,11 +37,13 @@ i just git push and pray
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**calla**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/06f2f268fe279ecb558ee2de5ed4a4fe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**See You**<br>Christopher Bear<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/493a5ad4c036f69b73678589688cd281.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Piece of You**<br>Nathaniel Constantin<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/06f2f268fe279ecb558ee2de5ed4a4fe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Leave Something Behind**<br>Christopher Bear<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b83949bf10eb01ea6f7e6aed2901a869.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**if it's not you**<br>PRYVT<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f17bd297fce9c1137bff7a231a6bbbe9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need Is To Feel Like Someone Could Love Me**<br>Take Care<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9fcb13263fda1e40fbd5bef5bbe75632.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**From the Subway Train**<br>Vansire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
