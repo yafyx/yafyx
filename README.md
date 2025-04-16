@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8e9aeb00f6bbf370d6f5bc0e32c43c35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dorothy**<br>Her's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/30885c789162407985a6d562d81edc04.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pandangan Pertama**<br>RAN<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de915bce509904328f870e8c52a47c6b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tree Among Shrubs**<br>Men I Trust<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita usahakan rumah itu**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/931eaaf43141d6ce5ef81f464dcd4595.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unlucky**<br>Lunar Vacation<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e3b29e275094fcdcdb56214cef52fa9a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Akad**<br>Payung Teduh<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7327bd581388498d9188d75467e535b7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heart-for-brains**<br>Roar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duniawi**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
