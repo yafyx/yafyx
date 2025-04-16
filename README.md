@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d99f14c5561b9551585b0303d28b063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cinta Dalam Hati**<br>Ungu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557c307142b54d0bb7ce673113c0b815.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hari Bersamanya**<br>Sheila on 7<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/30885c789162407985a6d562d81edc04.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pandangan Pertama**<br>RAN<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita usahakan rumah itu**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e3b29e275094fcdcdb56214cef52fa9a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Akad**<br>Payung Teduh<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duniawi**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +51,7 @@ ship something that nobody asked for
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**cyan**<br>Plant Cell<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Piece of You**<br>Nathaniel Constantin<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
