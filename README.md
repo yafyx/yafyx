@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/7ad562c9dd971ff587e30dbfe700079d935313c3): Enhances landing page with bento grid layout - 17-04-2025
 
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/92eed52d617ec9b861884ea480082b2ac76eb317): Create LICENSE - 08-04-2025
+[ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
 [baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/401917f4ea6604b4aa367917e7a3d4ba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**and Forevermore**<br>Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/512f85c9e32fa937f3fba92c16a3444f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wave**<br>2danji<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/85c19f68a5206728ad9afff275e1e659.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do Me A Favour (feat. Kim Daniel)**<br>The Orchard<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2af46691b479a94ed6337ddc2fcb4888.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Igloo**<br>Lee Jun Hyung<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76034468e8fe3b25e30ac57a5b29239d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canna**<br>Rio<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
