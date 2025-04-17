@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c96ddf758bcaf869b0ac8ff5679bcecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Mind**<br>Coldiac<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c19f82f89dee1ea3472182a2c32f22ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lagu Balada Kala Hujan**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/931eaaf43141d6ce5ef81f464dcd4595.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unlucky**<br>Lunar Vacation<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcc15df072da640abbbbd0c50f256b47.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whiskey Bottle**<br>Gangga<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
