@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/7ad562c9dd971ff587e30dbfe700079d935313c3): Enhances landing page with bento grid layout - 17-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/e3cedb9701a1774b5fcc31071a14ea62ace3e31c): Enhances the explore page layout for better responsiveness and visual appeal. - 17-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a6966c3be1b1836073fa472e892f7c4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About love**<br>Off The Menu<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/49d056d3a3a454532feedd4a63329713.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**spring dreams**<br>2danji<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Map On Your Face**<br>Rio<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e35963e39ad2827e2abd137ef6614713.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Sided Love**<br>Lacuna<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
