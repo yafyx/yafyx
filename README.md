@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/512f85c9e32fa937f3fba92c16a3444f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wave**<br>2danji<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a6966c3be1b1836073fa472e892f7c4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About love**<br>Off The Menu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d781cdd8095368e76ca7fefbf78d8f4d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hi Bye, Goodnight**<br>Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/49d056d3a3a454532feedd4a63329713.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**spring dreams**<br>2danji<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2af46691b479a94ed6337ddc2fcb4888.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Igloo**<br>Lee Jun Hyung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68403b527d97dc715dd70346fb45d92f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Map On Your Face**<br>Rio<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76034468e8fe3b25e30ac57a5b29239d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Canna**<br>Rio<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e35963e39ad2827e2abd137ef6614713.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Sided Love**<br>Lacuna<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
