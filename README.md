@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/401917f4ea6604b4aa367917e7a3d4ba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**and Forevermore**<br>Daniel<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/85c19f68a5206728ad9afff275e1e659.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do Me A Favour (feat. Kim Daniel)**<br>The Orchard<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
 <!-- recent_tracks ends -->
