@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c19f82f89dee1ea3472182a2c32f22ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lagu Balada Kala Hujan**<br>FUGŌ<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berakhir Sama**<br>Eclat Story<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcc15df072da640abbbbd0c50f256b47.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whiskey Bottle**<br>Gangga<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599f538cf0bfc080cf2ad4119b5bd435.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hold me tight**<br>Skyline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0dbf31f1f49e1e16c0ad6afa1d37b99d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biar Seribu**<br>Noh Salleh<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
