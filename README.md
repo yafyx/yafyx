@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/85c19f68a5206728ad9afff275e1e659.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do Me A Favour (feat. Kim Daniel)**<br>The Orchard<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berakhir Sama**<br>Eclat Story<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,7 +53,7 @@ ship something that nobody asked for
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I can't go home, anymore**<br>PRYVT<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Piece of You**<br>Nathaniel Constantin<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
