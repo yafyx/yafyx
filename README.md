@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/3cb95493d1699b07494f810e4101523c171a22cd): Add Privacy pages - 18-04-2025
+[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
-[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/3cb95493d1699b07494f810e4101523c171a22cd): Add Privacy pages - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ff774334165053497546c46f1b6b70c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**intentions**<br>Starfall<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8171210b206355baccbc2a7535ee3774.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pictures Of Me - Remastered 2017**<br>Elliott Smith<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
