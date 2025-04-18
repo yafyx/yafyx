@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/d155407c673d6950886207ab39a0e2cb2ac7bee6): Enhances PolaroidPoster component with draggable image positioning - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/3cb95493d1699b07494f810e4101523c171a22cd): Add Privacy pages - 18-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f043460a2f975db2d8bf99520d8ccad3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tangled Dreams**<br>Wisp<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/33a71be3f16ad393837e42521a33c86e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**GO AGAIN (feat. Superheaven)**<br>BNYX®<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9f1ff5a97ac7608997d667b08b3ad51.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ease**<br>Whirr<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c726168a0c5d98daf6d7686cda4b552f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once then we'll be free**<br>Wisp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pandora**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
