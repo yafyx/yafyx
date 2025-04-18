@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/2f52b0b74cc9eeb18d43e9a1462de4925be7cb24): Renames poster filename prefix - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/0832e89ab373c87df5b0dc75cd2f1d005b16ef05): Updates canonical URL - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hitam dan Biru**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7551b50218e34acd1db51d4ea2bb7cfe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Orang Orang di Kerumunan**<br>FSTVLST<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bianglala**<br>starrducc<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3448d4e74207f692a53ddc455bb9bd00.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jenuh Kan Kutelan**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
