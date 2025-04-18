@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
+
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/0832e89ab373c87df5b0dc75cd2f1d005b16ef05): Updates canonical URL - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
@@ -25,8 +27,6 @@ ship something that nobody asked for
 [timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
-
-[statistika-frekuensi-distribusi](https://github.com/yafyx/statistika-frekuensi-distribusi/commit/83eee4d905146aed84436041597fa2158661c7ac): refactor: improve code structure and readability - 16-05-2024
 <!-- recent_commits ends -->
 
 </td>
