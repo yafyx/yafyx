@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/975553123f3eb22021e2207c9d5d5da6667daeaf): Improves the TMDB search form with better UI/UX, including mobile optimizations, recent searches, loading states, and animation. - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/ac367c70d1881ab39880e8092da57591345d6143): Improves poster preview scaling and appearance - 18-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
