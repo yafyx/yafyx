@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/45787804aebbcce41001132ff97fa924a4677c33): Improves mobile responsiveness of landing page - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/2f52b0b74cc9eeb18d43e9a1462de4925be7cb24): Renames poster filename prefix - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duniawi**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mengunci Ingatan**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Simpul**<br>Swellow<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**another night awake with you on my mind.**<br>eleventwelfth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/701b64470a9ede9d84f284cd2027231d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pasti Ada Jalan**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7551b50218e34acd1db51d4ea2bb7cfe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tanah Indah Untuk Para Terabaikan Rusak dan Ditinggalkan**<br>FSTVLST<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
