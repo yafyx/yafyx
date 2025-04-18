@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Moon**<br>The Poles<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a6966c3be1b1836073fa472e892f7c4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**About love**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/49d056d3a3a454532feedd4a63329713.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**spring dreams**<br>2danji<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
