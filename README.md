@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/0bb6441af35f5ada70354677e47c2cbe7232c955): Improves mobile responsiveness of input forms - 18-04-2025
 
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/0832e89ab373c87df5b0dc75cd2f1d005b16ef05): Updates canonical URL - 18-04-2025
+[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
