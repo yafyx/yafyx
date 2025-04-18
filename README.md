@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/0bb6441af35f5ada70354677e47c2cbe7232c955): Improves mobile responsiveness of input forms - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/b810e1c332390f6b2a2ee548e57b45b756d2b5f8): Adjusts layout and removes gallery section - 18-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
