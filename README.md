@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/173cd083695b92f92a5095381641c86a8d704578): Improves mobile search and selection flow - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/975553123f3eb22021e2207c9d5d5da6667daeaf): Improves the TMDB search form with better UI/UX, including mobile optimizations, recent searches, loading states, and animation. - 18-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3006824aaf5826b0e2cb8823a5933c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Norwegian Crush**<br>Kaveh Kanes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/411559af092e820b47508012cacbb486.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/46e3ed66330f171a146c87900b7a3c7d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout - Remastered**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/024f3336dfb8e7eff38637c423fa7288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heals**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
