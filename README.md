@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/e3cedb9701a1774b5fcc31071a14ea62ace3e31c): Enhances the explore page layout for better responsiveness and visual appeal. - 17-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/45787804aebbcce41001132ff97fa924a4677c33): Improves mobile responsiveness of landing page - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duniawi**<br>rumahsakit<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Simpul**<br>Swellow<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Moon**<br>The Poles<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b05e9337be23618700f8bbef1c55e998.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
