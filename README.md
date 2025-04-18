@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/75d1b720fc62743a5eab3818b925b49f228539f8): Enables searching for both movies and TV shows - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/d155407c673d6950886207ab39a0e2cb2ac7bee6): Enhances PolaroidPoster component with draggable image positioning - 18-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/3d45cb8f4f8ba0bd54f92453c71000a0ca879809): first commit - 18-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunny Side Up**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Post-traumatic All-night-long**<br>Salvia Palth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Haze**<br>The Bunbury<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mimi**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91c0b50106662227e0e704af90f4c570.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sleeping**<br>Well Whale<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
