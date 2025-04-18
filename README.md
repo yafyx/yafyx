@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3006824aaf5826b0e2cb8823a5933c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Norwegian Crush**<br>Kaveh Kanes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c2c596c752ef4f4a808851f54e6e3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>Roadtrip to Antarctica<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4c662862e6e64502da95c1c1fcfaecf3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i'm not good at this :(**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acc9da1424a2519ba147525fe1b14b62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fameinkiss**<br>The Dare<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
