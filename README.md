@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09e5b54d7feeb5e3b179d93b77123fb8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nabi Urban**<br>The Cat Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mereda/Meredam**<br>Eastcape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tak Berdaya**<br>Swellow<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ini Abadi**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
+
+<img src="" width="48" height="48" align="left" style="margin-right: 10px;"/>**Radiohead Fake Plastic Trees live (high audio quality)**<br>fabiocchi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
