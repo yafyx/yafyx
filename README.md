@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/69b21e3f9473ccf40638b4afc1ea3a0bd90431ce): Redesigns and enhances homepage features section - 19-04-2025
 
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/3cb95493d1699b07494f810e4101523c171a22cd): Add Privacy pages - 18-04-2025
+[hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
