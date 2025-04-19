@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/128b505d49bf3d92c8ce3e16ba71927589e57f92): Prevents event propagation in search form - 19-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/fa7b32c2843759a8334661ee7f38c1631d71737f): Replaces Input with Textarea for longer text input - 19-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
