@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/fa7b32c2843759a8334661ee7f38c1631d71737f): Replaces Input with Textarea for longer text input - 19-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/dcddfbf0bf18831e651b4b43621e7dbe4a15d14a): Refines title wrapping in PolaroidPoster - 19-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mereda/Meredam**<br>Eastcape<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mereda/Meredam**<br>Eastcape<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89473c46eb240a97039f340b6ae61067.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking About You**<br>Faye Webster<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
