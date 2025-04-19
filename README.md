@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mereda/Meredam**<br>Eastcape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gelap Malam**<br>The Adams<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf95db7fb0a4a6c6cba3a50d06e223f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mereda/Meredam**<br>Eastcape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where the Sea Sleeps**<br>colorcode<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e8fa210bc4fd46d18b592bb4ea4d24be.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**3 hari untuk selamanya**<br>Float<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
