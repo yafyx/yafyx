@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67eb59f3267a26ee9422d80a75b3626e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**apart of me**<br>Takayoshi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac0059a7847a7128bfefb8186741a577.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Walking Back Home**<br>Vira Talisa<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/310f82069b2a486dbce873dc8db172a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**l-o-v-e**<br>Rocco<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where the Sea Sleeps**<br>colorcode<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
