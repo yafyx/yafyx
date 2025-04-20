@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[jurisjudo](https://github.com/yafyx/jurisjudo/commit/0b4b61a65e3c650afde10372c8710fe0fc961a2d): first commit - 20-04-2025
+[jurisjudo](https://github.com/yafyx/jurisjudo/commit/f833627cbc57fb01c2783c4916d8508186f344d0): Simplifies AI model setup and cleans up code - 20-04-2025
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/779394218d29abd5c8aab7d3d9f911ef40bac8df): Enables Vercel Analytics - 19-04-2025
 
