@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/77f53b975f572ccef94a06721f42d1e9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everlasting Love**<br>LEEHEESANG<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6052e3eebb9050386ed016fa78d8f354.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flower**<br>Daniel<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/745e2840ca1df9976bfaba7dbbf1dda6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rain & Apple**<br>Rio<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
