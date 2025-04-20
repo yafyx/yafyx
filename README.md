@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac0059a7847a7128bfefb8186741a577.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Walking Back Home**<br>Vira Talisa<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/310f82069b2a486dbce873dc8db172a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**l-o-v-e**<br>Rocco<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where the Sea Sleeps**<br>colorcode<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e8fa210bc4fd46d18b592bb4ea4d24be.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**3 hari untuk selamanya**<br>Float<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
