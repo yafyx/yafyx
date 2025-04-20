@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[jurisjudo](https://github.com/yafyx/jurisjudo/commit/0b4b61a65e3c650afde10372c8710fe0fc961a2d): first commit - 20-04-2025
+
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/779394218d29abd5c8aab7d3d9f911ef40bac8df): Enables Vercel Analytics - 19-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
@@ -25,8 +27,6 @@ ship something that nobody asked for
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 
 [timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
-
-[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/13db08acb9f7e7a50ff2192e626e484533f67175): Update README.md - 29-06-2024
 <!-- recent_commits ends -->
 
 </td>
