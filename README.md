@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6052e3eebb9050386ed016fa78d8f354.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lily of the Valley**<br>Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ad8aa8afebe7ea260ea58720ca2f5d57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**wave**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf2d7e571bc53791288f87fc12df85a0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Way You Do**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59f921c8e4690be1601afe65999135ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melt**<br>Rhyu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f27f8c5d3828528b5f3494414481fe8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Steal This Night**<br>Rocco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69d5e465ab0006b527b9da075db91fa1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hideaway**<br>WIMY<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard to Love**<br>Crying City<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6b20abd413b8a0276a6e1ede9b4b379.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunny**<br>Rocco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
