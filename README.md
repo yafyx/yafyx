@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee27fb5206754158a11dcbe3c41d21fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hanya kau**<br>The Adams<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mungkin Takut Perubahan**<br>Lomba Sihir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c489dd5680ec20086458031a285c342f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunshine**<br>The Panturas<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
