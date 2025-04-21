@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff00fbf9de10596c465d48fb3f6cb476.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You**<br>Haeil<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b02f32e87805a65f6a33d4dbdce074c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Timur**<br>The Adams<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee27fb5206754158a11dcbe3c41d21fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hanya kau**<br>The Adams<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mungkin Takut Perubahan**<br>Lomba Sihir<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
