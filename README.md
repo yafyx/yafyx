@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60c8af428d436b5387e5f4e78d64f095.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**last summer**<br>The Neverminds<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be On My Own Tonight**<br>Satria The Monster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a2e54c80afe4a89270f4a1643b3aadb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**lie**<br>Pami<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eagerly Yours**<br>Soupless<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c82555004b23eafa34b39fa533af04bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**we dance**<br>jumper seat<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19bed8865bf86a9aa546e33637c40e2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stranger in You**<br>Ebril<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2521346a1bf764207c5ea28fb44d8c5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncertainly**<br>Ourselves The Elves<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
