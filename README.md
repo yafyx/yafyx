@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d334320515d9ba5fe0dfc02d3c98aeb5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gordon's Gardenparty**<br>The Cardigans<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berbahagialah**<br>The Peal<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/88f3512a00939e5716818e610fabd695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senin Wage**<br>Nyonya Ayu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dd7b5b816df68a266e3ccfc729d09413.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**love & doubt**<br>dacelynn<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
