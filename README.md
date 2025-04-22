@@ -37,23 +37,23 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semesta**<br>MALIQ & D'Essentials<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semesta**<br>MALIQ & D'Essentials<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698d9ba34ad6b96d247bfd2a4fb3a2d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Night on Earth**<br>Green Day<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/134f2674509a86cc20a43cc280006cfa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Memori Baik**<br>Sheila on 7<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Am I Bothering You?**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
 
 <!-- top_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I can't go home, anymore**<br>PRYVT<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
