@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[baak-api](https://github.com/yafyx/baak-api/commit/40c308a1e72d04060f5fb2db7b11b08213d4cd41): Update README.md - 22-04-2025
+
 [bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/ff1843fbc28b2754d03b169fbf9bdfb37af987a2): Refactor article scraping logic in main.py to remove date and tags extraction. Clean up content by skipping specific paragraphs and removing unwanted prefixes. Update output JSON structure accordingly - 22-04-2025
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
@@ -17,8 +19,6 @@ ship something that nobody asked for
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
-
-[baak-api](https://github.com/yafyx/baak-api/commit/20a6ad8cbce4eea4e49ab16bf5481e8d06120c15): Add /jadwal search endpoint and corresponding handler for query processing - 28-03-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3270c90b5f5548dfc85ae98f9c5c467c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7897cbe63b444f0a5e32de266a0f83a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Cream**<br>Oeil<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f7fae21fbc1227b264f84a3ff02a21a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lucifer Loves Me**<br>Summer 2000<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/95b3225244cddbb4f8bef5e640678577.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wallow**<br>Forsaken Autumn<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14bfe6e9d0d64453d79477f23b77ae03.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Starcharts**<br>pasteboard<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd61f6f1b54de8a45b21d15d02527d68.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**sleep**<br>elricfd<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vividly**<br>Whirr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12609e5454f891391a8857894e993a25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Calendar**<br>Alison's Halo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
