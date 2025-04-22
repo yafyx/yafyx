@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/84f97686e4a1fc1c9745f36140561fc0c5234975): first commit - 22-04-2025
+[bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/ff1843fbc28b2754d03b169fbf9bdfb37af987a2): Refactor article scraping logic in main.py to remove date and tags extraction. Clean up content by skipping specific paragraphs and removing unwanted prefixes. Update output JSON structure accordingly - 22-04-2025
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/834a9f8ae9dafe1c1f5ea56445564818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slouch**<br>Water-Mall<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ab161d1617e041d3104110b3f781f1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall**<br>Sway<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9f1ff5a97ac7608997d667b08b3ad51.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lean**<br>Whirr<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d334320515d9ba5fe0dfc02d3c98aeb5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gordon's Gardenparty**<br>The Cardigans<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berbahagialah**<br>The Peal<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88f3512a00939e5716818e610fabd695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senin Wage**<br>Nyonya Ayu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
