@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/b67c0e3c9643e7adb5190e6432a27c14e558a1a9): Replaces grid pattern with simpler background - 22-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
 
 [jurisjudo](https://github.com/yafyx/jurisjudo/commit/f833627cbc57fb01c2783c4916d8508186f344d0): Simplifies AI model setup and cleans up code - 20-04-2025
 
@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d5c59e8397e84fb1c26292a602806a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Film Favorit**<br>Sheila on 7<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0bac8fc1c1a960cac8f373b2582e583.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All the Time**<br>The S.I.G.I.T<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye Your Side**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
