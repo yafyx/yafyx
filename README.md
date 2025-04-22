@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be On My Own Tonight**<br>Satria The Monster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**every scent**<br>Yokin<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eagerly Yours**<br>Soupless<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6953f534db0560035dd3712d81ee5575.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Estrangers**<br>No Vacation<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2521346a1bf764207c5ea28fb44d8c5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncertainly**<br>Ourselves The Elves<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e436a14b1772e75b422001988c441d29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i do luv u**<br>okayceci<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aca38e2281bb78634191ae94634292ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking Of You**<br>EVNTYD<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
