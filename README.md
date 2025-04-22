@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semesta**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semesta**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Grrrl Gang<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698d9ba34ad6b96d247bfd2a4fb3a2d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Night on Earth**<br>Green Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/291a6a990f6dbe6f9493517ea2b16759.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Niscaya**<br>Bilal Indrajaya<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
