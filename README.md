@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[jurisjudo](https://github.com/yafyx/jurisjudo/commit/f833627cbc57fb01c2783c4916d8508186f344d0): Simplifies AI model setup and cleans up code - 20-04-2025
+[polaroidthis](https://github.com/yafyx/polaroidthis/commit/b67c0e3c9643e7adb5190e6432a27c14e558a1a9): Replaces grid pattern with simpler background - 22-04-2025
 
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/779394218d29abd5c8aab7d3d9f911ef40bac8df): Enables Vercel Analytics - 19-04-2025
+[jurisjudo](https://github.com/yafyx/jurisjudo/commit/f833627cbc57fb01c2783c4916d8508186f344d0): Simplifies AI model setup and cleans up code - 20-04-2025
 
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e7ab6e29db8558450a81c135237ee9f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anything You Want**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0e7ab6e29db8558450a81c135237ee9f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anything You Want**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b25a7088360538dde214d12820bd2bc1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lantas**<br>Juicy luicy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/291a6a990f6dbe6f9493517ea2b16759.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Niscaya**<br>Bilal Indrajaya<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cutting My Fingers Off**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
