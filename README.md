@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/73fcb06011ca424b57705f64e6a0535a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bird**<br>blue smiley<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ac37c513178e0b91d8850971918e2a3c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dreampopper's Tribute**<br>Rumskib<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0713a670c92118c79f7d9335a1574e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**the snow will catch us once again**<br>twinotter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
