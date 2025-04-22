@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**every scent**<br>Yokin<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Berbahagialah**<br>The Peal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6953f534db0560035dd3712d81ee5575.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Estrangers**<br>No Vacation<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88f3512a00939e5716818e610fabd695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senin Wage**<br>Nyonya Ayu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e436a14b1772e75b422001988c441d29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i do luv u**<br>okayceci<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aca38e2281bb78634191ae94634292ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thinking Of You**<br>EVNTYD<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dd7b5b816df68a266e3ccfc729d09413.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**love & doubt**<br>dacelynn<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
