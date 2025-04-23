@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/3382655c9382254048c2dc9bddd1dddd293632d6): Increases HTTP client timeout and adds debug logging for - 23-04-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/546c5803fbaa67e6bf68e12ce277ceba01874316): updates README - 23-04-2025
 
 [bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/ff1843fbc28b2754d03b169fbf9bdfb37af987a2): Refactor article scraping logic in main.py to remove date and tags extraction. Clean up content by skipping specific paragraphs and removing unwanted prefixes. Update output JSON structure accordingly - 22-04-2025
 
