@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11c7192fdd0a84924993a88915b3b38e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin Parade**<br>Etta Marcus<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6509f913a6e373f32b62b613c284d235.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Obstacles**<br>Syd Matters<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1e34ee7b44a5fcdf7836269af9ec8341.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Young**<br>VACATIONS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Right Side of My Neck**<br>Faye Webster<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
