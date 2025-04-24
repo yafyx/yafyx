@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3100cdd806e01e848ebbd7fd1857c40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roman Ketiga - Remastered 2023**<br>White Shoes & The Couples Company<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 3**<br>The Cottons<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8cb7b8a4ce0e0df0760bd652a2cbc451.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**honeydip - "Summer's Gone"**<br>Razxr INC.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mellow**<br>Whirr<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/73fcb06011ca424b57705f64e6a0535a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bird**<br>blue smiley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
