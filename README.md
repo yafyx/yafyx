@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3100cdd806e01e848ebbd7fd1857c40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roman Ketiga - Remastered 2023**<br>White Shoes & The Couples Company<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11c7192fdd0a84924993a88915b3b38e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin Parade**<br>Etta Marcus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 3**<br>The Cottons<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6509f913a6e373f32b62b613c284d235.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Obstacles**<br>Syd Matters<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8cb7b8a4ce0e0df0760bd652a2cbc451.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**honeydip - "Summer's Gone"**<br>Razxr INC.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92c9a92933ea3226bbfa10de026ab053.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What It Takes ? ( I Just Wanna Know )**<br>Magnolia Celebration<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
