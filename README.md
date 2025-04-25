@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**THE GREATEST**<br>Billie Eilish<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Velvet Ring - 2023 Remaster**<br>Big Thief<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers**<br>Ethel Cain<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7327bd581388498d9188d75467e535b7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Can't Handle Change**<br>Roar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**come**<br>Adrianne Lenker<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38b54229925d82165147b8d36ed52f53.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fable**<br>Gigi Perez<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
