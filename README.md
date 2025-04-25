@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/afd68432bf916d1a6cab27c04b6c0e72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**back to friends**<br>sombr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9740fa5648cb55db4c9b78dac32d7b6e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Boy**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d2aafe3449f4ce5d6cf172c55979f97d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**we'll never have sex**<br>Leith Ross<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67953dc12478f64f62bf6fe6103e49fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting Room**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/294236673237889ba97fcf54fd0bdc05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do I Wanna Know? - Live At the BBC**<br>Hozier<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
