@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**THE GREATEST**<br>Billie Eilish<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4aff7d6a4b53a57f3d377aa29e6fed38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Velvet Ring - 2023 Remaster**<br>Big Thief<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers**<br>Ethel Cain<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**come**<br>Adrianne Lenker<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b84e32e671b64dcd4a279cb65d0ed0d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diamonds and Rust**<br>Joan Baez<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Picture Soundtrack**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telephones**<br>VACATIONS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
