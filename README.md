@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6172279b43501c70719b85bd75cf2fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Need 2**<br>Pinegrove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**come**<br>Adrianne Lenker<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know the End**<br>Phoebe Bridgers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b84e32e671b64dcd4a279cb65d0ed0d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Diamonds and Rust**<br>Joan Baez<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/13f3a4b7b1fc4450c4701f7e7cf6f00e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Little Death**<br>The Neighbourhood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Picture Soundtrack**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telephones**<br>VACATIONS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
