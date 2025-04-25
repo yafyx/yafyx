@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86bd1b3efca841b89e919a48cbe06ba7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**August 10**<br>Julie Doiron<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6172279b43501c70719b85bd75cf2fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Need 2**<br>Pinegrove<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Surprises**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know the End**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2311fcf5b72a6cf906238ae8616aaa8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Risk**<br>Metric<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/13f3a4b7b1fc4450c4701f7e7cf6f00e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Little Death**<br>The Neighbourhood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db14077b223d4e7989703886574f7367.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vincent**<br>Don McLean<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a19aa03b741979ced36eb3ae001e8e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Treehouse**<br>Alex G<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
