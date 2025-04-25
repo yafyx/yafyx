@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/531bdb172f66ee3500e344936f1f22bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Motion Sickness**<br>Phoebe Bridgers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86bd1b3efca841b89e919a48cbe06ba7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**August 10**<br>Julie Doiron<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19391f8d327286da910a3ceae4734cf2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**October Language**<br>Belong<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Surprises**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**half return**<br>Adrianne Lenker<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2311fcf5b72a6cf906238ae8616aaa8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Risk**<br>Metric<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db14077b223d4e7989703886574f7367.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vincent**<br>Don McLean<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
