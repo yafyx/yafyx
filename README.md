@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f8d9476aa43567c4bb10aaee58f5d1ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i don't know you anymore**<br>Sombr<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/afc25e05d2a9b19068d120442ceee68c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**window**<br>sundots<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
