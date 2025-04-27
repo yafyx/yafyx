@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[baak-api](https://github.com/yafyx/baak-api/commit/546c5803fbaa67e6bf68e12ce277ceba01874316): updates README - 23-04-2025
+[bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/00b452f11b4f6e322e9eb9c462dc6f83380bc031): Update article scraping logic in main.py to standardize title and content formatting. Titles are now converted to lowercase - 27-04-2025
 
-[bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/ff1843fbc28b2754d03b169fbf9bdfb37af987a2): Refactor article scraping logic in main.py to remove date and tags extraction. Clean up content by skipping specific paragraphs and removing unwanted prefixes. Update output JSON structure accordingly - 22-04-2025
+[baak-api](https://github.com/yafyx/baak-api/commit/546c5803fbaa67e6bf68e12ce277ceba01874316): updates README - 23-04-2025
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
 
