@@ -14,8 +14,6 @@ ship something that nobody asked for
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
 
-[jurisjudo](https://github.com/yafyx/jurisjudo/commit/f833627cbc57fb01c2783c4916d8508186f344d0): Simplifies AI model setup and cleans up code - 20-04-2025
-
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
@@ -27,6 +25,8 @@ ship something that nobody asked for
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 
 [click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
+
+[timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
 <!-- recent_commits ends -->
 
 </td>
