@@ -37,6 +37,8 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Worry For Being Alone**<br>The Milo<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5b06a3fc07e41a0d2946a407d4349601.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**ruined - check**<br>Adrianne Lenker<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/79a92e9e0494b30da176e53c124688de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Back To Me**<br>The Marías<br clear="left">
