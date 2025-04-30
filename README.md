@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/249ab264447f313f78c4015f9573c064.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I See You Tomorrow**<br>Vira Talisa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0c019495e204ae8caca440d70b1fc3d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stars In Your Eyes**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What If**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like It Was Meant To Be**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66f02567a3c1f0039e8baa3fbebfaaf4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stupido Ritmo**<br>Float<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
