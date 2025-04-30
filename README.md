@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Happy Sad**<br>kalé<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Closure**<br>Impromptu.<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8db1b5fd988d7e9ed015b2180ed5b96b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Romantic Purple**<br>The Milo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**neutural**<br>Loon<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dreams**<br>The Milo<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
