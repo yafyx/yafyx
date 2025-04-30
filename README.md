@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f95bfe23a4794af9a02df618f7bf2afb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where'd All The Time Go?**<br>Dr. Dog<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Think I'm In Love**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb16390c025edcd77e54f467195fc4ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretty Boy**<br>The Neighbourhood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1023ff5bd3294e328b8ae0d2472cdb73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Adelaide Sky**<br>Adhitia Sofyan<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07bfb52b9317272d880686422df02108.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Angela**<br>Flower Face<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the Time Being**<br>Vira Talisa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harvey**<br>Alex G<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
