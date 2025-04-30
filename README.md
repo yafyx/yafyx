@@ -39,8 +39,6 @@ ship something that nobody asked for
 <!-- recent_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb91ed9c892a4cac8086a05a21c2db4f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The World Is Ugly**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb91ed9c892a4cac8086a05a21c2db4f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The World Is Ugly**<br>My Chemical Romance<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 
 <img src="" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard to Explain**<br>The Strokes<br clear="left">
