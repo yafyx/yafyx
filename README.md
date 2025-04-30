@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88f3512a00939e5716818e610fabd695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senin Wage**<br>Nyonya Ayu<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**White Nose**<br>Roadtrip to Antarctica<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Conversation**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
