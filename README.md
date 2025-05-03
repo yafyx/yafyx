@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f21f9c3a0f63fb06990c0a66ef2ec741.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baby Came Home 2 / Valentines**<br>The Neighbourhood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Adults Are Talking**<br>The Strokes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cef1f1d0756184860c3c8f60d91aba64.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pink Triangle**<br>Weezer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b0898a313e99ec861af64bedc72834f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i wanna be your girlfriend**<br>girl in red<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fef8029419def9662c7e977cd474e9b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High Enough**<br>K.Flay<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86e765555e472c686ddfd172f63a9982.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reflections**<br>The Neighbourhood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c88a8a1ccd7f9cba62affe010471d7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It Almost Worked**<br>TV Girl<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
