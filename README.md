@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86e765555e472c686ddfd172f63a9982.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reflections**<br>The Neighbourhood<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f21f9c3a0f63fb06990c0a66ef2ec741.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daddy Issues**<br>The Neighbourhood<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34c5bcd741163520aff30f5c2e99ce4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**September**<br>Chestnut Bakery<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/14bfe6e9d0d64453d79477f23b77ae03.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breakbeats**<br>pasteboard<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You By My Side**<br>Yuragi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
