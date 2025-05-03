@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67953dc12478f64f62bf6fe6103e49fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting Room**<br>Phoebe Bridgers<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c27f9fe8b9bb8a533ea868265f43e125.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mendarah**<br>Nadin Amizah<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Surprises**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Wanted**<br>Paramore<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2ecd547171fc923b5b32718a8e8780a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everlong**<br>Foo Fighters<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,9 +51,9 @@ ship something that nobody asked for
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
