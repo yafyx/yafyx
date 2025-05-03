@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaf625e4571d62772ee3a1e2f277dfa2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Dies Harder**<br>Natalie Wilson<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14bfe6e9d0d64453d79477f23b77ae03.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breakbeats**<br>pasteboard<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Realize**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You By My Side**<br>Yuragi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer Night**<br>Pop at Summer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78b529ba28bbcb0002215cf4632822f2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Seumur Hidup Kan Ku Habiskan**<br>Harum Manis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90fbf874f9a30f119ed7d217a7be377.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Borrowed Time**<br>Idlework.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
