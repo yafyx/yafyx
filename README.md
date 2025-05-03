@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/562162c721d2ef39cbf67fe1a6d6fbb8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gold and Green**<br>Slaughter Beach, Dog<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c9580a5d2d4d4bf29f1061d75043777c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Should've Left Our Hearts in The South Where They First Met**<br>Beijing Connection<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**every question i withhold, every answer you never told**<br>eleventwelfth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cef1f1d0756184860c3c8f60d91aba64.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pink Triangle**<br>Weezer<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d302c20bb191e7c5bf537748e1d091b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Third Degree**<br>Movements<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
