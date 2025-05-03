@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57cb7afaf9c97136c4650511f7e3ffa7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want You By My Side**<br>Yuragi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78b529ba28bbcb0002215cf4632822f2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Seumur Hidup Kan Ku Habiskan**<br>Harum Manis<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90fbf874f9a30f119ed7d217a7be377.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Borrowed Time**<br>Idlework.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
