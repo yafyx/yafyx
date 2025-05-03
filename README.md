@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cef1f1d0756184860c3c8f60d91aba64.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pink Triangle**<br>Weezer<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67953dc12478f64f62bf6fe6103e49fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting Room**<br>Phoebe Bridgers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d302c20bb191e7c5bf537748e1d091b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Third Degree**<br>Movements<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c27f9fe8b9bb8a533ea868265f43e125.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mendarah**<br>Nadin Amizah<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
