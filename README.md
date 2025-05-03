@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Adults Are Talking**<br>The Strokes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b0898a313e99ec861af64bedc72834f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i wanna be your girlfriend**<br>girl in red<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No Surprises**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59c88a8a1ccd7f9cba62affe010471d7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It Almost Worked**<br>TV Girl<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Wanted**<br>Paramore<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2ecd547171fc923b5b32718a8e8780a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everlong**<br>Foo Fighters<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
