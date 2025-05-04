@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Smooth Operator - Single Version**<br>Sade<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e53a5b279d81c5bee2508cf01f875a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Knockin' on Heaven's Door**<br>Bob Dylan<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b61c0246b523481a92428dc3310ce5fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take on Me**<br>a-ha<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b77a8a007f65193401c62345e3f37b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Imagine - Remastered 2010**<br>John Lennon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/39978a26674248990c2a49ef278efc38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wonderful Tonight**<br>Eric Clapton<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dfeb124c4afcdcbeba14f3122c7fb1ff.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever Young**<br>Alphaville<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7025ef0f36194376c379e0c53bd370a4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**There She Goes**<br>The La's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
