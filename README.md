@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/805739af302b4a3d611a5fd7d8ac4b96.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Message in a Bottle**<br>The Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Smooth Operator - Single Version**<br>Sade<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Scientist**<br>Coldplay<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b61c0246b523481a92428dc3310ce5fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take on Me**<br>a-ha<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friday I'm in Love**<br>The Cure<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/39978a26674248990c2a49ef278efc38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wonderful Tonight**<br>Eric Clapton<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd3fdb3a02d34cffb12714405f2a6dfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eyes Without a Face**<br>Billy Idol<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dfeb124c4afcdcbeba14f3122c7fb1ff.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever Young**<br>Alphaville<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
