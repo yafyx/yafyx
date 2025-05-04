@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Look Back In Anger - Remastered**<br>Oasis<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/805739af302b4a3d611a5fd7d8ac4b96.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Message in a Bottle**<br>The Police<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a4bbf73ba62024be279364e867b0ca20.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here Comes the Sun - Remastered 2009**<br>The Beatles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Scientist**<br>Coldplay<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db2010fbfdaeea0d270993d87af3c96a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everybody Wants to Rule the World**<br>Tears for Fears<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friday I'm in Love**<br>The Cure<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c56262cd214d1a81c5030d98ab7a5736.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Every Breath You Take - Alternate Mix**<br>The Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd3fdb3a02d34cffb12714405f2a6dfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eyes Without a Face**<br>Billy Idol<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
