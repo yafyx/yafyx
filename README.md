@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e8aa58fcd8e7b2280c2e8a3fbf8d799.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me**<br>Sixpence None the Richer<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/366909a9e6afb9e13d75a01dfd717cf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Woman - Remastered 2010**<br>John Lennon<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6b62ef2702caedfc52adb873e70b432.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roxanne**<br>The Police<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b2e8659bfffa677aba7b5c013c3fb19e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Baby**<br>The Ronettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wonderwall - Remastered**<br>Oasis<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef8cd751d5339534cc2e94e2a9df168b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Creep**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
