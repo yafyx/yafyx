@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/023a7afe8d3f76e588ed341c0911d175.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven**<br>Bryan Adams<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/186d8f509e10fafc3493fc2ae7852a64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Every Breath You Take**<br>The Police<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reptilia**<br>The Strokes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**India Rubber**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
