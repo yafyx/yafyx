@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/023a7afe8d3f76e588ed341c0911d175.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven**<br>Bryan Adams<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b2e8659bfffa677aba7b5c013c3fb19e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Baby**<br>The Ronettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/186d8f509e10fafc3493fc2ae7852a64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Every Breath You Take**<br>The Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wonderwall - Remastered**<br>Oasis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reptilia**<br>The Strokes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef8cd751d5339534cc2e94e2a9df168b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Creep**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
