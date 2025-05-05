@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2112**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**you are the summertime itself**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/631968a932c4221c01b6720353182a38.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hook Up**<br>Holy City Rollers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
