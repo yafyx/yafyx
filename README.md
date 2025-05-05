@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8db1b5fd988d7e9ed015b2180ed5b96b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Romantic Purple**<br>The Milo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2918d0428743781e8730636f8d57ac25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pancarona**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like It Was Meant To Be**<br>Vira Talisa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be On My Own Tonight**<br>Satria The Monster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anything You Want**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3100cdd806e01e848ebbd7fd1857c40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roman Ketiga - Remastered 2023**<br>White Shoes & The Couples Company<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c3a8d2bb048a642a1cbf17e199932217.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita Akan Bertemu Di sana**<br>WhisperDesire<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
