@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e53a5b279d81c5bee2508cf01f875a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Knockin' on Heaven's Door**<br>Bob Dylan<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**33x**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b77a8a007f65193401c62345e3f37b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Imagine - Remastered 2010**<br>John Lennon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7025ef0f36194376c379e0c53bd370a4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**There She Goes**<br>The La's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/74f05b741bd9481a88cf7b3b471697f1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Angel**<br>Mazzy Star<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
