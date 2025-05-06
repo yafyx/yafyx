@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Utopian Dream**<br>Pure Saturday<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**another night awake with you on my mind.**<br>eleventwelfth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86fcd6ca0c58a5ee8822c41957fcd528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Know That Youth Never Left**<br>Milledenials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5defc753d7ea7cb1c1b0ff9fde5163b4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biru**<br>Barefood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dec7132412dbc1981628dce37351faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lari 100**<br>The Sastro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Makes a Room Feel Emptier Than Wanting Someone in it**<br>Garside<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Get Into Your Mind**<br>The Milo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Langit Terbuka Luas, Mengapa Tidak Pikiranku, Pikiranmu?**<br>Pure Saturday<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
