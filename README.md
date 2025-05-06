@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cookie Crumbles**<br>Moongazing And Her<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/47885d5bc806989a2ef891df72c106b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parak**<br>Polyester Embassy<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86fcd6ca0c58a5ee8822c41957fcd528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Youth LiFe**<br>Milledenials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
