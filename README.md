@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cookie Crumbles**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8db1b5fd988d7e9ed015b2180ed5b96b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Romantic Purple**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/47885d5bc806989a2ef891df72c106b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parak**<br>Polyester Embassy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/068358eac78b03e7e93b7feb339561f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**False Alarm**<br>Heals<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78b529ba28bbcb0002215cf4632822f2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baju Pengantin**<br>Harum Manis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff2632237e5fbf8c34a12e76fca01346.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bokura**<br>bioneunnal<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
