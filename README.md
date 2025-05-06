@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/46e3ed66330f171a146c87900b7a3c7d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2013/Bluest Year I've Been**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yesterday Is Gone**<br>The Cottons<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a82476b2b480c91137c0cff86e8c83d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**kamera**<br>Swellow<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78b529ba28bbcb0002215cf4632822f2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gelandang**<br>Harum Manis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/411559af092e820b47508012cacbb486.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Langit Seharusnya Biru**<br>The Milo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4e216b1d48670db360cb709716e5261.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dialektika**<br>Buktu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spending**<br>Cal<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
