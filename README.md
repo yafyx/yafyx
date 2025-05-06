@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**another night awake with you on my mind.**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/47885d5bc806989a2ef891df72c106b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parak**<br>Polyester Embassy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5defc753d7ea7cb1c1b0ff9fde5163b4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biru**<br>Barefood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Makes a Room Feel Emptier Than Wanting Someone in it**<br>Garside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Langit Terbuka Luas, Mengapa Tidak Pikiranku, Pikiranmu?**<br>Pure Saturday<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86fcd6ca0c58a5ee8822c41957fcd528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Youth LiFe**<br>Milledenials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
