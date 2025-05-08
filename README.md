@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4b493b786f8d1e5879602c36d78a1cc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**daisy.**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b35e6ed70e0613f01e2fb910e97a4f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**봄: 별은 노래한다 (Constellation’s Song)**<br>Della Zyr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ff4a1a0d6b895361d8283bf1e3fa632.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**138**<br>BrokenTeeth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f55c87a081a6eb176f77aa8c378e5c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Float Away**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/85a354284ccc1ebe2ea4d0f42a657a05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gold River**<br>Parannoul<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bbee3fc4c9eb05ab5d272207f5917032.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**in my room, gazing into book page**<br>bioneunnal<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
