@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19668dc6d158933c32590ef05d578572.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baby Come Back**<br>Player<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef8cd751d5339534cc2e94e2a9df168b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Creep**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b2e8659bfffa677aba7b5c013c3fb19e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be My Baby**<br>The Ronettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b80c796f4174d503280a61d14cf6872f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Look Back In Anger - Remastered**<br>Oasis<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
