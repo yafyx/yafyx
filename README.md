@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Buried**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/467852d634ae4e693dd7f6e74e41e3da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Home To You**<br>Post-Modern Connection<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Entire History of You**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e26213ab6bc8d441647c106954bc1527.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**flip your pillow**<br>runo plum<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Entire History of You**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a472fe9191bf62ae51c35105852e15c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**impossible**<br>Wasia Project<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83eeb7828f0e83ca3531180104ef1029.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling With The Rain ft. Shelly**<br>Claud<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
