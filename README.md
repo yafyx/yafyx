@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598a0a5b68e6f4329887c891becd0d8c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Forgot to Say Goodbye**<br>Megumi Acorda<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/08a0c458e8214ed833c8b553959d36a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Marie**<br>The Walters<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/537d2d2d733766b89f92fdad00fc8344.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**melting tides**<br>orange flavored cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191009 I Like Her**<br>Mac DeMarco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Mile in My Shoes**<br>Lostvinyl<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a74d738abe29fb1a40584ccc8843dcd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Numb**<br>Men I Trust<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
