@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/598a0a5b68e6f4329887c891becd0d8c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Forgot to Say Goodbye**<br>Megumi Acorda<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/537d2d2d733766b89f92fdad00fc8344.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**melting tides**<br>orange flavored cigarettes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Mile in My Shoes**<br>Lostvinyl<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/119a9c9d5625e8a8aa56560b9968abc0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow Dance**<br>Damdamgugu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Butt**<br>Bubble Tea and Cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
