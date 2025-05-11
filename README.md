@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19668dc6d158933c32590ef05d578572.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Baby Come Back**<br>Player<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef8cd751d5339534cc2e94e2a9df168b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Creep**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**homesick**<br>wave to earth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/186d8f509e10fafc3493fc2ae7852a64.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Every Breath You Take**<br>The Police<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9740fa5648cb55db4c9b78dac32d7b6e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Boy**<br>The Smashing Pumpkins<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
