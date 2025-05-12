@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/15f9fba124c31b5f5f0efb7ddd2ca014223e435d): Hides Google branding and default map UI - 12-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/a84b5898e359a67d56f1feaf2c251737e9097791): Refactor: Improves find API mock with dynamic vendor data - 12-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
