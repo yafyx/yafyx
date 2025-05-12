@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ebab0f7ce4e3a8fc2334f811427df6f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stress Relief**<br>late night drive home<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moonlight on the River**<br>Mac DeMarco<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a133a409f1012e24d2e9ca1613551f57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know You**<br>Faye Webster<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**love.**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dfc90eece3bcdfbfe7c860d1f54477b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harvey**<br>Her's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccc11aceb641b87bb5a8fbcfdd554c18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telephones**<br>VACATIONS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
