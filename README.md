@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[KeLink](https://github.com/yafyx/KeLink/commit/2755839762a095d89b269429df3869a09d253962): first commit - 12-05-2025
+
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
 [bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/00b452f11b4f6e322e9eb9c462dc6f83380bc031): Update article scraping logic in main.py to standardize title and content formatting. Titles are now converted to lowercase - 27-04-2025
@@ -25,8 +27,6 @@ ship something that nobody asked for
 [pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 
 [hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
-
-[click-dialogue](https://github.com/yafyx/click-dialogue/commit/a24adcbd56d31a8cb8dbc8b8560f4e2f8c0324a1): Optimize AutoHotkey clicking script for performance - 17-09-2024
 <!-- recent_commits ends -->
 
 </td>
