@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4564b791749b0d266f9d5e57130dd5f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Without You**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/669e4fdc792fffd53f969820325843ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heavy**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bonfire**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f714f8cab695454cd9fd5b5a4c05889.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fragile**<br>Laufey<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/824921f6bdcf5846a4f5c25654abbbf8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roommates**<br>Malcolm Todd<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eb2d9fe6d35942115e5216e7624539e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**still love you (todavía)**<br>The Tulips<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dddf54c96c26fc8ec06ea2fba0f7b0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovergirl**<br>saturra<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf6f1d233991014a20695a1099613a7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Steeeam**<br>Shelly<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
