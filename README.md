@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/43f7062d6923e2e2c5e676e6a77402e0f997c55f): update Tailwind CSS configuration - 12-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/6f7ac33338182d705fd47d7a6fe8198cc98d20e9): Enhances homepage with interactive vendor discovery - 12-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
