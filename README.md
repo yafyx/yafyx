@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/6ec7389119ee1cee559a309b16ac1b0bbf7d015f): Refactors chat UI, enhances animations and layout - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/806b16bf60fc334e017f34c40ca161d24df2cec7): Refine UI styling for consistency - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Her**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Afloat**<br>The Ferrules<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Poison**<br>Thread Needle<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spending**<br>Cal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2e24d2cc94080a1d172befbe9402440.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moonflower**<br>rei, the catboi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**So long**<br>Trxy!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f52926509ad46869ebbf8321b093c2a0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Precious Me**<br>Milledenials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
