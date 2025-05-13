@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/afe4b25d81719a25a51551b26dcd7000.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Estetika Stroberi**<br>Winona Dryver<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/550dc2f1ed40e3f5c28b3362afb8ad11.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Before Dawn**<br>Unflirt<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**leave me alone**<br>Lilly Flower<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17ee6c8861d2b270bb9051ae087f274d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer's Gone And So Are You**<br>uju<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ae2dd7d3417833ba1628be7e1c60d90.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anthracite Grey**<br>Cal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Imaginary Party**<br>Novocrane<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/52fd38f02aff7dabab5111c6dba4ea32.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plane Crash**<br>Bubble Tea and Cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
