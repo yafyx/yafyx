@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Underwater**<br>waylus<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cosmic Ray**<br>Moon, Night and Stars<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**i love u but u don't and i hate you**<br>grazeblurr.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e5797422ad97ee0450494a7f043a5bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eventually Wave Is**<br>sosil<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**garden of sorrow**<br>crykou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Believe Myself**<br>dayun<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/37b676201a707ee511a09ed0bfa6040b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eat My Bipolar**<br>rei, the catboi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**staywitway**<br>fatty_offline<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
