@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sea Waves**<br>Puremoon<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f661966f709e9a9070474c0ad62605b6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Buried**<br>Fleuro<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/63d2ce62d7320775e96c9aa11150cbd7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cradle of Fear**<br>Karoline's Lullaby<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff6214f274b1be7474233d69b666b60d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**realize**<br>Trxy!<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cosmic Ray**<br>Moon, Night and Stars<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
