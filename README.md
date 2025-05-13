@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/87ba726a5b6134a05030b89e2695d4b20cc99558): Implement AI-powered search and complete vendor functionality - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/d81197a8acd283364722b4af976fe125734388f5): Integrates data privacy controls and user consent - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7549488ae9cad1108bd2c34eae748ce3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pearl of Orient**<br>Sunny Summer Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In My Head**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I wanted it to be you**<br>fatty_offline<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Placid Mind**<br>Shrine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c072110248efc27c741cfd2ffae30bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serenity**<br>Shrine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**BLUE WINE**<br>EÄZZ.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dismal**<br>kalé<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
