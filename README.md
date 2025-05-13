@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/806b16bf60fc334e017f34c40ca161d24df2cec7): Refine UI styling for consistency - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/8163f3f854cf0dd2a2a3c0068060019ab80e95ca): Add FeatureBanner component and integrate it into the homepage - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Afloat**<br>The Ferrules<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**leave me alone**<br>Lilly Flower<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spending**<br>Cal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ae2dd7d3417833ba1628be7e1c60d90.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anthracite Grey**<br>Cal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fault**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f52926509ad46869ebbf8321b093c2a0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Precious Me**<br>Milledenials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/459487dfbfe9432a198166dca3b917bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**“every_q,EVERY_A” (In Inertia ver.)**<br>eleventwelfth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
