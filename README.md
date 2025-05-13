@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/d81197a8acd283364722b4af976fe125734388f5): Integrates data privacy controls and user consent - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/6ec7389119ee1cee559a309b16ac1b0bbf7d015f): Refactors chat UI, enhances animations and layout - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6c2e64bbc2e2b80f4adc1c7bb998a8aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under Your Sun**<br>heavëner<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Her**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Welver**<br>kalé<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Poison**<br>Thread Needle<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Entire History of You**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2e24d2cc94080a1d172befbe9402440.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moonflower**<br>rei, the catboi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**So long**<br>Trxy!<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
