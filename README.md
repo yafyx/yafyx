@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/fb42e40311081e1c3ae7f0abdd5ddd262706896c): Update dependencies, enhance find API with pagination, and improve chat UI - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/7e3a1d6acf79e7b9d8a996979cab9b0a29c28f1c): Refactor FindPage and FloatingChat components for improved chat functionality and vendor handling - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
