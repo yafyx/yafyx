@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/8163f3f854cf0dd2a2a3c0068060019ab80e95ca): Add FeatureBanner component and integrate it into the homepage - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/fb42e40311081e1c3ae7f0abdd5ddd262706896c): Update dependencies, enhance find API with pagination, and improve chat UI - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ada983341d20a27d9490a9d9758bfdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please don't stop being sweet to me**<br>Lace<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**c i g a r e t t e s**<br>Variation<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/52fd38f02aff7dabab5111c6dba4ea32.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swallowtail Butterfly**<br>Bubble Tea and Cigarettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shade Your Way**<br>Chic Chameleon<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d48207ad85decc0fd28099bcce355d8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Differently**<br>Unflirt<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cbd850247431500b64db64a5dd2f743a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**could i get what i want**<br>Starberry<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
