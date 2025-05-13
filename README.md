@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The time will pass anyways**<br>Gabe Moon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6c2e64bbc2e2b80f4adc1c7bb998a8aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under Your Sun**<br>heavëner<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I wanted it to be you**<br>fatty_offline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Welver**<br>kalé<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c072110248efc27c741cfd2ffae30bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serenity**<br>Shrine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dismal**<br>kalé<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Entire History of You**<br>Fleuro<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
