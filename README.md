@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/afe4b25d81719a25a51551b26dcd7000.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Estetika Stroberi**<br>Winona Dryver<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**leave me alone**<br>Lilly Flower<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3ae2dd7d3417833ba1628be7e1c60d90.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anthracite Grey**<br>Cal<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fault**<br>Puremoon<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/459487dfbfe9432a198166dca3b917bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**“every_q,EVERY_A” (In Inertia ver.)**<br>eleventwelfth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
