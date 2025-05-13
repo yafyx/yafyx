@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Break**<br>alex_g_offline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Underwater**<br>waylus<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0fc48f2b5906f39385216339b15388f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed (Extended English)**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**i love u but u don't and i hate you**<br>grazeblurr.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**garden of sorrow**<br>crykou<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/37b676201a707ee511a09ed0bfa6040b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eat My Bipolar**<br>rei, the catboi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
