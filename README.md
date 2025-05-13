@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/526e04c357ccb8b85e85be885ccee6f95915960c): Add react-markdown dependency and refactor layout for authentication context - 13-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/d61c1c3091c1ca1aab028e68a0f7afed5ca06d14): Enhances homepage UI and introduces new features - 13-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
