@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/2d503e630be180c1f2d0fb04166847bb2d0d23e2): Refines UI and updates vendor card content - 14-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/2babd0c4dae47e22deb1fccb7858c4ee0c40aea1): Introduces an onboarding flow for first-time users - 14-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
