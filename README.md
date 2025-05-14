@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Distant Memories**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reciprocal View of the Seashore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/169925dcdba096eb1c48745819718b7b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover**<br>The Walters<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ffe865992405e4c8ef3d495497cd95e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Earth is a Very Small Dot**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow Love**<br>Heaven Affair<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ada983341d20a27d9490a9d9758bfdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please don't stop being sweet to me**<br>Lace<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Look My Way**<br>Sleep Shelter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
