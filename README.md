@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeliLink](https://github.com/yafyx/KeliLink/commit/0b669a28443f82c29cc621bf2107d4a7e542e5f3): Optimizes UI performance with memoization - 15-05-2025
+[KeliLink](https://github.com/yafyx/KeliLink/commit/65762ac6260a82246a18856c49e4cdd28852bd1b): Refactors and enhances UI of authentication pages - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/95b3225244cddbb4f8bef5e640678577.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wallow**<br>Forsaken Autumn<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/95b3225244cddbb4f8bef5e640678577.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vanish Into The Air**<br>Forsaken Autumn<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4ada983341d20a27d9490a9d9758bfdc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please don't stop being sweet to me**<br>Lace<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6c2e64bbc2e2b80f4adc1c7bb998a8aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Under Your Sun**<br>heavëner<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38760d8b5b32703fa5aee45d113d2064.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**aphrodite**<br>The Neverminds<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**give me another chance**<br>bioneunnal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3507f07fc2be997db62f73f421ace1ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**once in a green moon**<br>BrokenTeeth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38760d8b5b32703fa5aee45d113d2064.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**contrail**<br>The Neverminds<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
