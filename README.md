@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeliLink](https://github.com/yafyx/KeliLink/commit/429af01fc63f185840f868f16cb5f4bb60391294): Enhances Peddler Dashboard with new statistics and location management features - 15-05-2025
+[KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
