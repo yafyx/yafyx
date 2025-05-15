@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeliLink](https://github.com/yafyx/KeliLink/commit/72da52fb12faa11e42041d10d40cc6e1d6eefc0f): Refactors Peddlers Nearby card and enhances seed script with Firebase Auth - 15-05-2025
+[KeliLink](https://github.com/yafyx/KeliLink/commit/d15ac91e052585b784a535236b861e4c8c19edca): Refines AI assistant's interaction and query handling - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
