@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeliLink](https://github.com/yafyx/KeliLink/commit/69e5aae4373233557ed46525930c13f21a4d8b45): Update component styles and dependencies - 15-05-2025
+[KeliLink](https://github.com/yafyx/KeliLink/commit/0b669a28443f82c29cc621bf2107d4a7e542e5f3): Optimizes UI performance with memoization - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
