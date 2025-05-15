@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/798587d42ba6489bc4040a40d053ea8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dusk**<br>The Neverminds<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e4744d2f6db43e8ddbe76edfb920cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**粉红少女**<br>Pocari Sweet波卡利甜<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**you still linger on**<br>REIKA<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/798587d42ba6489bc4040a40d053ea8d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**haunt me**<br>The Neverminds<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e2e238f6770959bfb4e2a77a207a9667.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**剥がれてく**<br>溶けない名前<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7909261262ffb0e4967d4b72229ede98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**云朵**<br>Jo's Moving Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df3d8fa1218f1b9b2f35f2f41386e12a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Watashi no Aishita Manatsu no Shinigami**<br>My Dead Girlfriend<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
