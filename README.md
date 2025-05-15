@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeLink](https://github.com/yafyx/KeLink/commit/2babd0c4dae47e22deb1fccb7858c4ee0c40aea1): Introduces an onboarding flow for first-time users - 14-05-2025
+[KeLink](https://github.com/yafyx/KeLink/commit/69e5aae4373233557ed46525930c13f21a4d8b45): Update component styles and dependencies - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e5dccf223bb3c97c29ed7d2cc64da51d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pesawat kertas**<br>bioneunnal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/000b39c027853ae76cb15068bb9727bd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**9**<br>Uchu Nekoko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0713a670c92118c79f7d9335a1574e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**the snow will catch us once again**<br>twinotter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bf5450437dc3f58e621c71f2acf8886e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**somewhere**<br>The Neverminds<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3bb5f4c69d7b45ff974be57de2b5307d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**kinoshita fuyou**<br>My Dead Girlfriend<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/24fe400fb6484ca7aca4db458011c699.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**who are you?**<br>kinoue64<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e4744d2f6db43e8ddbe76edfb920cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cream**<br>Pocari Sweet波卡利甜<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**hiraeth**<br>bioneunnal<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
