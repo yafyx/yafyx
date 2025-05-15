@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[KeliLink](https://github.com/yafyx/KeliLink/commit/f9c9b790246718bda362955d27130e6532b2107e): Enhances peddler display and chat functionality - 15-05-2025
+[KeliLink](https://github.com/yafyx/KeliLink/commit/f1b45e5132ec3c6e80e2eb8eeb4e23c04d6a7360): Refine peddler search by keyword and improve chat location UX - 15-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
