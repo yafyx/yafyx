@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/6abf395211bc12fc8017905b5d20010c5711caee): Updates version and adds icon - 16-05-2025
+
 [KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
 
 [waras](https://github.com/yafyx/waras/commit/743d070ad538df1640ea6189279d1226f469ebf6): Updates Open Graph image - 12-05-2025
@@ -25,8 +27,6 @@ ship something that nobody asked for
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
-
-[pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 <!-- recent_commits ends -->
 
 </td>
