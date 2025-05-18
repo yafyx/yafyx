@@ -8,11 +8,11 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[waras](https://github.com/yafyx/waras/commit/46a62d92b819f48a5d47f20bba70a693f4230103): Update README.md - 18-05-2025
+
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/6abf395211bc12fc8017905b5d20010c5711caee): Updates version and adds icon - 16-05-2025
 
 [KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
-
-[waras](https://github.com/yafyx/waras/commit/743d070ad538df1640ea6189279d1226f469ebf6): Updates Open Graph image - 12-05-2025
 
 [alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
 
