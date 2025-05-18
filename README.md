@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7d5eb9f3a54a634a363dc077b1e793c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Tried / We Failed**<br>Eleanor Whisper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lalu Biru**<br>Eleanor Whisper<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Struck**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tears Are Holding Me Tight**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17b1099a3bd24ba3773ad6bbea97df70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serotonin**<br>Puff Punch<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ecb3449000f5640973a3e3ae0b21b6c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pop Song**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
