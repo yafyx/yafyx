@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Deserve an Oscar (quiet)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oldest Trick In The Book**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0b41a4089091c6e9490c66bc558ba8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tangled**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9bc77da0d3c44936c93abeb65863b64a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My I Love You**<br>Frankie Cosmos<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0b41a4089091c6e9490c66bc558ba8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Darkness Of The Spotted Mind**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mystery**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
