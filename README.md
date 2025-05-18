@@ -37,6 +37,8 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rain Beads**<br>Drizzly.<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beauty Little Eyes**<br>vievv<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**House Arrest**<br>Puff Punch<br clear="left">
