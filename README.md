@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3954d56601f31106b0be09fe183947ce.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In a Good Way**<br>Faye Webster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ed4cf0ce373ab55db1da91012921604.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Young**<br>VACATIONS<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4dc11d09eece584bf9eb6d3aab49b02e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beanie**<br>Chezile<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb0096574e0f97ba5219c8e2ae93c00d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**would've been you**<br>Sombr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/493a5ad4c036f69b73678589688cd281.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Piece of You**<br>Nathaniel Constantin<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
