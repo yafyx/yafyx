@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Butt**<br>Bubble Tea and Cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Scientist**<br>Coldplay<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a0843531ffd5152631cad13ce5a088e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hard to Love**<br>Crying City<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6172279b43501c70719b85bd75cf2fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Need 2**<br>Pinegrove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fec5db8a897691ade6f20cbaf2142ba7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**stuck on you**<br>April June<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/29eaeea1ae76200adbe95e7d88f20f74.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**do i ever cross your mind**<br>Sombr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/afd68432bf916d1a6cab27c04b6c0e72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**back to friends**<br>sombr<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
