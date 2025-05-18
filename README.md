@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b03d3b3eec645d794b1cec17ae6fbf40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alive Again - Acoustic Version**<br>Tender Shoots<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow Love**<br>Heaven Affair<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -49,9 +51,9 @@ ship something that nobody asked for
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
