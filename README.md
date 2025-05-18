@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63a077029d6f44019e787cefbaa9b688.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Empty**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Struck**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/228b19f1abb8dc1283fc3874466038fe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Coming Back to Me**<br>Leith Ross<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17b1099a3bd24ba3773ad6bbea97df70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serotonin**<br>Puff Punch<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Company**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We're on Date!**<br>Drizzly.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
