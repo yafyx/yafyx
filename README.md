@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harbor**<br>Clairo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Deserve an Oscar (quiet)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/06c4fcc2377fa0408dc821292949d303.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pluto**<br>Phum Viphurit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff3da4ce70b56e9012b3ea8436a8fe5f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How Can I Tell You?**<br>Fiji Blue<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Go Downstairs to the Blue Moon, Buy Some Fried Chicken**<br>Bubble Tea and Cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9bc77da0d3c44936c93abeb65863b64a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My I Love You**<br>Frankie Cosmos<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
