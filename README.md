@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a30db2907e22dedf3bf76d3c304560bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1978**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beauty Little Eyes**<br>vievv<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sneeze!**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**House Arrest**<br>Puff Punch<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c882a79eec90e87675099cb0849d70c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be The One**<br>Lunarways<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
