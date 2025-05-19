@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8d5ef019404789de12ed0aedd670a035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goddess**<br>Laufey<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1645e2f9f7f9f79154b75fd6fbdf6293.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Something About You**<br>Eyedress<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c8935c345285f574120a493c39c2a30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only in My Dreams**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wildflower**<br>Beach House<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72898c483b8f18e314b24f37633fc827.gif" width="48" height="48" align="left" style="margin-right: 10px;"/>**Always Forever**<br>Cults<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sarah**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For the First Time**<br>Mac DeMarco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
