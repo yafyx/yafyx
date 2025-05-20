@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stuck**<br>Ray Viera Laxmana<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Moon Parch’t**<br>Drizzly.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/26d19dc84a33fb9c2c056577c36d94b0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Sky View**<br>TAMAGO<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
