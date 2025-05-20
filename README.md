@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ce1a44111bd0b7e324ad94fea49e2b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Monolog**<br>Pamungkas<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f768a04eeb23a23500fb79a2de48414a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vine**<br>Ray Viera Laxmana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50fe35745aee4c67d90fb889de14adac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pathetic**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**karolina**<br>Sore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd930e295650d2324e9e36e263c18aa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon**<br>Sunwich<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +53,7 @@ ship something that nobody asked for
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
