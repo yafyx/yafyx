@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Love You**<br>Yellow Flower Living Water<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birch Tree**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loner Cavalier**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f69fdf1f27e87f97c7e59d3f9b316539.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unexpectedly**<br>Megumi Acorda<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
