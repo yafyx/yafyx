@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5f88534b45e86fafa94d4e8792b0ea7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**From Best Friends to Lovers, from Lovers to Strangers**<br>Beijing Connection<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wanna Wanna Go**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Worry For Being Alone**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies - Remastered**<br>Yellow Flower Living Water<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
