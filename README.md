@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60200f62248c2ce16f602f983cbcc6fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling Apart**<br>Slow Pulp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 2**<br>The Cottons<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/724c57b3a6cb1f894ea71afdc056a5ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Birch Tree**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f69fdf1f27e87f97c7e59d3f9b316539.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unexpectedly**<br>Megumi Acorda<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harbor**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rom-Com Gone Wrong**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4fa8d015b3d388a393571af600f116d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unrequited Love (& other clichés)**<br>Breakup Shoes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
