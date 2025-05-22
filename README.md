@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68832b5124758bf755ff8fe251cf1a79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Putih**<br>Efek Rumah Kaca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65ab086613e599cff814c53b266f3f92.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nirrrlaba**<br>Lomba Sihir<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Simpul**<br>Swellow<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Api Dan Lentera**<br>Barasuara<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d06dcf91d79a57eda0f57aea979d7079.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala**<br>Perunggu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Caught in a Trap**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c027352af6b70094afbcb4375be594ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jatuh Cinta Itu Biasa Saja**<br>Efek Rumah Kaca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
