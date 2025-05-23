@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scissors Paper Scissors**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6dec7132412dbc1981628dce37351faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rasuna**<br>The Sastro<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc3562502d4bf00854f9ca7fa0ed4d23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin By Skin**<br>MUCH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tak Berdaya**<br>Swellow<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Realize**<br>Puremoon<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
