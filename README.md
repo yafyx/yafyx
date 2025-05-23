@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daun dan Ranting Menuju Surga**<br>The Milo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scissors Paper Scissors**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/260441086bb536847453f161c5b8925c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9a328951c3a2a6c676022be6c347f10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Fling**<br>Milledenials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22261a874fee4a44aecd14f1461791aa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tak Berdaya**<br>Swellow<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
