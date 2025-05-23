@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66698cc586f545b786c828424861ad1f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**faded blur**<br>Polyester Embassy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daun dan Ranting Menuju Surga**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the more i try to trace you forthwith, the less i want to know where to find you**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/260441086bb536847453f161c5b8925c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**<3 Song**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69906410127defb4074743dd11b2d14a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**7.0**<br>The Dare<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9a328951c3a2a6c676022be6c347f10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Fling**<br>Milledenials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
