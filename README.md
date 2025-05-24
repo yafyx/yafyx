@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[waras](https://github.com/yafyx/waras/commit/46a62d92b819f48a5d47f20bba70a693f4230103): Update README.md - 18-05-2025
+[waras](https://github.com/yafyx/waras/commit/cde805502aff58017f5cd053f3d7245633dd322b): Refactor input area component and integrate it into the home page - 24-05-2025
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/6abf395211bc12fc8017905b5d20010c5711caee): Updates version and adds icon - 16-05-2025
 
