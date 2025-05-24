@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You Ready**<br>Heals<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/87627eab04ca64c77dbaa27a42caf832.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ceiling**<br>Ministry of<br clear="left">
