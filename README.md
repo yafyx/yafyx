@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50ad28573bf6e6e843f1301fa9637a97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loves Hates Loves**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Want**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spaceship**<br>Sleep Shelter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e1c2af66754a2c98906243c8796c58d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**that cool girl from the gig**<br>Palbia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7d5eb9f3a54a634a363dc077b1e793c2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Tried / We Failed**<br>Eleanor Whisper<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
