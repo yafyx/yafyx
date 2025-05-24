@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yesterday Is Gone**<br>The Cottons<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Come Around**<br>Sleep Shelter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You Ready**<br>Heals<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f768a04eeb23a23500fb79a2de48414a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Noir Scene and The White Sheep Before I Sleep**<br>Ray Viera Laxmana<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
