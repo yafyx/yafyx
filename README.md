@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acd1d820ebfe3af20cf8abfdac8677b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodnight**<br>Rafi Sudirman<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e5e41c8c4abb2b211a864146b81e6be.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maybe Today**<br>9duck<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love is Waiting**<br>Me and My Sandcastle<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07468180db47f496b4beebebb1b4e8cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Puppy Princess**<br>Hot Freaks<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over and Over**<br>Me and My Sandcastle<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb0096574e0f97ba5219c8e2ae93c00d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**would've been you**<br>Sombr<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
