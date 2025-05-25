@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acd1d820ebfe3af20cf8abfdac8677b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodnight**<br>Rafi Sudirman<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/07468180db47f496b4beebebb1b4e8cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Puppy Princess**<br>Hot Freaks<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wanna Wanna Go**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
