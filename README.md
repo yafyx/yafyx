@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out Of Reach**<br>Vira Talisa<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf2d7e571bc53791288f87fc12df85a0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Way You Do**<br>Crying City<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e801bb8ea2a4623d5c96df77978145e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All In My Head**<br>Ebony Loren<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7c197200f921e89e07d3cdff65d7146.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Green**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
