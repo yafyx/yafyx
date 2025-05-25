@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Tomorrow Doesn't Exist**<br>vanako<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You There?**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skyblue - 2023 rerecorded**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87d02b1b5d002bd0175b3ff71d2cb076.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When I'm Blue**<br>Sweet Mylo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f0c308d6ae1fac0457adb67163b89112.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**wings - 2024 remastered**<br>jungumul<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd866dd0dc7b136f3ab7125e881ad8b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Quite Like You**<br>Peach Luffe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e20a43d51a8ebea25ad20aa0be28d85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**THE LAST LOVE**<br>Siggerr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**De Lune**<br>Kurosuke<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
