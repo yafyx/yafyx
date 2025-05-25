@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e5e41c8c4abb2b211a864146b81e6be.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maybe Today**<br>9duck<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Tomorrow Doesn't Exist**<br>vanako<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love is Waiting**<br>Me and My Sandcastle<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3737f68130aac587951555ad935f0102.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skyblue - 2023 rerecorded**<br>12BH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Over and Over**<br>Me and My Sandcastle<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f0c308d6ae1fac0457adb67163b89112.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**wings - 2024 remastered**<br>jungumul<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb0096574e0f97ba5219c8e2ae93c00d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**would've been you**<br>Sombr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e20a43d51a8ebea25ad20aa0be28d85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**THE LAST LOVE**<br>Siggerr<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
