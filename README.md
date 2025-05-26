@@ -14,6 +14,10 @@ ship something that nobody asked for
 
 [KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
 
+[alodokter-psikologi-scraping](https://github.com/yafyx/alodokter-psikologi-scraping/commit/75c867c9bbaf4d2de7a5c0249c3383b14e3bcd7e): first commit - 27-04-2025
+
+[bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/00b452f11b4f6e322e9eb9c462dc6f83380bc031): Update article scraping logic in main.py to standardize title and content formatting. Titles are now converted to lowercase - 27-04-2025
+
 [baak-api](https://github.com/yafyx/baak-api/commit/546c5803fbaa67e6bf68e12ce277ceba01874316): updates README - 23-04-2025
 
 [polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
@@ -23,10 +27,6 @@ ship something that nobody asked for
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
 [spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
-
-[pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
-
-[hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
 <!-- recent_commits ends -->
 
 </td>
