@@ -18,15 +18,15 @@ ship something that nobody asked for
 
 [bisniscom_tipskeuangan_scraping](https://github.com/yafyx/bisniscom_tipskeuangan_scraping/commit/00b452f11b4f6e322e9eb9c462dc6f83380bc031): Update article scraping logic in main.py to standardize title and content formatting. Titles are now converted to lowercase - 27-04-2025
 
-[baak-api](https://github.com/yafyx/baak-api/commit/546c5803fbaa67e6bf68e12ce277ceba01874316): updates README - 23-04-2025
-
-[polaroidthis](https://github.com/yafyx/polaroidthis/commit/de648bcaf98f235d361b574ebecd97e52c3afe09): Refactors CreatePage and PosterGenerator components - 22-04-2025
-
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
-[spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
+[hindia](https://github.com/yafyx/hindia/commit/bb54c060ae47e2b23a024e23b630407105e8f54d): Refactor Navbar component and update package.json for versioning and dependency upgrades - 10-12-2024
+
+[timeanddate-weather-scraping](https://github.com/yafyx/timeanddate-weather-scraping/commit/7b114d739f870b5ea486fe05adb33b177ac5ad7c): Update README.md - 01-07-2024
+
+[hotel-reservation](https://github.com/yafyx/hotel-reservation/commit/0fc47e5392fc00b751454734f3da941d5d8d79cb): Merge pull request #1 from yafyx/dependabot/npm_and_yarn/browserify-sign-4.2.2 - 30-11-2023
 <!-- recent_commits ends -->
 
 </td>
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When Morning Comes**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c7c5a4a4e5766431aec928d5e2b051.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beyond the Clouds**<br>You'll Never Get to Heaven<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mis**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cupid De Locke - Remastered 2012**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/54f2d2c2735e190f280c08059a27f346.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ranger**<br>Dottie<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a6d66ba661b455cab33c59cca6c82c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**smile again**<br>She's Green<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/64137bed8f7d4b519d8c51a1eb5f440f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sleeping In**<br>The Radio Dept.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
