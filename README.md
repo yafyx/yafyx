@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd7972f351ba74dc28f162d2f0816517.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mrs Magic (Strings Version)**<br>Strawberry Guy<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5a3dd6d1f25804cf79648cf099533b3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heavy goodbye**<br>Bonsai<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**savor**<br>Acath<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78fbf3098ce176f2946fcfc72a05a890.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vein, Flesh, Lens**<br>Pale Air<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to disappear completely**<br>Weirdfish<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
