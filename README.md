@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ba9a68e392677d925948f67c3d5168a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wish You Lullaby**<br>siyu<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Lemonade**<br>citygodok<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out Of Reach**<br>Vira Talisa<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cce6af74b91be35ba051feecb1ecced.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Eternal Sunset**<br>12BH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf2d7e571bc53791288f87fc12df85a0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Way You Do**<br>Crying City<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
