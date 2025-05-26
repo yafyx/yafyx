@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd7972f351ba74dc28f162d2f0816517.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mrs Magic (Strings Version)**<br>Strawberry Guy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Was All Over Her**<br>Salvia Palth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5a3dd6d1f25804cf79648cf099533b3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heavy goodbye**<br>Bonsai<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c7c5a4a4e5766431aec928d5e2b051.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beyond the Clouds**<br>You'll Never Get to Heaven<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**savor**<br>Acath<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cupid De Locke - Remastered 2012**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78fbf3098ce176f2946fcfc72a05a890.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vein, Flesh, Lens**<br>Pale Air<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a6d66ba661b455cab33c59cca6c82c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**smile again**<br>She's Green<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
