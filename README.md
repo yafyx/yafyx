@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fake Plastic Trees**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d334320515d9ba5fe0dfc02d3c98aeb5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Carnival**<br>The Cardigans<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f953b8e8a1ff86fad45920778eb6009.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Visions**<br>LOVING<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12609e5454f891391a8857894e993a25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wishes**<br>Alison's Halo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skipper**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duvet**<br>bôa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf6f1d233991014a20695a1099613a7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Natural**<br>Shelly<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
