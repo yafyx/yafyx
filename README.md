@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rollercoaster**<br>Midnight Lobster<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Young Man**<br>Me and My Sandcastle<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f08c9c2348535705a301c7fb9f986e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**yin to yang**<br>runo plum<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/df3d8fa1218f1b9b2f35f2f41386e12a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow Where It Doesn't Disappear**<br>My Dead Girlfriend<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dd2b56667c0be01a8267cf8ef43584b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where Damage Isn't Already Done**<br>The Radio Dept.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
