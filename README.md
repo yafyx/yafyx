@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4818ff3977c24fe3cfbe50c0f6a91e41.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harvey**<br>Alex G<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Message**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a6890c757b281c97ee073add94882dae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Monolithic**<br>Cults<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12609e5454f891391a8857894e993a25.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dozen**<br>Alison's Halo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c7c5a4a4e5766431aec928d5e2b051.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Exquisite Tension**<br>You'll Never Get to Heaven<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summertime**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
