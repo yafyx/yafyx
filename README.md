@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3aba78e204fc4a488afe1339265562f8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like We Used To**<br>A Rocket to the Moon<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Levi's Girl**<br>12BH<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b89331bfb41b449fc4a7cfe5dfcfc6da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Decode**<br>Paramore<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
