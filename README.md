@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b89331bfb41b449fc4a7cfe5dfcfc6da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Decode**<br>Paramore<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/53a97b7c6ef029cb87a318d2ee897e45.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Singing Bird**<br>12BH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8cf706e07116a992a149f79ee60fdb16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bitter to See You**<br>Drizzly.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
