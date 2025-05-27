@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c325087ededaf34f6f21d801f75f28fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me Like It's The First Time**<br>Eyedress<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Break**<br>alex_g_offline<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7a457d8ab81347e3c7439ae4ce23639c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Lasts**<br>Bedroom<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Amoeba**<br>Clairo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
