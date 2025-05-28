@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a95ed253cd0abf098b179a50d90dc093.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wondering**<br>Saints Amongst Sinners<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6d58a325473f9f8848598c67c8be6e19.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue**<br>Far Caspian<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3aba78e204fc4a488afe1339265562f8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like We Used To**<br>A Rocket to the Moon<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Levi's Girl**<br>12BH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce440b0f72c7368e281e720083e9a018.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**carefree**<br>orange flavored cigarettes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
