@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/00c7b4f22a922f8c824d074c010e63b1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**nicotine stains**<br>Second Thoughts<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Summer Ends**<br>American Football<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
