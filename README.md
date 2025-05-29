@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae4026af42f4c5f76d79f4a37f13db0f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Here When You're Back**<br>Beaux<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee565ced4e623312a79a7f9eef7f33d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**End Of The World**<br>searows<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/144d388221ab248153b037819583a203.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daisy**<br>Delorians<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f270305b4fdd7a5f56fa3c247e15874d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heisei (mode:tsukimiya toto)**<br>stargaze shelter<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f2238c6b8e02300827a72d3fa766277.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Late Summer**<br>Damdamgugu<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
