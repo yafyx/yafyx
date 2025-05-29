@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7f223bc802f1b1ef2baba778d316f9b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**WASH AWAY**<br>Rio<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b48785f8d554a127220f83aa8ec3598f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**antidote**<br>orion sun<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/69d1986c0c862e04e46f5d7800f05543.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Setting Sun**<br>The Poles<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ceb6e421a0247bee08992981cf17faf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scott Pilgrim Vs. My GPA**<br>Mom Jeans.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1da8ab58ae99751537b0d4d3650df75a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Come Inside Of My Heart**<br>IV Of Spades<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
