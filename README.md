@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/af72b5db35df4bd9b9c6772989454f5a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to never stop being sad**<br>dandelion hands<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07468180db47f496b4beebebb1b4e8cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Puppy Princess**<br>Hot Freaks<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
