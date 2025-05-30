@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Curl up & Die**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**this life is pretty fucked up, but hey, we'll be fine**<br>The caroline's<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af72b5db35df4bd9b9c6772989454f5a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to never stop being sad**<br>dandelion hands<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de93124034d2967dbfa722e1d7b5fedd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Even If It's a Lie - Demo**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/de93124034d2967dbfa722e1d7b5fedd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Even If It's a Lie - Demo**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b13f5656f3cdc5960460449a78fa4cd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Petals on the Moon**<br>Wasia Project<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
