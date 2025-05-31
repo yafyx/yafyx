@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**today was the day I wasn't loved by anyone**<br>jungumul<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**gold**<br>wave to earth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbc08bd2d3ee4853670c6d494b49720e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Where My Loved One Stayed**<br>Daniel<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
