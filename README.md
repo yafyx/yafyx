@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17ff15ede11dbf7020863a93175ed0b4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**foreverymoments**<br>Kim Daniel<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**today was the day I wasn't loved by anyone**<br>jungumul<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e74469c532602a8e328ed35850eaa98c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ode to an Old Man**<br>Texpack<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b2a1e39b2923d8962a2278ca5fe3bc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**gold**<br>wave to earth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer Night**<br>Pop at Summer<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
