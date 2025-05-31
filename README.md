@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kamar Gelap**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a16aa291c04ccd25c2f9e12a29be186f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pasir**<br>Tigapagi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f593504cad58010ecad1a70947ac507.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swivel**<br>Garside<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/97604454b8eccfcc976327d538557886.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merengkuh Mesra**<br>Putra Timur<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8462ef33e5997ae93a287807d2a05e27.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heroik (Album)**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye Your Side**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
