@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Barat**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kamar Gelap**<br>Efek Rumah Kaca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lagu Kesepian**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a16aa291c04ccd25c2f9e12a29be186f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pasir**<br>Tigapagi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biang Lara**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/97604454b8eccfcc976327d538557886.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merengkuh Mesra**<br>Putra Timur<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/701b64470a9ede9d84f284cd2027231d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pasti Ada Jalan**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8462ef33e5997ae93a287807d2a05e27.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heroik (Album)**<br>Efek Rumah Kaca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
