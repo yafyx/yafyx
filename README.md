@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/52ec15bd3a8e8bed121dcfeda6591c85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>galdive<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d0157d434724dcb43aff0c2e13292695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melancholy Mood**<br>Emi Choi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f914adc3a135d87581b34839eef72a66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No way home**<br>Off The Menu<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hey!**<br>Danny Park<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pink horizon**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
