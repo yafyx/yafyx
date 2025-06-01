@@ -37,7 +37,7 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e20a43d51a8ebea25ad20aa0be28d85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Come Back with Me**<br>Siggerr<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
 
