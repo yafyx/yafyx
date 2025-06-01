@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c99c9a0eac920902649172188c268643.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kamulah Satu-Satunya**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Life You Wanted**<br>Tanjung<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ebab4f1267294a49a73a586f55a7c868.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Setapak Sriwedari**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Utopian Dream**<br>Pure Saturday<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c9bab749607afe88fa4539e97ad77c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gemintang Hatiku**<br>Tiara Andini<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
