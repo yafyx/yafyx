@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3706007bc50b9d1d3613731fdb5702df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Trivial Story**<br>Jeon Jin Hee<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8e8c2f6f94837c29ac02e8b3efe57e1a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plain Life**<br>Potatoi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4776440f0bdf6d4312ce9d0f98389c3a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**pepper**<br>orange flavored cigarettes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c99c9a0eac920902649172188c268643.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kamulah Satu-Satunya**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05a9585c95a26dfed05e1ab1cd4031e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**fall for me**<br>WIMY<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ebab4f1267294a49a73a586f55a7c868.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Setapak Sriwedari**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7054208782c367f8cc4d62529e90091f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Grass**<br>Hanbee<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
