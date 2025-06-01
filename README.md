@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b4a5f751466f58acfb2b5b2b94baf786.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Like U**<br>Niki<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19102a409a0fbcb571788e0c4b9067b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Superpowers**<br>Daniel Caesar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blessed**<br>Daniel Caesar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Find Love**<br>Daniel Caesar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold Me Down**<br>Daniel Caesar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b74dc22e72de2839db17e7e04b41e8f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sanctuary**<br>Joji<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
