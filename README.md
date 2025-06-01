@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Girl with Messy Bun**<br>Lor<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything's fine**<br>Pop at Summer<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f593504cad58010ecad1a70947ac507.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swivel**<br>Garside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know the End**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/015fdb257f2c5dcb22e28aa4d023ca3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye Your Side**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/294236673237889ba97fcf54fd0bdc05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do I Wanna Know? - Live At the BBC**<br>Hozier<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry, Cry**<br>Mazzy Star<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
