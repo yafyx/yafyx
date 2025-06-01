@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/779f35ff35c5ee74f7034d896f305b0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Staring - alt**<br>Velvet<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Langit Terbuka Luas, Mengapa Tidak Pikiranku, Pikiranmu?**<br>Pure Saturday<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d3bcdf9231d2eac0fbbff4f8e739392c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**as i say**<br>Dream, Ivory<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pastikan Riuh Akhiri Malammu**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/810fce5df9c9f8ac59f53c37e78271f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon**<br>bedchamber<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Only One**<br>Mocca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yesterday Is Gone**<br>The Cottons<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c4229e2184f6cdedd46e128871ac5e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Barat**<br>Barasuara<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
