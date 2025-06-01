@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Life You Wanted**<br>Tanjung<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Utopian Dream**<br>Pure Saturday<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a741bcc09687871839c77b5d40e096d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take Me**<br>Dreane<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
