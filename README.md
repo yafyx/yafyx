@@ -37,6 +37,8 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loose**<br>Daniel Caesar<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5f64f1912aebaef21c9bd18a5d19219b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Portland - Single Version**<br>rebelsuns.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57c0f22fcbdde0a48e6606f12e68ca4f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**U (You)**<br>KIDO3008<br clear="left">
