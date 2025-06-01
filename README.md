@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything's fine**<br>Pop at Summer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7791fb1f2764db5318db1a43fe006a98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Air Emas**<br>Heals<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know the End**<br>Phoebe Bridgers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strangers Again**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/294236673237889ba97fcf54fd0bdc05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Do I Wanna Know? - Live At the BBC**<br>Hozier<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22a5f45ae6c742eac211308ffd6c64d1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Perennial**<br>bedchamber<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry, Cry**<br>Mazzy Star<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lalu Biru**<br>Eleanor Whisper<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
