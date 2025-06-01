@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blessed**<br>Daniel Caesar<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold Me Down**<br>Daniel Caesar<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abd157d807ad6e393430b8aed3ec1288.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teach Me How To Love**<br>galdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
