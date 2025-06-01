@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loose**<br>Daniel Caesar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b4a5f751466f58acfb2b5b2b94baf786.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Like U**<br>Niki<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5f64f1912aebaef21c9bd18a5d19219b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Portland - Single Version**<br>rebelsuns.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blessed**<br>Daniel Caesar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57c0f22fcbdde0a48e6606f12e68ca4f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**U (You)**<br>KIDO3008<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hold Me Down**<br>Daniel Caesar<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5aad2dd504dcb5fa7ca60cba28fb043f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Edge of St James's**<br>Beaux<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abd157d807ad6e393430b8aed3ec1288.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teach Me How To Love**<br>galdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
