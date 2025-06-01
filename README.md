@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea68f066116b34d2cc5f940ab82001b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just You**<br>Teddy Adhitya<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c99c9a0eac920902649172188c268643.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kamulah Satu-Satunya**<br>MALIQ & D'Essentials<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ebab4f1267294a49a73a586f55a7c868.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Setapak Sriwedari**<br>MALIQ & D'Essentials<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c9bab749607afe88fa4539e97ad77c7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gemintang Hatiku**<br>Tiara Andini<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
