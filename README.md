@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mystery**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d5c7ed2dd23f2de65e5ce8b554596d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tersesat Dalam Tanya**<br>Harra.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Find Love**<br>Daniel Caesar<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19102a409a0fbcb571788e0c4b9067b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Superpowers**<br>Daniel Caesar<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
