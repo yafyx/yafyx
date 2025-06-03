@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[waras](https://github.com/yafyx/waras/commit/8b8258212a9349db897f130fa4eb2c8e76fe4b5d): Refactor system prompts for Waras AI assistant - 25-05-2025
+[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/9c51a3129240eb054cb40e42ed22c1a9f3d6ca08): zed support - 03-06-2025
 
-[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/6abf395211bc12fc8017905b5d20010c5711caee): Updates version and adds icon - 16-05-2025
+[waras](https://github.com/yafyx/waras/commit/8b8258212a9349db897f130fa4eb2c8e76fe4b5d): Refactor system prompts for Waras AI assistant - 25-05-2025
 
 [KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Telenovia**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17b1099a3bd24ba3773ad6bbea97df70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serotonin**<br>Puff Punch<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How To Kill This Feeling**<br>BeverlyLine<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/411559af092e820b47508012cacbb486.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer Night**<br>Pop at Summer<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't Get to Know Me Too Well**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/068358eac78b03e7e93b7feb339561f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dazed**<br>Heals<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
