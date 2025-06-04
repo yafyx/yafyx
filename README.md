@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbf9245eae41b63f804958c99c26de24.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Amerta**<br>Romantic Echoes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Conversation**<br>Mocca<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friend**<br>Mocca<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b287d64498fdd332fd408182278f557.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aku, kau dan roblox**<br>Ardy Minaj<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I Could**<br>BeverlyLine<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
