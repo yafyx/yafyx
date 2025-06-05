@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/89174fb303354b21cb23d5c18caa3d1f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Giggle And Blush**<br>Seaside<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies - Remastered**<br>Yellow Flower Living Water<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
