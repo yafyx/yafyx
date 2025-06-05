@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Early Express**<br>Lipstik Lipsing<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 3**<br>The Cottons<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3d227fe6453f01428b67a2444ad172e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Midnight Thought**<br>mmmarkos!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Early Express**<br>Lipstik Lipsing<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
