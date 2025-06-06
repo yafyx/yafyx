@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
