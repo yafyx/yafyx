@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/89174fb303354b21cb23d5c18caa3d1f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Giggle And Blush**<br>Seaside<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lemon Lies - Remastered**<br>Yellow Flower Living Water<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
