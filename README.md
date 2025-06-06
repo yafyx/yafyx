@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Suburban Love**<br>Lipstik Lipsing<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc3562502d4bf00854f9ca7fa0ed4d23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin By Skin**<br>MUCH<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cookie Crumbles**<br>Moongazing And Her<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
