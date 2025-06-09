@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16a40f0be517b12244cc1081e9b82f35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**And Time Froze**<br>Duara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/88e15640e4c78fdc7c55850e0a6caac7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Deserve an Oscar (quiet)**<br>Matt Maltese<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0ae97ed7cb6edb8c86eaae63d02f1fa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Less and Less**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69628d7606c8e3916141050c32505a9e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Was I Made For? [From the Motion Picture "Barbie"]**<br>Billie Eilish<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
