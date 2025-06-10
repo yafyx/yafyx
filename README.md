@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45b1efe17c63c2567099e7f5976a8cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Sugar**<br>Whirr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8a74e3f01facad009a67690e108ce0fb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I remember how your hands felt on mine**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7a789ddc4d1820af98025b24db15f76.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Junk Shop**<br>Helvetia<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1191500a5b332aded7c364324f101194.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Milk - 2021 Remaster**<br>Sweet Trip<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/857788b7e0b9d461951ede82d35ed015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mandy**<br>she's green<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/947608be8641767979fd3fdd4bca34ba.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Song**<br>Softcult<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
