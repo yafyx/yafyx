@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8af06718c73353cb7e4616a8ecf7c25d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hilang**<br>Duara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b5d9f7e300f93f554336cc1c96c67405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**enough.**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f021ea973cde2f5f4be95170a7f442b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>Teethe<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c1449b38b0093d9fab3f20c026c622.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Caldera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7a789ddc4d1820af98025b24db15f76.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Junk Shop**<br>Helvetia<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16a40f0be517b12244cc1081e9b82f35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**And Time Froze**<br>Duara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/857788b7e0b9d461951ede82d35ed015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mandy**<br>she's green<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
