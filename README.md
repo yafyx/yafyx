@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38c265f69e80dc6570b11a85b2f159ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**river**<br>she's green<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4367c977948faed2125572b58e298e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Younger Than You**<br>Whirr<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/aca863665b87a1b142fe6b6ec9a7e292.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Best Friend**<br>Blush<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bf5450437dc3f58e621c71f2acf8886e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**somewhere**<br>The Neverminds<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66aa0ece9d52afdbbdcce5a69806df8f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**oh my god**<br>Fog Lake<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3a6b66dfcb0cf165d52075dfba632333.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cheetah**<br>Deux Visages<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
