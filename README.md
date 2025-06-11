@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/825146ee06480b59a1b56844d9e5b0db.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rute Menuju Ivory**<br>Collapse<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade Into You**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8db1b5fd988d7e9ed015b2180ed5b96b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**malaikat**<br>The Milo<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/86fcd6ca0c58a5ee8822c41957fcd528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Youth LiFe**<br>Milledenials<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
