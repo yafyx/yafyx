@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kingston**<br>Faye Webster<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6af18c60020cbfd9e13a0d385a228694.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tek It**<br>Cafuné<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Graceful Retreat**<br>Reality Club<br clear="left">
