@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67d3b853e0c159ad89c4016c569c194e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Girl**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/903e88a1d9e10366302453b18fd74f1d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd930e295650d2324e9e36e263c18aa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twenty**<br>Sunwich<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c1052aa21587868e6d1555e1d78b142f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Confused**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbf73a5cb81028dfc4bae26cbbfc364.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Colossal Loss**<br>Niki<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Growing Up with You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wallflower**<br>Moongazing And Her<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
