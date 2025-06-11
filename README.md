@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9e7122767a0005c68695d73cf3495596.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chérie**<br>Kurosuke<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kingston**<br>Faye Webster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/557643a8faaa35768cb6088f576fed30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**King for a Day**<br>Pierce the Veil<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6af18c60020cbfd9e13a0d385a228694.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tek It**<br>Cafuné<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Summer Ends**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Graceful Retreat**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e19215ffadb57aa023b28773a0658a80.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rare Symmetry**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c79f42864b040f5ebb191d70da4c6b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letters, Lights, Travels On The Streets**<br>Penthouse<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
