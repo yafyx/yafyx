@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sermon**<br>kalé<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c36292cb55eed2f321560368d66379e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Conformance**<br>Cal<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5686e36046e94ae998baf6b015284ace.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Drifted**<br>Girl and Her Bad Mood<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
