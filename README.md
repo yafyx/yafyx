@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/411559af092e820b47508012cacbb486.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**More & More**<br>Vira Talisa<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/67d3b853e0c159ad89c4016c569c194e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Girl**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd930e295650d2324e9e36e263c18aa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twenty**<br>Sunwich<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2fbf73a5cb81028dfc4bae26cbbfc364.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Colossal Loss**<br>Niki<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wallflower**<br>Moongazing And Her<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
