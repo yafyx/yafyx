@@ -37,7 +37,7 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76f513458f03c2810a2f5ad58d4c015b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irama Laot Teduh**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1e3831f6cabbfd84f208b0d8d466fcc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serta Mulia**<br>Sal Priadi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/434f2574d1ac1615b7f242c6ec092070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mencintaimu**<br>Sal Priadi<br clear="left">
 
