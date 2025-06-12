@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/23c05f79091c656ad8cfc464327b57d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Is An Accident**<br>Flyte<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loveisheroin**<br>Chezile<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f310f5955daca9290eb38b082f25285a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Power Play**<br>Lint<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
