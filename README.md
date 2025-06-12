@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55ac8f97bde6cbe5e9a8857b435457e9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**There, There**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c2dc9f6771ab8ec5e93d67e88ddfbc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mesra-mesraannya kecil-kecilan dulu**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bc7afb72477f3a58a47b388dba364855.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sarariman's Dream**<br>Duara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zuzuzaza - Densky9 Remix**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7caf61a06665ec784e862618f2c421a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hujan di Mimpi**<br>Banda Neira<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c324c8ece50172999c1b8e9fffac039e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Besok Kita Pergi Makan**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4fc9ddeeeeb124226d4be67e38f7e954.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**New York - piano version**<br>St. Vincent<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
