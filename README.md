@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1e3831f6cabbfd84f208b0d8d466fcc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serta Mulia**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b50ec347faff1b77d2a8965407304ad5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bulan Yang Baik**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/434f2574d1ac1615b7f242c6ec092070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mencintaimu**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c2dc9f6771ab8ec5e93d67e88ddfbc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mesra-mesraannya kecil-kecilan dulu**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c2dc9f6771ab8ec5e93d67e88ddfbc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita usahakan rumah itu**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zuzuzaza - Densky9 Remix**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/453a80aeae42045d7235b58681591a3c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yasudah**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c324c8ece50172999c1b8e9fffac039e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Besok Kita Pergi Makan**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
