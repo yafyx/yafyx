@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc74744519d2fc7ef9486133f4bb05ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daydreamer**<br>Kidsnot$aints.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/483ab6a2147b4346c35a681c89ddfe37.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Orang Ke 3**<br>Hivi!<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
