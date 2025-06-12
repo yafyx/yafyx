@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76f513458f03c2810a2f5ad58d4c015b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Irama Laot Teduh**<br>Sal Priadi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/434f2574d1ac1615b7f242c6ec092070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mencintaimu**<br>Sal Priadi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c2dc9f6771ab8ec5e93d67e88ddfbc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kita usahakan rumah itu**<br>Sal Priadi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/453a80aeae42045d7235b58681591a3c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yasudah**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1627310a4828c6412e515fa482122e62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Episode**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
