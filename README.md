@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/469dc066c74b9daef2d9feb60e30d03b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kereta Kencan**<br>Hivi!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44da227286a66d7975db99c768ea7888.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lupa Nama Ingat Rasa**<br>Okaay<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc74744519d2fc7ef9486133f4bb05ea.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daydreamer**<br>Kidsnot$aints.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/483ab6a2147b4346c35a681c89ddfe37.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Orang Ke 3**<br>Hivi!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
