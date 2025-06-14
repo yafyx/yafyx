@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55b7998199b339affc6643767e66b3f8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cigarette Butt**<br>Bubble Tea and Cigarettes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zuzuzaza - Muztang Remix**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2553ac661cedd3542e42578c7eceb00e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**How It Goes**<br>Sweet Mylo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Biar jadi urusanku**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aeb2ff7830e8589373956ed2c14fb520.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hazel Eyes**<br>Kidsnot$aints.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1e3831f6cabbfd84f208b0d8d466fcc5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serta Mulia**<br>Sal Priadi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
