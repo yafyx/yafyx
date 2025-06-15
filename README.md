@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d48207ad85decc0fd28099bcce355d8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Differently**<br>Unflirt<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1000 Tears Deep**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hey Lover, Listen To This**<br>You shall know our velocity<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/992533282168f91026ee9baff5a33f26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Woodbone**<br>Idlework.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f17f4d7260b602298d80f8d7b8cefb40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Permanent Honeymoon**<br>Teen Ravine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3f6d1c9d4f98002604e18159fd5f594d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heaven sent**<br>soki yue<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c7a8b23252d05482f3c35f2bcd303c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I don't wanna know**<br>Tyler Burkhart<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
