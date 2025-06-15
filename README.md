@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1000 Tears Deep**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/992533282168f91026ee9baff5a33f26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Woodbone**<br>Idlework.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c7a8b23252d05482f3c35f2bcd303c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I don't wanna know**<br>Tyler Burkhart<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f4383b31b008f60b77c0fb298d1b8ee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nameless**<br>Musogabi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f4383b31b008f60b77c0fb298d1b8ee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nameless**<br>Musogabi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
