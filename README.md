@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eb2d9fe6d35942115e5216e7624539e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**still love you (todavía)**<br>The Tulips<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40d1a0fd9ecb291216433417ebbaec7f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Think I Like When It Rains**<br>Willis<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Krystal**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0f953b8e8a1ff86fad45920778eb6009.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Visions**<br>LOVING<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
