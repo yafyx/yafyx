@@ -37,7 +37,9 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Company**<br>Strawberry Guy<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8f4383b31b008f60b77c0fb298d1b8ee.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ballad of Better Land**<br>Musogabi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
 
