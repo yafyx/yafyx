@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/434f2574d1ac1615b7f242c6ec092070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mencintaimu**<br>Sal Priadi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ketika Semua Telah Berakhir**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semestinya**<br>Caldera<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ikat Aku Di Tulang Belikatmu**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b2357bb0ad16b4cd9efcb7b09d700ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovefool**<br>The Cardigans<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
