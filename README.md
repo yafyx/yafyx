@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semestinya**<br>Caldera<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ikat Aku Di Tulang Belikatmu**<br>Sal Priadi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b2357bb0ad16b4cd9efcb7b09d700ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovefool**<br>The Cardigans<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7b92f6baec940aaa53b690bca347a72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Run Away**<br>Chezile<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0fc48f2b5906f39385216339b15388f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed (Extended English)**<br>The Marías<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
