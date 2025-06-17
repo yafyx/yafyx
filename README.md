@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9a790b6c8526a4c8cb9862c64bc3342.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Post Malone<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5c76dac75c0178a7cbcbc88edc978804.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mengunci Ingatan**<br>Barasuara<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/89421a4d4898fa3d1396fa849d4e6140.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Belum Tidur**<br>Hindia<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/434f2574d1ac1615b7f242c6ec092070.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mencintaimu**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ketika Semua Telah Berakhir**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
