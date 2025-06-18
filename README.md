@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd7972f351ba74dc28f162d2f0816517.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mrs Magic (Strings Version)**<br>Strawberry Guy<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**So Real**<br>Jeff Buckley<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ode to the Mets**<br>The Strokes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/79a92e9e0494b30da176e53c124688de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Back To Me**<br>The Marías<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7115714c7101454ec57ceca6e2a6dc5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Iris**<br>The Goo Goo Dolls<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Grace**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d014f1f0887b2116c97e9d57aa17d4d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
