@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/413d3dd896bc4a8aa064b84f92ec7005.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rahasia**<br>Payung Teduh<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mojo Pin**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
