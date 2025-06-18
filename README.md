@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dadfa592cf178a73c5bbfeaa86df497d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Desire**<br>Pure Saturday<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dalam Diam**<br>Sal Priadi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**PPP**<br>Beach House<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breathe (In the Air)**<br>Pink Floyd<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
