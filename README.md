@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget Her**<br>Jeff Buckley<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05c93649b97a3eac7fda17a68b37cec0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Would Never...**<br>Drizzly.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dalam Diam**<br>Sal Priadi<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
