@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b7cb247f6816db2a6ceb25412497a76.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cloud 9**<br>Beach Bunny<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/366251bc030bb7fbddfcfce74c613adf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just A Game**<br>Grrrl Gang<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yang Tercinta**<br>Romantic Echoes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
