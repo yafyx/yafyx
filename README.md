@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b7cb247f6816db2a6ceb25412497a76.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cloud 9**<br>Beach Bunny<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/20820ea1cefb8baea84dee235eb322f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting Room**<br>Phoebe Bridgers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2ac8ddae20b9013d5f9a0cb8ab81e9f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Night Terrors**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/47504b29ee4b1921a1e0433c776c59ab.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Flaming Hot Cheetos**<br>Clairo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Was Your Joke**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b07ef174fec0661f8f412c6f53e966f0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Clementine**<br>grentperez<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/366251bc030bb7fbddfcfce74c613adf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just A Game**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Right Side of My Neck**<br>Faye Webster<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
