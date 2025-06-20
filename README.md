@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d0b7beba1cd747c38e0c658b3943511.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When you loved me**<br>Video Days<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e67710a1d19f1aaa99af32651bbe526.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wherever You Go**<br>Beach House<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kiss Me**<br>Matt Maltese<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/bf9adabcb91a90850f08d81bb2289ed0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She said goodbye**<br>Ruben Gomez<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/20adb2a5d8fafc8cbe7f894decb74ffd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Used To Be Friends**<br>searows<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
