@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/96b7555601963968f75b78979b05cf39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One more time，One more chance**<br>Masayoshi Yamazaki<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One More Love Song**<br>Mac DeMarco<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd5ca6c942374d7da47e7880efa17f99.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Master of None**<br>Beach House<br clear="left">
