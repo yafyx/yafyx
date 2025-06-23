@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One More Love Song**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd5ca6c942374d7da47e7880efa17f99.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Master of None**<br>Beach House<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9bf2edf18d67e009cd78b47a83bc2ac8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plastic Love**<br>Mariya Takeuchi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a133a409f1012e24d2e9ca1613551f57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know You**<br>Faye Webster<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/96b7555601963968f75b78979b05cf39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One more time，One more chance**<br>Masayoshi Yamazaki<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
