@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Yours (Home)**<br>The Philanthropist<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9bf2edf18d67e009cd78b47a83bc2ac8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plastic Love**<br>Mariya Takeuchi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
