@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Tale of a Lonely Man**<br>Cause<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cookie Crumbles**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6232ca2a8c852e4edb51b7dc7563b1a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I've Got a Lot on My Mind**<br>Lor<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c16d83e571e5b228df19e34bded63816.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tersenyum, Untuk Siapa?**<br>Hivi!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/455af04799dd66709d4267752dd24c0d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Real (Get By)**<br>rumahsakit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5a530a6952ae42a1c212ea5692554642.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pilihanku**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
