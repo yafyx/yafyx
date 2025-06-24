@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d940a614ba129dffd673ce7a04581719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senja Teduh Pelita**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0cbb8e9a27ef7b8e5d81f9a1d1528b2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream of you**<br>Tyler Burkhart<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/842c6845ccade1029acf63c706d32aad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bicara (feat. Monita Tahalea)**<br>TheOvertunes<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0ae97ed7cb6edb8c86eaae63d02f1fa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Less and Less**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
