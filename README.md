@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d940a614ba129dffd673ce7a04581719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senja Teduh Pelita**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d0d48dc2e1f29a40fb9d4424578f7e2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Peachy World**<br>Drizzly.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cookie Crumbles**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/842c6845ccade1029acf63c706d32aad.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bicara (feat. Monita Tahalea)**<br>TheOvertunes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c16d83e571e5b228df19e34bded63816.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tersenyum, Untuk Siapa?**<br>Hivi!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5a530a6952ae42a1c212ea5692554642.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pilihanku**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
