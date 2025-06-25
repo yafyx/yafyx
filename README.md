@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80f256e56b1043cdbb99da3ac4dd69a0.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Someday**<br>The Strokes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never Meant**<br>American Football<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a14280034753256f5c44de472997a0dd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**drown in love**<br>Paw's Letter<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Suburban Love**<br>Lipstik Lipsing<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cruel**<br>Garside<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only One**<br>BeverlyLine<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
