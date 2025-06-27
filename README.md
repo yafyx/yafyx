@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d2675481b59143a391a40cdcf35cadf7.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Landscape with a fairy**<br>Aspidistrafly<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e606a81febdfccd074a04c625bf56973.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serpentskirt - Remastered 2006**<br>Cocteau Twins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/599ed2d626ecd62cf6677cab53c223ac.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**海辺の葬列**<br>Ichiko Aoba<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd22457d1d7f4559b5fb90ebfb463697.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3a39fc6acd5c9eb5f5c2ac532c8d69fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Parfum d'étoiles**<br>Ichiko Aoba<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**(forever?????????)**<br>Glass Beach<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
