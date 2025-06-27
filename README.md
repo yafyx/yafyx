@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/859efa119c657bfc299f1c7a6711f26c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**･－･･ ･ － ･･ － －－･ －－－**<br>･ ･－･ ･－ ･･･ ･ －･･<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7104f9a9022eca91a09421c38c8b1505.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Not the Only One I Know**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**40 Days**<br>Slowdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7af22f726e3be365041d4bb590553c0a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**What Would I Do?**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dagger**<br>Slowdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7fbc41bdafaf4bf834fc4d74856b5b1e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Think About Now**<br>Pixies<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**anything**<br>Adrianne Lenker<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**not a lot, just forever**<br>Adrianne Lenker<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
