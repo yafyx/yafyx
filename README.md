@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b53b4a9eefe0d0294695bad0e97f7e2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hey, Who Really Cares**<br>Linda Perhacs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0acff7d984d951142927a0f7fca7176f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Gaping Mouth**<br>Lowertown<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb95203d8c59179ebb57b87f70de0cdc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**アラベスク**<br>Lily Chou-Chou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed9432173bcf9997fffdc97cdda61c05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Papa Ed's Oobe**<br>WHATEVER, DAD<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12173eb9166f2004d3bb62ceffb2b7e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**music for indigo**<br>Adrianne Lenker<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed9432173bcf9997fffdc97cdda61c05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warsh_Tippy and Zelda**<br>WHATEVER, DAD<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/48a13b8689d67f28d21902b79dd10c31.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon, I Already Know**<br>Mount Eerie<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
