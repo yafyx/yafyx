@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ba00c447b62654b4cfb7f951ae23d821.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**flag (into the fray)**<br>Dear Nora<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/12173eb9166f2004d3bb62ceffb2b7e7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**music for indigo**<br>Adrianne Lenker<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/852432add16d5b8ebee29e5056c6ce8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The way her hair falls**<br>Grouper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed9432173bcf9997fffdc97cdda61c05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Warsh_Tippy and Zelda**<br>WHATEVER, DAD<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8129716a00447beebe2bbfcd27dba048.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Rain Thief**<br>Hana Stretton<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/93abb8f8430d1ec2d9dd136660a8c636.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**City Of Stars**<br>Ryan Gosling<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3a39fc6acd5c9eb5f5c2ac532c8d69fa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prologue**<br>Ichiko Aoba<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c7c5a4a4e5766431aec928d5e2b051.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Still**<br>You'll Never Get to Heaven<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
