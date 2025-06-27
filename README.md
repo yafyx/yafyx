@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/055327801d15694d42cde948f71aa3a9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side**<br>The Strokes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Watching Him Fade Away**<br>Mac DeMarco<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99204b78d3f05c05f5da506ea1c7ec5c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**India Rubber**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c4b213ad0b925a89027f340bf57581c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**cats in the cold**<br>mage tears<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58c58d4e523ea19537540a3547e2c620.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Life In Art**<br>Mojave 3<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0acff7d984d951142927a0f7fca7176f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Gaping Mouth**<br>Lowertown<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
