@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c4b213ad0b925a89027f340bf57581c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**cats in the cold**<br>mage tears<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58c58d4e523ea19537540a3547e2c620.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Life In Art**<br>Mojave 3<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0acff7d984d951142927a0f7fca7176f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Gaping Mouth**<br>Lowertown<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed9432173bcf9997fffdc97cdda61c05.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Papa Ed's Oobe**<br>WHATEVER, DAD<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/48a13b8689d67f28d21902b79dd10c31.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon, I Already Know**<br>Mount Eerie<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
