@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22ce0a210bff14dd236a5dfbde06c378.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Small Talk**<br>Briston Maroney<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb16390c025edcd77e54f467195fc4ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cherry Flavoured**<br>The Neighbourhood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Settle Down Little Girl**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/785af10ba7ffd5e4bcd684b220e3b695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Young**<br>ADOY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f529256506f2ebd0b087c9cd1c2aa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Home Is Not a Place**<br>Dreane<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b1d51e86d17ee690a262c38b3f106c8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Time Machine**<br>Willow<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
