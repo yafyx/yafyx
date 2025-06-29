@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/286f7c3701a74f19b4ef41c380bad119.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Rush and a Push and the Land Is Ours - 2011 Remaster**<br>The Smiths<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb16390c025edcd77e54f467195fc4ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cherry Flavoured**<br>The Neighbourhood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Owe You Anything - 2011 Remaster**<br>The Smiths<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/785af10ba7ffd5e4bcd684b220e3b695.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Young**<br>ADOY<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another One**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Amoeba**<br>Clairo<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ad8aa8afebe7ea260ea58720ca2f5d57.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**wave**<br>wave to earth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
