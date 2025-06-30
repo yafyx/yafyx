@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4875127148f9fd4557293988cbd740ef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**let it go, watch it come back**<br>Allegra Krieger<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c96ddf758bcaf869b0ac8ff5679bcecc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mendekat Menjauh**<br>Coldiac<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Folk Song**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fddd85d20901176b4d549fd25f80a4d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Art of Chasing You**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5276617dc2925ee168721ceceda1cd14.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gentle Moon**<br>Sun Kil Moon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alakah**<br>Sore<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b39f8f4d6f7b5479bcedc22f0528ff5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**golden arm**<br>Sadurn<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80416ed9549211926a15d88cac7498a2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fool**<br>Adrianne Lenker<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
