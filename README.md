@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd9a4323a57a4877c87a56527b79c60f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mati Suri**<br>rumahsakit<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff58d150bb8460044f1e0e8190b938a8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Graceful Retreat**<br>Reality Club<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f1ee59e928955e70646079ba3b25cf5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ingin Dekatmu**<br>Indische Party<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kampiun**<br>Rimba<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
