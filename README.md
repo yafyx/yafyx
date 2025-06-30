@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/277833683f6e75f2dd3342c47a8feec1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thankful**<br>RL KLAV<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/710af58d5cbd3210855a042135c3e8f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay (feat. RINI)**<br>galdive<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50de411cf3dc76c0dae51c7c4d1a0f53.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep Green**<br>Christian Kuria<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Julia**<br>FUGŌ<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abd157d807ad6e393430b8aed3ec1288.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Seat For You (feat. Quinn Oulton)**<br>galdive<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d940a614ba129dffd673ce7a04581719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senja Teduh Pelita**<br>MALIQ & D'Essentials<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Closure**<br>Impromptu.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
