@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kampiun**<br>Rimba<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/252e8c55a2b29c7548eeef972d2b01d3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alive Again**<br>Tender Shoots<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
