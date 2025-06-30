@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5991ea63419e6a8adfa747cf9fb9ef60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time**<br>The Lantis<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You Let Her Go Again**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tahiti**<br>Romantic Echoes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a01cccf92a5cbb4e80e7b00e9134a765.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Pretends**<br>CSCD<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55035221518394cbf9fab3e1e61cb288.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Juwita Malam**<br>FLEUR!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c4229e2184f6cdedd46e128871ac5e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menunggu Untuk Bertemu**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f282c0f8de366c0818dbd89d0e946bf4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lebih Dari**<br>Alkateri<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
