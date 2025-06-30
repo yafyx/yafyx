@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1bb0b85e181e1e33e8aa4c7a0315fb3d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gelora Asmara**<br>Groove Bandit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Julia**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Am I Bothering You?**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abd157d807ad6e393430b8aed3ec1288.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Seat For You (feat. Quinn Oulton)**<br>galdive<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b8eec00e97e4f4aacc9c885f67015fe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menghujam Jantungku**<br>Tompi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d940a614ba129dffd673ce7a04581719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Senja Teduh Pelita**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ea0d99321684bbe98a2b7d43a901a67f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ada Di Sana**<br>danilla<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Closure**<br>Impromptu.<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
