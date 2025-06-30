@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/83bce169919bbdfed55dbac37c013fed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tahiti**<br>Romantic Echoes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8c49b8b7c7b54b0f3c655e2a86aeeb19.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bekerja**<br>Jirapah<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4c4229e2184f6cdedd46e128871ac5e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menunggu Untuk Bertemu**<br>Mocca<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Maka Terjadilah Sekilas Kisah Murah**<br>Sore<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8cf706e07116a992a149f79ee60fdb16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bitter to See You**<br>Drizzly.<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wrong**<br>rumahsakit<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rosa**<br>Sore<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
