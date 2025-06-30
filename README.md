@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e30cba7a9879d4c1631518439b5f077.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love, Always**<br>Kidsnot$aints.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1bb0b85e181e1e33e8aa4c7a0315fb3d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gelora Asmara**<br>Groove Bandit<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d3e9431b4862dd45804a2abe7cf9082.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jikalau**<br>Naif<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Am I Bothering You?**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4dc5f133d1dfdfed62269933a357f132.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aku Cinta Kau Dan Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b8eec00e97e4f4aacc9c885f67015fe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menghujam Jantungku**<br>Tompi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/03aedbe5d5ba0e9ed848364ffa48fe82.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's You**<br>Dead Bachelors<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ea0d99321684bbe98a2b7d43a901a67f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ada Di Sana**<br>danilla<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
