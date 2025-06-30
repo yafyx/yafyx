@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Copy Machine**<br>Cry Baby<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Krystal**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f68bd601831c742fa6c058badd4f10f4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Time Machine**<br>Midnight Fusic<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow After Noon**<br>FUGŌ<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How**<br>Morad<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Four Summers**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
