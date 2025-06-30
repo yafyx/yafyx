@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e30cba7a9879d4c1631518439b5f077.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love, Always**<br>Kidsnot$aints.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63d750a91a46bfd144c52ed422cc8405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Khayalan**<br>The Groove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9d3e9431b4862dd45804a2abe7cf9082.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jikalau**<br>Naif<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4dc5f133d1dfdfed62269933a357f132.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aku Cinta Kau Dan Dia**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44ba8390caecd23792b0ca66d17805e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semoga**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/03aedbe5d5ba0e9ed848364ffa48fe82.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's You**<br>Dead Bachelors<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
