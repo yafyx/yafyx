@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daydreaming**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e606a81febdfccd074a04c625bf56973.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rilkean Heart - Remastered 2006**<br>Cocteau Twins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
