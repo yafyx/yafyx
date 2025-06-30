@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99a9e2020e45542413d3ae8ef04b2f14.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**4 Star Rated**<br>fig<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untitled**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63d750a91a46bfd144c52ed422cc8405.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Khayalan**<br>The Groove<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b113ce5a883295eae5a012bc677339db.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If Tomorrow**<br>Dreane<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44ba8390caecd23792b0ca66d17805e6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Semoga**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
