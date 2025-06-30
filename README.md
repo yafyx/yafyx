@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f81569af4b52f34c3ed382924a3b0c35.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Does It Make You Feel Better If You Know That I Know, Natasha Dear?**<br>Mad Madmen<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kembali Pulih Lagi (Original Motion Picture Soundtrack of Pretty Boys)**<br>danilla<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
