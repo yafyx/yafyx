@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f47f0408a925403cbea2564add58000f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Codex**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Big Gloom**<br>Have a Nice Life<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/350066babb80493fc9fa9b63dd40086d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pitch the Baby**<br>Cocteau Twins<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7098faeeba40a168cea952f95204a89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like Someone in Love**<br>Björk<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3332b3cee5de8598dbd080f8e2783f93.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Haldern**<br>Black Country, New Road<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34b7f819884010cac62de032ca0644f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Spectre**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ae5140a66ea8ad1f0f022d593e76524a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Laputa**<br>Panchiko<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
