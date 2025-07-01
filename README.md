@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Identikit**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/43058e708cc3615f39b0cb407fee894f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Highschool Lover**<br>Air<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5b0fa78d7ec4749f334821fb08b8f66e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**－･･ ･－ －･ －･－･ ･ －－ ･ － －－－ － ････ ･ ･ －･ －･･ －－－ ･･－･ ･－･･ －－－ ･･･－ ･**<br>･ ･－･ ･－ ･･･ ･ －･･<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e6814b457a9087e0c46d5a949de2766.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mascara**<br>Deftones<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/da1abef9f05307110b46969196768164.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Poison Root**<br>Alex G<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Things Behind the Sun**<br>Nick Drake<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7098faeeba40a168cea952f95204a89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Venus as a Boy**<br>Björk<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
