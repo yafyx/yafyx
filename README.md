@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Goodbye**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e6814b457a9087e0c46d5a949de2766.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be Quiet and Drive (Far Away)**<br>Deftones<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05ed8b21c33d488fc8e6591a5852f642.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Perfect**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/79a92e9e0494b30da176e53c124688de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Back To Me**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd22457d1d7f4559b5fb90ebfb463697.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Only Exception**<br>Paramore<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
