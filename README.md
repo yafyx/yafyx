@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/43058e708cc3615f39b0cb407fee894f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Highschool Lover**<br>Air<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Holy Fucking Shit: 40,000**<br>Have a Nice Life<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e6814b457a9087e0c46d5a949de2766.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mascara**<br>Deftones<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye**<br>The Sundays<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7098faeeba40a168cea952f95204a89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Venus as a Boy**<br>Björk<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Man of War**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Man of War**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
