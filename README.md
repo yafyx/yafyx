@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Charming Man - 2011 Remaster**<br>The Smiths<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Goodbye**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/05ed8b21c33d488fc8e6591a5852f642.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Perfect**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/858efffdf737c869e754c2f4dbe89f4c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sextape**<br>Deftones<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b6b8388828d15e9c755f1fcf0a91818.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nobody New**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bd22457d1d7f4559b5fb90ebfb463697.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
