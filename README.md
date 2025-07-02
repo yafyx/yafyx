@@ -26,7 +26,7 @@ ship something that nobody asked for
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
 
-[spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
+[pharmatalk](https://github.com/yafyx/pharmatalk/commit/029c5a25a2754eb9b5dc1d95e6d6617bb2b1fbb8): Update README.md - 13-01-2025
 <!-- recent_commits ends -->
 
 </td>
