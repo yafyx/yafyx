@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/03509f65bdb4d9bb6f741d04a912d4f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Back to the Old House - 2011 Remaster**<br>The Smiths<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Advice**<br>Alex G<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d4ca351daa36a07fc1e253c364bdaca3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When I'm Thinking About You**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
