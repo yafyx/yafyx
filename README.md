@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9d2b7d94926a6e8f79932dbfe0bad71.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vancouver**<br>Jeff Buckley<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0fc48f2b5906f39385216339b15388f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No One Noticed (Extended English)**<br>The Marías<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8baa4170613a744403a1f1e1f6cc3af0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Sweet**<br>The Sundays<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0099e844f8e723170239f7a6a2cb76af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Until I Know**<br>Panchiko<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e6814b457a9087e0c46d5a949de2766.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Be Quiet and Drive (Far Away)**<br>Deftones<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
