@@ -37,9 +37,9 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kini Tiada**<br>rumahsakit<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ada titik-titik di ujung doa**<br>Sal Priadi<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
@@ -51,7 +51,7 @@ ship something that nobody asked for
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everyone Adores You (at least I do)**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
