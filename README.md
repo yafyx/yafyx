@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kini Tiada**<br>rumahsakit<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8303e5a32096b52c10073ecbf67717a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fear**<br>Current Joys<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ada titik-titik di ujung doa**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kultusan**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3684743b097d12944b307b5319a79aca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You'll Find Lovers Like You and Me**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
