@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8303e5a32096b52c10073ecbf67717a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fear**<br>Current Joys<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd20cb5296aa55257ee1375a94aa483b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Miss You So**<br>Minova<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76620ec4c4bb8fb8ae4af2df725a83d8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Open My Door**<br>Alice Phoebe Lou<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be5b6139630ee2fd69e2955280c901af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Surface**<br>Velvet Lune<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3684743b097d12944b307b5319a79aca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You'll Find Lovers Like You and Me**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcd9402029c4cfe6d9bc8f3ad917f063.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terbuang Dalam Waktu**<br>Barasuara<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fc2cfadb059b079c3411c99c7e3ca8f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Knows**<br>54 Ultra<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
