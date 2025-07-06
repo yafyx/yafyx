@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a6862786934e66af1ca5ae46eaa330e8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever Out Of Time**<br>Tokyo Tea Room<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c2652de4809e5b4349565518b34b85ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**listen before i go**<br>Billie Eilish<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Krystal**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cad2d300376ed1e482123ca2bcadb0a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Can I Call You Tonight?**<br>Dayglow<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Real Life**<br>The Marías<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eaa5d8ffc5a601358029639f314cae69.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Once Upon A Time / Secret Admirer**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
