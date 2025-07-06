@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cd20cb5296aa55257ee1375a94aa483b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Miss You So**<br>Minova<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Krystal**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be5b6139630ee2fd69e2955280c901af.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Surface**<br>Velvet Lune<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Real Life**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jupiter**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a6d66ba661b455cab33c59cca6c82c5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**smile again**<br>She's Green<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fc2cfadb059b079c3411c99c7e3ca8f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heaven Knows**<br>54 Ultra<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ba5111accbfe26722abf422efa06b162.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Caught in Time, So Far Away**<br>You'll Never Get to Heaven<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
