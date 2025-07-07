@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5686e36046e94ae998baf6b015284ace.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High Tide**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc3562502d4bf00854f9ca7fa0ed4d23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin By Skin**<br>MUCH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami, Akhirnya**<br>Fuad<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Heatwaves**<br>Impromptu.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50ad28573bf6e6e843f1301fa9637a97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loves Hates Loves**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bb6bd2dea9e4cc9d004c6e4a8fdf252a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Neverland**<br>Hari Raya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yesterday Is Gone**<br>The Cottons<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a16aa291c04ccd25c2f9e12a29be186f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alang-Alang**<br>Tigapagi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
