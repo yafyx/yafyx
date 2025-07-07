@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57f2a0145d0b69ca03662db934019d9a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**26:10**<br>Penthouse<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19cba3acfca304e3d83ddb1087a7a739.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything We Need**<br>A Day to Remember<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
