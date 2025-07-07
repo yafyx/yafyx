@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c6be98528f70dbec3447bde0fadcf14.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If You Ask(ed) Me**<br>Topeka Clementine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paladin Strait**<br>twenty one pilots<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/701b64470a9ede9d84f284cd2027231d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pasti Ada Jalan**<br>Perunggu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ab1fbec5f6b708d7d9ce59329bdd01.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Remember You - Original Version**<br>Dominurmom<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/57f2a0145d0b69ca03662db934019d9a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**26:10**<br>Penthouse<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/64e76196b9424801b56969d29cec9108.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moon Sailing**<br>Jaie<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19cba3acfca304e3d83ddb1087a7a739.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everything We Need**<br>A Day to Remember<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
