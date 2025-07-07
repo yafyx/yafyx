@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Windy**<br>12BH<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/241ca424b753fb212430799a4a97d2a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Conception For Three Forms Of Unhappiness At The State Of Existence**<br>My Dead Girlfriend<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**warna primer**<br>starrducc<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1593ea01a60056cdf324b53f9938df5e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**unrequited**<br>Solomon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99c3d900d3adb47d0dd17d8a1ac246cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**sweet decay 부패**<br>Chasu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ce8964c28de4d5f8058755992601a1f6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tarot**<br>.Feast<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ea8eb51ebb1e60369fef1ba91b03f1a7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Song Nobody Knows**<br>Colde<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
