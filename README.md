@@ -37,7 +37,7 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Rain Beads**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69906410127defb4074743dd11b2d14a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**7.0**<br>The Dare<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ashes of Hope**<br>The Cottons<br clear="left">
 
