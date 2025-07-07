@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f1d4fee7fbda79e909e6f1f74d9342d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
