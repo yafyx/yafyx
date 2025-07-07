@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cdc0f28ef569de3c39fdbd504d02ff66.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dahulu**<br>The Groove<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65c335168c37f392939cd2e78cd832df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terus Terang**<br>MALIQ & D'Essentials<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/96b7555601963968f75b78979b05cf39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One more time，One more chance**<br>Masayoshi Yamazaki<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b006ebfd89231734adf37d34fdde71c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dia**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b330479dba88aee760bb830ddab9335.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aduh**<br>MALIQ & D'Essentials<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
