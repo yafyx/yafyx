@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65c335168c37f392939cd2e78cd832df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Terus Terang**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5686e36046e94ae998baf6b015284ace.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High Tide**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/96b7555601963968f75b78979b05cf39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One more time，One more chance**<br>Masayoshi Yamazaki<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami, Akhirnya**<br>Fuad<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b330479dba88aee760bb830ddab9335.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aduh**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50ad28573bf6e6e843f1301fa9637a97.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Loves Hates Loves**<br>Girl and Her Bad Mood<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yesterday Is Gone**<br>The Cottons<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
