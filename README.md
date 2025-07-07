@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/44592187ade17dafe3531db1b7cafbe1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paladin Strait**<br>twenty one pilots<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b04dc1ca9db1049359fc1c2580b5389e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Find Me!**<br>The Poles<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/57f2a0145d0b69ca03662db934019d9a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**26:10**<br>Penthouse<br clear="left">
