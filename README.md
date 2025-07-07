@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed02d964d7874351a2ad029033c7ae18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau yang Cari**<br>Jason Ranti<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a16aa291c04ccd25c2f9e12a29be186f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Erika**<br>Tigapagi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kismet**<br>Jirapah<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e74469c532602a8e328ed35850eaa98c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ode to an Old Man**<br>Texpack<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**By Your Side**<br>The Philanthropist<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbbeb5bc188fa2ddb984316136f3aaa9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waltz Untuk Dara**<br>Mad Madmen<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**a trip to the rainbow road**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
