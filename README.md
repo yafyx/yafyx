@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dizzy on the Comedown**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0adcc03a0ebeffccd09b4441a6aed93b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sky Blue Skin - Demo - September 13, 1996**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay Home**<br>American Football<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ca2482c9ac965e163120ed576578c60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye My Friend**<br>George Draper<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d3f08283a1d329c0a5f3af191d93015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget About Life**<br>Alvvays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f17bd297fce9c1137bff7a231a6bbbe9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need Is To Feel Like Someone Could Love Me**<br>Take Care<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melebur Semesta**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
