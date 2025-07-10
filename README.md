@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ca2482c9ac965e163120ed576578c60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye My Friend**<br>George Draper<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f17bd297fce9c1137bff7a231a6bbbe9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need Is To Feel Like Someone Could Love Me**<br>Take Care<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Melebur Semesta**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
