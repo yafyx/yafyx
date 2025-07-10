@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dizzy on the Comedown**<br>Turnover<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay Home**<br>American Football<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d3f08283a1d329c0a5f3af191d93015.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forget About Life**<br>Alvvays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df2c36e39a7071f0926904b453fb5615.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lefty**<br>Title Fight<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/814c1cc46e2a1ce0aedca222e68b9894.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sofisticated Fuck Princess Please Leave Me Alone**<br>Carissa's Wierd<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
