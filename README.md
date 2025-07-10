@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9987dfb168c4efdce194c349a9e1798.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Falling in Love Again**<br>Joyce Manor<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63b45a4d41e880156158d366a0ba9c70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sayap Pelindungmu**<br>TheOvertunes<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/749e5f86d7a6400380662b2e2f89940a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hebat**<br>Tangga<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
