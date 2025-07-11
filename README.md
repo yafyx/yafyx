@@ -8,9 +8,9 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/fe08875268eec92d2e5864329bdc7ea569e96924): Refine syntax highlighting for One Dark Flexoki - 10-06-2025
+[waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
-[waras](https://github.com/yafyx/waras/commit/8b8258212a9349db897f130fa4eb2c8e76fe4b5d): Refactor system prompts for Waras AI assistant - 25-05-2025
+[onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/fe08875268eec92d2e5864329bdc7ea569e96924): Refine syntax highlighting for One Dark Flexoki - 10-06-2025
 
 [KeliLink](https://github.com/yafyx/KeliLink/commit/3700fae5e29f22f4a7cd6ed390105150edc2418a): Enhances styling and functionality for lists in Tailwind Prose and refines routing logic - 15-05-2025
 
