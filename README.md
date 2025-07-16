@@ -8,6 +8,8 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
+[cookpal](https://github.com/yafyx/cookpal/commit/9c0120ee4d00f5b7c99f1e24baf1fac2ca16747e): Update calendar page title and enhance meal planning functionality - 16-07-2025
+
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/fe08875268eec92d2e5864329bdc7ea569e96924): Refine syntax highlighting for One Dark Flexoki - 10-06-2025
@@ -25,8 +27,6 @@ ship something that nobody asked for
 [hukumonline-tips-scraping](https://github.com/yafyx/hukumonline-tips-scraping/commit/c4626361841a661e4abb01f9bd4921da1b404a5c): Update hukumonline_tips.json with new articles and remove outdated entries; modify main.py to allow scraping of all pages by setting MAX_PAGES_TO_SCRAPE to None. - 18-04-2025
 
 [ugpulse](https://github.com/yafyx/ugpulse/commit/838f77dabb0b32976040551a698748dbca8fd2c9): Updates footer logo text - 14-04-2025
-
-[spotifyx](https://github.com/yafyx/spotifyx/commit/305787c13f50faa31b9058021324e824d87a057b): Revert - 19-03-2025
 <!-- recent_commits ends -->
 
 </td>
