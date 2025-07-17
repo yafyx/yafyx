@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a32a145b21b68eebb85bdb414e815f94.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Medicine Bottle**<br>Red House Painters<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Untuk Bunga**<br>OJA Records<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0adcc03a0ebeffccd09b4441a6aed93b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sky Blue Skin - Demo - September 13, 1996**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e776bb2a7e2747b277b93302eed362f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long As We Stay**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ca2482c9ac965e163120ed576578c60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye My Friend**<br>George Draper<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8c9ffb47d3f701df3dfbad09ddf5969.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When You Come Around**<br>Sleep Shelter<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/68e6a6752656b018288e5567690cfe59.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Favorite Person**<br>Delorians<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
