@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a30d168167ce2f931fd237a259ba9c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enouement**<br>Sunwich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c19f82f89dee1ea3472182a2c32f22ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lagu Balada Kala Hujan**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ffe865992405e4c8ef3d495497cd95e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Earth is a Very Small Dot**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a30db2907e22dedf3bf76d3c304560bb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1978**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecd0fbedb8ea2a25857f2d70d645d133.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Would You Be My November?**<br>Mr. Sonjaya<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ed33da4a6870dc2c3544862834223fb9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Little Did She Know**<br>Midnight Fusic<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You There?**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
