@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65c335168c37f392939cd2e78cd832df.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Begini Begitu**<br>MALIQ & D'Essentials<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b3dd886c386b3a667a6993128485c07.gif" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jimmy Cooks (feat. 21 Savage)**<br>Drake<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab687bb968e8859eef1ae65a138cd89a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Epiphany**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecd0fbedb8ea2a25857f2d70d645d133.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Would You Be My November?**<br>Mr. Sonjaya<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8330cfa2979dea1485e7356e83a3d587.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You There?**<br>Cassette Tape<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
