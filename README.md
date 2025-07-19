@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f593504cad58010ecad1a70947ac507.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swivel**<br>Garside<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Early Express**<br>Lipstik Lipsing<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb2bd05dc53bc9222a40d5707b1c2649.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slice of Life**<br>TAMAGO<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Brood**<br>kalé<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
