@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mimi**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66b85e1d4eb6aba4fa0b258899ca8872.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pelikan**<br>Rrag<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/779f35ff35c5ee74f7034d896f305b0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Staring - alt**<br>Velvet<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/45398da4d96fe21c832a577a18c4e8f3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Sorrowful Reunion**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff6214f274b1be7474233d69b666b60d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**realize**<br>Trxy!<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0dc73067f3415ea9f745baf06ccb1002.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blank**<br>GLARE<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
