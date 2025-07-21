@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6786983f269b22de44208f9a02701240.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fallingout**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0f71e9604c5ba680fb43d40cdef6469.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Okay to Cry**<br>Magnolia Celebration<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/74c7c0622904c1fdf629bc307952ccc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All Mine**<br>Brent Faiyaz<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1004f9f2a2eecc28531f8e4f08daccc8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Deep In Yr Mind**<br>James Wyatt Crosby<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/76c1449b38b0093d9fab3f20c026c622.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Talk**<br>Caldera<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Complicated**<br>Matt Maltese<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nyalak**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb0096574e0f97ba5219c8e2ae93c00d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**would've been you**<br>Sombr<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
