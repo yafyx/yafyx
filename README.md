@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c027352af6b70094afbcb4375be594ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jatuh Cinta Itu Biasa Saja**<br>Efek Rumah Kaca<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sandiwara Semu**<br>rumahsakit<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0bac8fc1c1a960cac8f373b2582e583.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All the Time**<br>The S.I.G.I.T<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
