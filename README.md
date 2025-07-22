@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09e5b54d7feeb5e3b179d93b77123fb8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nabi Urban**<br>The Cat Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a67ea7dd1f6a8c04312538a2f40f9a34.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kami Belum Tentu**<br>.Feast<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60176329a2fb4ac061ee803d2d08e22a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kalibata, 2012**<br>Perunggu<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7551b50218e34acd1db51d4ea2bb7cfe.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Orang Orang di Kerumunan**<br>FSTVLST<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/016cb70a2755f8e1d3b4603b7fa3b682.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**come closer**<br>Copperplate<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1aa05a5a8ce84bceda4c971f58c54978.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Affectionate Affair**<br>Roadtrip to Antarctica<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
