@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8750f9df0453ffc171ea067f78407a66.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Will Destroy You**<br>Cocteau Twins<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/350066babb80493fc9fa9b63dd40086d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Frou-Frou Foxes in Midsummer Fires**<br>Cocteau Twins<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/084a5b512c5fecd9ced0c6e503db7844.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Adore U, regardless**<br>The caroline's<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c027352af6b70094afbcb4375be594ed.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jatuh Cinta Itu Biasa Saja**<br>Efek Rumah Kaca<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78304f1ca8a935a1a3de7ef3c412c7b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sandiwara Semu**<br>rumahsakit<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
