@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/472b0c068c3912a9a45bbaed3c4ed92c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Is It Really You?**<br>Loathe<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09e5b54d7feeb5e3b179d93b77123fb8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nabi Urban**<br>The Cat Police<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f54bed92a4a57917f3c491e436561779.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fall Back**<br>Porch Light<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f500fbd6e62ef83ff1974df1be22a372.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Another Shitty Love Song**<br>Roadtrip to Antarctica<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/69d5e465ab0006b527b9da075db91fa1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hideaway**<br>WIMY<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af5271f7087e480b9d27447b8944fd8a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau dan Aku Menuju Ruang Hampa**<br>Efek Rumah Kaca<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e8783aa53bfbacf309e919bf2a5116d2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's fine**<br>Rhyu<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/016cb70a2755f8e1d3b4603b7fa3b682.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**come closer**<br>Copperplate<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
