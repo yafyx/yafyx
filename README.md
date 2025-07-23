@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90546f29c1b4c2dd6efba2df336bdb5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over - 2011 Remaster**<br>The Smiths<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6d6e959f6a8c2034fad81f791e15cc0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**catch these fists**<br>Wet Leg<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3544e3f9de5290e4baa55dc44f3eeb0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**NUMB**<br>Givēon<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Juliet**<br>Clarion<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
