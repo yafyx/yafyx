@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5088cf3be54a851bd7beb239f56ef91.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SUGAR ON MY TONGUE**<br>Tyler, The Creator<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Juliet**<br>Clarion<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the more i try to trace you forthwith, the less i want to know where to find you**<br>eleventwelfth<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92e0e484b68659ea9c9dc83fc79aa9d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**delusionalism**<br>MASS OF THE FERMENTING DREGS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd7972f351ba74dc28f162d2f0816517.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mrs Magic (Strings Version)**<br>Strawberry Guy<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
