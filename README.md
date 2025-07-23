@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6d6e959f6a8c2034fad81f791e15cc0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**catch these fists**<br>Wet Leg<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3544e3f9de5290e4baa55dc44f3eeb0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**NUMB**<br>Givēon<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Juliet**<br>Clarion<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92e0e484b68659ea9c9dc83fc79aa9d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**delusionalism**<br>MASS OF THE FERMENTING DREGS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
