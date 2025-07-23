@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5088cf3be54a851bd7beb239f56ef91.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**SUGAR ON MY TONGUE**<br>Tyler, The Creator<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6dee3749a6269996b95dff37a50c48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**the more i try to trace you forthwith, the less i want to know where to find you**<br>eleventwelfth<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b102fb6971e01a2159d219ce9f7fa26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thrills**<br>Grrrl Gang<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d65d31aff2164102cb3bf17d5c95bd39.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sssst...**<br>Sore<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acc9da1424a2519ba147525fe1b14b62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fameinkiss**<br>The Dare<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
