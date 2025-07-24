@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/1898d0e24eb385f4a8dceb0d7abf78522a31a752): Localizes calendar UI and refines meal display - 16-07-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/9aebb10434e575e9b1fdf14b0448121671988746): Update @biomejs/biome to version 2.1.2 and refactor recipe components - 24-07-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a392cd622a73dff041cf1e7da61f0b85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oversized**<br>Basement<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/971950d882a34d96cd4dc03aed223884.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your Pain Is Mine Now**<br>Title Fight<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Humming**<br>Turnover<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roseblood**<br>Mazzy Star<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f90546f29c1b4c2dd6efba2df336bdb5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fac0b27adf403efed8b368d3a236ab61.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Know It's Over - 2011 Remaster**<br>The Smiths<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
