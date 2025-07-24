@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/215908a5ebd392fe96e72adb40aaf16f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Orange Peeler**<br>Horse Jumper of Love<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/11ee6a914c14a77a39e2508b42c006a9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Instincts Are the Enemy**<br>American Football<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a392cd622a73dff041cf1e7da61f0b85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oversized**<br>Basement<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/971950d882a34d96cd4dc03aed223884.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Your Pain Is Mine Now**<br>Title Fight<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Humming**<br>Turnover<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roseblood**<br>Mazzy Star<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
