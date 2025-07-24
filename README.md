@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How To Kill This Feeling**<br>BeverlyLine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/acc9da1424a2519ba147525fe1b14b62.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gum Underdesk**<br>The Dare<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
