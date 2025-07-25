@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only One**<br>BeverlyLine<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dbe585faf207b9c2dd8ee0a26435bd84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mutamycete**<br>Sunwich<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/78adbd4765c05e5ea89ce3908999ae9d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Head Over Heels**<br>Moongazing And Her<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Makes a Room Feel Emptier Than Wanting Someone in it**<br>Garside<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee92c5efababab5450a4fa56ddfb3dc1.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Imaginary Love**<br>After Hours<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
