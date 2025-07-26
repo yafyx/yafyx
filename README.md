@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0261556c7f964f34cf8d5e781d939153.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Himalaya**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e776bb2a7e2747b277b93302eed362f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long As We Stay**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shadow After Noon**<br>FUGŌ<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcb268ca59e4e99e1b5bb1a1fde81556.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Without You**<br>VoXXes<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/903e88a1d9e10366302453b18fd74f1d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4f593504cad58010ecad1a70947ac507.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Swivel**<br>Garside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
