@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d51f511f1e1bbedbd5c8b166cc20e8b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hadirlah Cahaya**<br>FUGŌ<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Romansa**<br>Pop at Summer<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcb268ca59e4e99e1b5bb1a1fde81556.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Paris**<br>VoXXes<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Text Me (When It's Over)**<br>Cassette Tape<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All That I've Been Missing**<br>TAMAGO<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
