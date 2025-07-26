@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e776bb2a7e2747b277b93302eed362f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**As Long As We Stay**<br>FUGŌ<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Julia**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/646b3fc067596db7d0c69f806db45bb1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Song is For Remembering You and Me**<br>The Rentenir<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Weekend Song for Me and You**<br>Dead Bachelors<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/903e88a1d9e10366302453b18fd74f1d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mr. Streetboy**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/52ec15bd3a8e8bed121dcfeda6591c85.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>galdive<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/94d9e955b7134b7fce5640c42546153d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**can i get a hi?**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/873299e0aa28d10ab9e655f251cffae4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**que sera sera**<br>The caroline's<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
