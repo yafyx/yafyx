@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67d3b853e0c159ad89c4016c569c194e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dream Girl**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unknown Rendezvous**<br>Vira Talisa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Beetlejuice**<br>Pop at Summer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67250c1e32c3a165f9dc51783016c445.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Didn't Meet You There**<br>Dead Bachelors<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/be0c558860278aed1279851208472dc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**counting chances**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c19f82f89dee1ea3472182a2c32f22ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Suria Di Atas Suria**<br>FUGŌ<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a741bcc09687871839c77b5d40e096d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't You Dare Hesitate**<br>Dreane<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
