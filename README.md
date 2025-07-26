@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unknown Rendezvous**<br>Vira Talisa<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67250c1e32c3a165f9dc51783016c445.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wish I Didn't Meet You There**<br>Dead Bachelors<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c19f82f89dee1ea3472182a2c32f22ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Suria Di Atas Suria**<br>FUGŌ<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a741bcc09687871839c77b5d40e096d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Don't You Dare Hesitate**<br>Dreane<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
