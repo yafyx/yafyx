@@ -37,6 +37,8 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like Slow Disappearing**<br>Turnover<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d1556c35364e423efbfaf1bb0c42663e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay Together for the Kids**<br>blink-182<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/171d1318b43a4609c68186afdd8e6501.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Therapy**<br>All Time Low<br clear="left">
