@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b2081dc35c7e536496f3ee2bbf251a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nightlight Girl**<br>Turnover<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ea3b105dd93b7c72db899a9b17892f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin To Skin**<br>Movements<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**(what i wish just one person would say to me)**<br>Lany<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d988bdb94d6476c86c20abd2d0b4883.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scene Five - With Ears To See and Eyes To Hear**<br>Sleeping with Sirens<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/15923507a0c86ddbc72b287a90d71165.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merra**<br>colorcode<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
