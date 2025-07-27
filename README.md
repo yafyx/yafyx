@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Letter to Elise**<br>The Cure<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb91ed9c892a4cac8086a05a21c2db4f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The World Is Ugly**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thru These Tears**<br>Lany<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**With Me**<br>Sum 41<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Welcome to the Black Parade**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d988bdb94d6476c86c20abd2d0b4883.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scene One - James Dean & Audrey Hepburn**<br>Sleeping with Sirens<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e2d190125884060c01597aa94fcffba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ever Enough**<br>A Rocket to the Moon<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
