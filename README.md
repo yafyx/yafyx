@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87ae47a40ab86440b84423ff26f578e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plane vs. Tank vs. Submarine**<br>Tigers Jaw<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Text Me (When It's Over)**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf826abde4228cd49a0cad3a6e27471.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Navy Blue**<br>The Story So Far<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Shouldn't Bring My Heart Next Time**<br>White Chorus<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8c928da2b23bfa7925c112544c210e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Gracie Abrams<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
