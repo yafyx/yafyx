@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50a91b4ce98274f05e47d73f674f3528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reverse Psychology**<br>Madmax<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aca863665b87a1b142fe6b6ec9a7e292.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Best Friend**<br>Blush<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wrote This for You**<br>Cassette Tape<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ec034e790de94dd0acc432cae48e9ec2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Guess It's Not Too Late**<br>Noa Mal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17ee6c8861d2b270bb9051ae087f274d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer's Gone And So Are You**<br>uju<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/14e09e321c8c09040b7afb1e1daa13b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Strawberry Girl**<br>MATOKI<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
