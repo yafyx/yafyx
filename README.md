@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50a91b4ce98274f05e47d73f674f3528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reverse Psychology**<br>Madmax<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wrote This for You**<br>Cassette Tape<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/91afe7f9199688f49119d2aad07e4c84.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**it's ok!**<br>Paw's Letter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee7ed45073b8f435bcaf48b9850590d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Unknown Rendezvous**<br>Vira Talisa<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
