@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow**<br>Coldplay<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**(what i wish just one person would say to me)**<br>Lany<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d988bdb94d6476c86c20abd2d0b4883.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scene Five - With Ears To See and Eyes To Hear**<br>Sleeping with Sirens<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/15923507a0c86ddbc72b287a90d71165.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Merra**<br>colorcode<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4d620faba3e14a00885d677e8a6a2bb8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Remembering Sunday**<br>All Time Low<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d988bdb94d6476c86c20abd2d0b4883.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scene Four - Don't You Ever Forget About Me**<br>Sleeping with Sirens<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
