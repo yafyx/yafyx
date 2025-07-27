@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Shouldn't Bring My Heart Next Time**<br>White Chorus<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/98a8d796d2cc7cc1aaee6697a43e859f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**That Girl on The Shore**<br>TAMAGO<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ddf06ca8835de794b5ec1f05be5e420a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bunga**<br>Vira Talisa<br clear="left">
