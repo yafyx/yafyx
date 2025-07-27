@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/429fd312f3d5cb652a9c9ec262495742.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pictures of You**<br>The Cure<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Mayday Parade<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3cc74f5a23964bd38c6c53e5a2d6125f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Lost Without You**<br>blink-182<br clear="left">
