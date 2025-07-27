@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d1556c35364e423efbfaf1bb0c42663e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**First Date**<br>blink-182<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/28eb8cf9105226d1af2047a491381ef3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Let Him Love Me**<br>Laci Kaye Booth<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**So Long Goodbye**<br>Sum 41<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/681404d3e1714d3abcac2f6b6e973f76.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Clairvoyant**<br>The Story So Far<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
