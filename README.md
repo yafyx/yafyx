@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Intrapersonal**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6d3a00d62e8e5c0a6c53ec97d1212cc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take Me as You Please**<br>The Story So Far<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63ea8d50b43146e7c64414891c20d378.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Archie, Marry Me**<br>Alvvays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/789ce11db1b20a7c70b0dd4ce6ed278c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In Bloom**<br>Neck Deep<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e92d9fbed1f4026abba2b2c139b8cb9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Part of Me (feat. Laura Whiteside)**<br>Neck Deep<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Only Exception**<br>Paramore<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disenchanted**<br>My Chemical Romance<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
