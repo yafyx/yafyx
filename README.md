@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/789ce11db1b20a7c70b0dd4ce6ed278c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**In Bloom**<br>Neck Deep<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6212d43af072c4472f709497499f967.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**your head as my favourite bookstore**<br>eleventwelfth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disenchanted**<br>My Chemical Romance<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
