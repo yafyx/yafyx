@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4d620faba3e14a00885d677e8a6a2bb8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dear Maria, Count Me In**<br>All Time Low<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb91ed9c892a4cac8086a05a21c2db4f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**The World Is Ugly**<br>My Chemical Romance<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thru These Tears**<br>Lany<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Welcome to the Black Parade**<br>My Chemical Romance<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2e2d190125884060c01597aa94fcffba.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ever Enough**<br>A Rocket to the Moon<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
