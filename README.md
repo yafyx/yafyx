@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d05d163494c34751b14ba19f06d29676.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All Signs Point to Lauderdale**<br>A Day to Remember<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Letter to Elise**<br>The Cure<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee6bc0259d9779504bae4ce0c582ffef.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Trip - 2023 Remaster**<br>Still Corners<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**ILYSB**<br>Lany<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**With Me**<br>Sum 41<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1b9c414a6e8763c075ac8700476c1b72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Object Permanence**<br>arm's length<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d988bdb94d6476c86c20abd2d0b4883.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Scene One - James Dean & Audrey Hepburn**<br>Sleeping with Sirens<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
