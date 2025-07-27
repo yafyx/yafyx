@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6d3a00d62e8e5c0a6c53ec97d1212cc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Upside Down**<br>The Story So Far<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d1556c35364e423efbfaf1bb0c42663e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay Together for the Kids**<br>blink-182<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/171d1318b43a4609c68186afdd8e6501.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Therapy**<br>All Time Low<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Call Me Hopeless, But Not Romantic**<br>Mayday Parade<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/338789a0b9719efb2dba393c5cc5b8db.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Change Irreversible**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cancer**<br>My Chemical Romance<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
