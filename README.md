@@ -42,8 +42,6 @@ ship something that nobody asked for
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kota Lelah**<br>Fleuro<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**반의반 (a piece of your mind)**<br>bioneunnal<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**반짝이는 워터멜론 (twinkling watermelon)**<br>bioneunnal<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
