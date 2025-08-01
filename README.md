@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/9aebb10434e575e9b1fdf14b0448121671988746): Update @biomejs/biome to version 2.1.2 and refactor recipe components - 24-07-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/ad26b2f8b536134ac1b4e4c842d9b96fdfda55e7): Updated CookPal logo - 01-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f5bdd3935c87336afa1979b96d3f470a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Will Fly - Alternate Version**<br>Ten2Five<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**괜찮아 (i'm fine)**<br>bioneunnal<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kota Lelah**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/54f2d2c2735e190f280c08059a27f346.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**here / there**<br>Dottie<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**반의반 (a piece of your mind)**<br>bioneunnal<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/13981a102410ca538ec6e05c35b1e717.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**house music**<br>yourboyfriendsucks!<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7909261262ffb0e4967d4b72229ede98.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For Puppy**<br>Jo's Moving Day<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
