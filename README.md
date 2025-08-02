@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/012c5d82db687188c0172f943b33a6f0cf0c8f9f): Refactor dashboard and recipe components for improved layout and responsiveness - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/d2e74562cd945ddec7187b45941ec5300ac32dd6): Refactor recipe and inventory components for improved layout and usability - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1649d42076c29eb7148fd3bf5d29c23a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovingly**<br>Memory Drawers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fault**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretend**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Way To Find**<br>Fuad<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78fbf3098ce176f2946fcfc72a05a890.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sexualidad Cósmica**<br>Pale Air<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f717be5429c9bc3e005790f1ee692817.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fine Lines**<br>MATOKI<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a81e36d346ab6871a2a01504a00979c9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**fluorescent**<br>Motifs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dceb3a7eb87b38f6633bfb0bc398f23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anywhere Else**<br>Slowwves<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
