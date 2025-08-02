@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/466a885542cbaf8ed6b6a33d2613f0e0dbaa9d1d): Updates the "One-Tap Shopping List Generator" button on the dashboard for a more modern look and a clearer list icon. - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/be8d35f2a8c235486c70e081f2739b21117305d1): Add nutrition tracking section to DashboardPage - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chani, I Believe**<br>Girl and Her Bad Mood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**After dark**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a81e36d346ab6871a2a01504a00979c9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**valentine**<br>Motifs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Save me now**<br>Wisp<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1649d42076c29eb7148fd3bf5d29c23a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twin Spirit**<br>Memory Drawers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Breathe onto me**<br>Wisp<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sword**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
