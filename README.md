@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/812f2333da34335f1cef3b65d4bbdb71707de72e): Refactor profile components for improved UI consistency and performance - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/466a885542cbaf8ed6b6a33d2613f0e0dbaa9d1d): Updates the "One-Tap Shopping List Generator" button on the dashboard for a more modern look and a clearer list icon. - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
