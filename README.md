@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow Down**<br>Commemorate<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fault**<br>Puremoon<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Way To Find**<br>Fuad<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f717be5429c9bc3e005790f1ee692817.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fine Lines**<br>MATOKI<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dceb3a7eb87b38f6633bfb0bc398f23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Anywhere Else**<br>Slowwves<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
