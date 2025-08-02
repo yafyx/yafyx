@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/d2e74562cd945ddec7187b45941ec5300ac32dd6): Refactor recipe and inventory components for improved layout and usability - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/74cfc964bab5211d58655772f5ca67533c83d6e4): Add shopping list features - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slow Down**<br>Commemorate<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fade**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e2319eaf4cc94df1a6342eccd3b60.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fault**<br>Puremoon<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chani, I Believe**<br>Girl and Her Bad Mood<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b559de49427cc5d66709ee671cc505c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Way To Find**<br>Fuad<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a81e36d346ab6871a2a01504a00979c9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**valentine**<br>Motifs<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f717be5429c9bc3e005790f1ee692817.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fine Lines**<br>MATOKI<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1649d42076c29eb7148fd3bf5d29c23a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twin Spirit**<br>Memory Drawers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
