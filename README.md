@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/e79607a9b8913f6e70983cec4a80116698cf0d12): Enhance profile component - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/4dfd83e16bf63c49ef0a168bb4304be6ccbca370): Refactor missing ingredients handling in DashboardPage - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
