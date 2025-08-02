@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/74cfc964bab5211d58655772f5ca67533c83d6e4): Add shopping list features - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/45f58a8262cdf02d2b7186843e8f4f31f6926400): Fix calendar and meal planning components type safety and structure - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
