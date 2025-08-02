@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/9d47f63f924189f701bf04e5e3fbf976843ba0dc): Revert - 01-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/8d9fc64326408c55276e5a3141b5ea23e944d978): Add date-fns library and refactor CalendarPage and MealCard components - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34c5bcd741163520aff30f5c2e99ce4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Close My Eyes**<br>Chestnut Bakery<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/80eb7e3c28f33016b7bd3bb1f84e8c5a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When Morning Comes**<br>Strawberry Guy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5e4744d2f6db43e8ddbe76edfb920cd6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cream**<br>Pocari Sweet波卡利甜<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8ecb2ff43ba480fb57a76c54406b79.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**She Shouldn't Mind**<br>Rehash<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Kind of Woman**<br>sammich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/243c2d539ecb6edc983dc58fcbc3cb6a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kids driving the elevator**<br>Micah Preite<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d6e57fdd5d99f4aa33800e923a65098.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**bad decision!**<br>Esha Tewari<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
