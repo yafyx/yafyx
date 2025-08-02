@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/8d9fc64326408c55276e5a3141b5ea23e944d978): Add date-fns library and refactor CalendarPage and MealCard components - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/012c5d82db687188c0172f943b33a6f0cf0c8f9f): Refactor dashboard and recipe components for improved layout and responsiveness - 02-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nothing Makes a Room Feel Emptier Than Wanting Someone in it**<br>Garside<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1649d42076c29eb7148fd3bf5d29c23a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lovingly**<br>Memory Drawers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9f12494a03f3651acb4ff1e18c6f9b35.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pretend**<br>Puremoon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How To Kill This Feeling**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/78fbf3098ce176f2946fcfc72a05a890.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sexualidad Cósmica**<br>Pale Air<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4b82f167551e2079b2ff4d0cbc46513.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here Comes The Past**<br>Sharesprings<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a81e36d346ab6871a2a01504a00979c9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**fluorescent**<br>Motifs<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
