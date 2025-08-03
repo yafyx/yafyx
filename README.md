@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c70cda3df810b0d34904b55618e0eebe.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I've Just Seen A Face - Remastered 2009**<br>The Beatles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whatsername**<br>Green Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Best of Me**<br>Sum 41<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/81b6a5c78e2442cab7c77fcbd1ac82c9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay Close, Don't Go**<br>Secondhand Serenade<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ccd85fcfa4370e1df83a67c7fa79096c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Home Is Such a Lonely Place**<br>blink-182<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8d2682fd0834c4690b1dc5a5c1b4822.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here with Me**<br>The Killers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
