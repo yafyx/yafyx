@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Latvia**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7115714c7101454ec57ceca6e2a6dc5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Iris**<br>Goo Goo Dolls<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Guide light**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/47a9851d27db92dbd79df706b3e782a5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fifties**<br>You Blew It!<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**After dark**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/02100f65745fd90ea5b0cf57c36abba9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If not winter**<br>Wisp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
