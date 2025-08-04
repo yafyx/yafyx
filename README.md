@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1677fd91ee2dae4a268709f64b17af3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Last Kiss**<br>Hikaru Utada<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/008361eff16c3c9055b662fc1ed77f74.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fine On The Outside**<br>Priscilla Ahn<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I Fell - Remastered 2009**<br>The Beatles<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c70cda3df810b0d34904b55618e0eebe.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I've Just Seen A Face - Remastered 2009**<br>The Beatles<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
