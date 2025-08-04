@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7115714c7101454ec57ceca6e2a6dc5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Slide**<br>Goo Goo Dolls<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22765d073954a2e392c5faafb3fddb45.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Move On**<br>Jet<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee82efcfa740f23cc25e58acdc04d26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Your Mirror**<br>The Velvet Underground<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fae9c99bbb6ae827b508a97328551912.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Change Your Mind**<br>The Killers<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63215da6022a788daea3cbb011d01ca4.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**First Date**<br>blink-182<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf826abde4228cd49a0cad3a6e27471.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Navy Blue**<br>The Story So Far<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
