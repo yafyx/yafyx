@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1677fd91ee2dae4a268709f64b17af3e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**One Last Kiss**<br>Hikaru Utada<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**one minute left to live**<br>Lany<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/008361eff16c3c9055b662fc1ed77f74.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fine On The Outside**<br>Priscilla Ahn<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Human Attire**<br>Clarion<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/92e0e484b68659ea9c9dc83fc79aa9d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**delusionalism**<br>MASS OF THE FERMENTING DREGS<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
