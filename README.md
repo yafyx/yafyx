@@ -37,11 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9a790b6c8526a4c8cb9862c64bc3342.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Post Malone<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2770e3f5cad964e46dbe9e2c3d84be42.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only One**<br>Yellowcard<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d014f1f0887b2116c97e9d57aa17d4d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d302c20bb191e7c5bf537748e1d091b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Full Circle**<br>Movements<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**And I Love Her - Remastered 2009**<br>The Beatles<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
