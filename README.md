@@ -37,8 +37,6 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2aca38cd25e4f3e3327d643f9b9c0ad.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart - 2020 Remaster**<br>Joy Division<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d9a790b6c8526a4c8cb9862c64bc3342.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Post Malone<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d014f1f0887b2116c97e9d57aa17d4d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
