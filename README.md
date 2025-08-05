@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/64ec46cf76ab416ac1c5ffcf0d9eee47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh Love - Demo**<br>Green Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d014f1f0887b2116c97e9d57aa17d4d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4d620faba3e14a00885d677e8a6a2bb8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Six Feet Under the Stars**<br>All Time Low<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**And I Love Her - Remastered 2009**<br>The Beatles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Night on Earth**<br>Green Day<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Always**<br>blink-182<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Mayday Parade<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
