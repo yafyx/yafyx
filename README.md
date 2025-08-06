@@ -37,13 +37,11 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**D>E>A>T>H>M>E>T>A>L**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df2c36e39a7071f0926904b453fb5615.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Head In The Ceiling Fan**<br>Title Fight<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bullet Proof ... I Wish I Was**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9614493a133e68dd6308792a8ef8f9c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dagger**<br>Slowdive<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f874c7cd7ec911c1c525647f76e7dea1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Uncomfortably Numb**<br>American Football<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2bd615f313d4018f3df50a1c929dc2db.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Are You The One**<br>Basement<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6172279b43501c70719b85bd75cf2fa.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Angelina**<br>Pinegrove<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
