@@ -37,7 +37,7 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5defc753d7ea7cb1c1b0ff9fde5163b4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Amelie**<br>Barefood<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0d6c900c9aec900642779448ec05f8d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Summer is Coming!**<br>Pop at Summer<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selamanya?**<br>kalé<br clear="left">
 
