@@ -37,11 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c0bb063db6f48d0941dffc18559228e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TV**<br>Alex G<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef63333c1295b09cdb21c3bdad1cb7c8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Their name sticks out**<br>Micah Preite<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a94c3770e4754cd101c1d973f5c13ed0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**No More Like That**<br>Eiafuawn<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
