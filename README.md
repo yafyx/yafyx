@@ -1,6 +1,4 @@
-ship something that nobody asked for
-
-<img src="https://skillicons.dev/icons?i=golang,php,python,typescript,nodejs,laravel,nextjs,react,tailwind,prisma,supabase,figma,mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,bun,golang,php,typescript,react,nextjs,vite,fastapi,flask,laravel,tailwind,postgresql,mysql,mongodb,redis,prisma,supabase,docker,nginx,vercel,figma" />
 
 <table><tr>
 <td valign="top" width="50%">
