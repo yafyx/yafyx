@@ -6,9 +6,9 @@
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/ade080fece03005801ec4b12db22e3c3dedcd40a): readme - 09-08-2025
+[waras](https://github.com/yafyx/waras/commit/dd65f86557e3e7a0427e16690e6ea8cdb18e6694): Update README.md to enhance installation instructions and add data source information - 09-08-2025
 
-[waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/ade080fece03005801ec4b12db22e3c3dedcd40a): readme - 09-08-2025
 
 [onedarkflexoki](https://github.com/yafyx/onedarkflexoki/commit/fe08875268eec92d2e5864329bdc7ea569e96924): Refine syntax highlighting for One Dark Flexoki - 10-06-2025
 
