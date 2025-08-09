@@ -8,7 +8,7 @@ ship something that nobody asked for
 ### Recent Commits
 
 <!-- recent_commits starts -->
-[cookpal](https://github.com/yafyx/cookpal/commit/033e87970affae2c4d16f7663275833921ad81fe): Add Habit Coaching Section to DashboardPage - 02-08-2025
+[cookpal](https://github.com/yafyx/cookpal/commit/ade080fece03005801ec4b12db22e3c3dedcd40a): readme - 09-08-2025
 
 [waras](https://github.com/yafyx/waras/commit/626919ab33bdef628e96e2de18b8052a749e7aca): Adds project evaluation scripts - 11-07-2025
 
