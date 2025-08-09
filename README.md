@@ -37,13 +37,13 @@ ship something that nobody asked for
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c0bb063db6f48d0941dffc18559228e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sober to Death**<br>Car Seat Headrest<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/350066babb80493fc9fa9b63dd40086d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cherry-Coloured Funk**<br>Cocteau Twins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/29838ac8d31b418ce9a9b34ae4a76f05.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dumb**<br>Nirvana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9740fa5648cb55db4c9b78dac32d7b6e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Boy**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TV**<br>Alex G<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**This Night Has Opened My Eyes - 2011 Remaster**<br>The Smiths<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -53,7 +53,7 @@ ship something that nobody asked for
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Text Me (When It's Over)**<br>Cassette Tape<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Friend**<br>galdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
