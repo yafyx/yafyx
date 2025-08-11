@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a99869a7a68dddadf84e2f889d930ccc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Daisy**<br>Delorians<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever**<br>Delorians<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/aecf562c24a2ff87505a68a2c1ff502f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nite.**<br>Garside<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef3d62ca482889af02926fffeb0feaec.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Broken Hearted For Stranger Is Such A Feeling That I Adore**<br>Eleanor Whisper<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay A While (Fall Into Your Dreams)**<br>BeverlyLine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0884735843efcf51f929c62b70430238.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Waiting in Vain**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
