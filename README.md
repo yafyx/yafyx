@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a32a145b21b68eebb85bdb414e815f94.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Medicine Bottle**<br>Red House Painters<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Out Of Sight**<br>OJA Records<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1d3cd0f7c4b5643a514b1fd933dd1c86.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love is Waiting**<br>Me and My Sandcastle<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7626f5aefe8a382250593b47e6064c0c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**遗失梦境(Lost Dream)**<br>白色海岸The White Coast<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/db1440b390bc5a27a4a8f7a82501105f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**20:37**<br>Rosalyn<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
