@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5499c34803d95c52c179ca47ab3951da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love My Way**<br>The Psychedelic Furs<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9d2b7d94926a6e8f79932dbfe0bad71.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Opened Once**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/51214507c81379cd2ae8a0d77f1e0f29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lift**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
