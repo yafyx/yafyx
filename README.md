@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5499c34803d95c52c179ca47ab3951da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love My Way**<br>The Psychedelic Furs<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Subterranean Homesick Alien**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/01d661dcae688e740527b0fbd9c021da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**100**<br>Dean Blunt<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here's Where the Story Ends**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
