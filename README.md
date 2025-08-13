@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Subterranean Homesick Alien**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb4a3276e1da6aebbe9ca3a93fbabcf.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sienna**<br>The Marías<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/01d661dcae688e740527b0fbd9c021da.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**100**<br>Dean Blunt<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b162e3dbb7753e06f67cc3f6f5a2231.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here's Where the Story Ends**<br>The Sundays<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
