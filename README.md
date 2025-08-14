@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38f05175ddb1f61a8f91ea50ad597453.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**caes**<br>österreich<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/244aed67b20cfdb2b8d04ab7255a1526.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TEENAGER**<br>Split End<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f270305b4fdd7a5f56fa3c247e15874d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**emulation (mode:totonee)**<br>stargaze shelter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f270305b4fdd7a5f56fa3c247e15874d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**heisei (mode:tsukimiya toto)**<br>stargaze shelter<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/27e69382f1a0e7a50e06f4edc50c66f9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Petals**<br>Hole<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**High and Dry**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
