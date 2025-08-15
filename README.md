@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f2b2b9fe898338cdc5b401f06b4c9fc4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Ramune River**<br>PLASTIC GIRL IN CLOSET<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duvet**<br>bôa<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38f05175ddb1f61a8f91ea50ad597453.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**caes**<br>österreich<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4fd9192f35cf9013b2c597a06faf49fd.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Me and the Birds**<br>Duster<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/244aed67b20cfdb2b8d04ab7255a1526.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TEENAGER**<br>Split End<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8303e5a32096b52c10073ecbf67717a4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Fear**<br>Current Joys<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moonlight on the River**<br>Mac DeMarco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
