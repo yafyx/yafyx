@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nyalak**<br>Sal Priadi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6b7c6588f431dcd36b7170bf39c2e0b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**garam himalaya**<br>starrducc<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/58ea7a18621282b23f5cbb1b7a3686b7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vrijeman**<br>Sore<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/72cd67a4525ec638780cf68d034fa930.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Just Threw Out the Love of My Dreams**<br>Weezer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a208e9196e634e05aedbb1a4eed35799.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You And Me Against The World**<br>Mocca<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chances**<br>The Strokes<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
