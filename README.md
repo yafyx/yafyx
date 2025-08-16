@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/36a064d8029e4b9c9d52c07961fbeed2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chances**<br>The Strokes<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bb6285762ec66413b644154d80392de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nyalak**<br>Sal Priadi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Down**<br>Radiohead<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/72cd67a4525ec638780cf68d034fa930.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Just Threw Out the Love of My Dreams**<br>Weezer<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b2357bb0ad16b4cd9efcb7b09d700ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Step On Me**<br>The Cardigans<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**My Iron Lung**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
