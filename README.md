@@ -37,11 +37,11 @@
 <!-- recent_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Different Pages, Im Leaving Now**<br>BeverlyLine<br clear="left">
 
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/166173a57e034e24b3fd05ef12eef956.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Early Express**<br>Lipstik Lipsing<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/4d620faba3e14a00885d677e8a6a2bb8.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dear Maria, Count Me In**<br>All Time Low<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6f9906f43b7b516e89f9ebc331dd990a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Tear in My Heart**<br>twenty one pilots<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b632de99e5515626d001c40371ffa1fd.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kau Bukan Satu-Satunya Laki**<br>The Dare<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
