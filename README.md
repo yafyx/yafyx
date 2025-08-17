@@ -40,8 +40,6 @@
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/18fb970a13c890f6342e5deda78c3b16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Japanese Denim**<br>Daniel Caesar<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/17b1099a3bd24ba3773ad6bbea97df70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serotonin**<br>Puff Punch<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0aab32569e42c28b460c031a35a12266.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Don't Know**<br>Roadtrip to Antarctica<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
