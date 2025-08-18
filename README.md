@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dcae165f522e0d818f7e75a3b5b6e16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Weekend**<br>SZA<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow Love**<br>Heaven Affair<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18fb970a13c890f6342e5deda78c3b16.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Japanese Denim**<br>Daniel Caesar<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6540a006bb83dd2fd1466ca2ca0914d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Salt Lake City**<br>ETTA MARCUS<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/17b1099a3bd24ba3773ad6bbea97df70.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Serotonin**<br>Puff Punch<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/553678d27570452839aec0fd0cdadd63.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Life**<br>Frank Ocean<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
