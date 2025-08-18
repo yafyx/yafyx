@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**How To Kill This Feeling**<br>BeverlyLine<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5731e2bb603528f8268b09f6e30781a3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**i saw you in a dream**<br>The Japanese House<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Yellow Love**<br>Heaven Affair<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c6540a006bb83dd2fd1466ca2ca0914d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Salt Lake City**<br>ETTA MARCUS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/553678d27570452839aec0fd0cdadd63.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sweet Life**<br>Frank Ocean<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
