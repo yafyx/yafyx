@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Juliet**<br>Clarion<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**D>E>A>T>H>M>E>T>A>L**<br>Panchiko<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Goodbye**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**And Remains**<br>Silly Fragments<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
