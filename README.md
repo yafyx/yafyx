@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for you**<br>Wisp<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kicking Cars**<br>Panchiko<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/abffc50a1609f36004214895f98372ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Train At 25 O'clock**<br>Lamp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/971950d882a34d96cd4dc03aed223884.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Murder Your Memory**<br>Title Fight<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
