@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/995f97abbadd1a5e69a2967c72074867.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here Comes Your Man**<br>Pixies<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dizzy on the Comedown**<br>Turnover<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7cccdb25d7863c688407e4ce956383e6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Those Eyes**<br>New West<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cf7248460facf7a4367ce49d24c9409.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye Kiss**<br>Kasabian<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca2ce0f5ff344096c0f70bcb3c856818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Late at Night**<br>Buffalo Tom<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a281e60486b0ba6eb110c5e0be2d0709.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**There She Goes**<br>The La's<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Humming**<br>Turnover<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
