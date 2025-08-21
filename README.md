@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf5c30b2d857a63055dd500336db6e9b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letters to God**<br>Box Car Racer<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/651576546e9bb6d16ee0d9a52ceee436.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Who Loves the Sun - 2015 Remaster**<br>The Velvet Underground<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6645132598bf75f006da244565346b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like the Movies**<br>Taylor Acorn<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for you**<br>Wisp<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kicking Cars**<br>Panchiko<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/abffc50a1609f36004214895f98372ca.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Train At 25 O'clock**<br>Lamp<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
