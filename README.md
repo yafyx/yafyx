@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dizzy on the Comedown**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/67ec86fc1d134713809d84c501c4f734.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harder Than You Know**<br>Escape The Fate<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1cf7248460facf7a4367ce49d24c9409.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Goodbye Kiss**<br>Kasabian<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87ae47a40ab86440b84423ff26f578e3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Plane vs. Tank vs. Submarine**<br>Tigers Jaw<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a281e60486b0ba6eb110c5e0be2d0709.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**There She Goes**<br>The La's<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/96e4899d194e444f8279ae712ff71eb4.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Love How You Love Me**<br>The Broken Family Band<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Humming**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Walking Disaster**<br>Sum 41<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
