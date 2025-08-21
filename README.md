@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/429fd312f3d5cb652a9c9ec262495742.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Pictures of You**<br>The Cure<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/49072f1cafbfa100e417c9df3bfdd8f7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hey, That's No Way to Say Goodbye**<br>Leonard Cohen<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/47a9851d27db92dbd79df706b3e782a5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**The Fifties**<br>You Blew It!<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**And I Love Her - Remastered 2009**<br>The Beatles<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wake Me Up When September Ends**<br>Green Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Mayday Parade<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Best of Me**<br>Sum 41<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ff2443c40bb143a2c345990affb10317.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Vindicated**<br>Dashboard Confessional<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
