@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cf5c30b2d857a63055dd500336db6e9b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Letters to God**<br>Box Car Racer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/995f97abbadd1a5e69a2967c72074867.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here Comes Your Man**<br>Pixies<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/651576546e9bb6d16ee0d9a52ceee436.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Who Loves the Sun - 2015 Remaster**<br>The Velvet Underground<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7cccdb25d7863c688407e4ce956383e6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Those Eyes**<br>New West<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f6645132598bf75f006da244565346b9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like the Movies**<br>Taylor Acorn<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/feeedb0df4c1c5aaca314cdbfed7dc30.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for you**<br>Wisp<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ca2ce0f5ff344096c0f70bcb3c856818.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Late at Night**<br>Buffalo Tom<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
