@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c70cda3df810b0d34904b55618e0eebe.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I've Just Seen A Face - Remastered 2009**<br>The Beatles<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fcf826abde4228cd49a0cad3a6e27471.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Navy Blue**<br>The Story So Far<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All of This**<br>blink-182<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**one minute left to live**<br>Lany<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whatsername**<br>Green Day<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
