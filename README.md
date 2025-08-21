@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9b1df8f6fdf70fa8269e9ce632d9f9cb.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Three Cheers for Five Years**<br>Mayday Parade<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f82b5bf3c51a659ed1f0e9f28a77af55.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Chasing Cars**<br>Snow Patrol<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/63dd07201ecd4810aec6b88fe983fd11.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Playing Favorites**<br>The Starting Line<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/28eb8cf9105226d1af2047a491381ef3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Let Him Love Me**<br>Laci Kaye Booth<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7ee82efcfa740f23cc25e58acdc04d26.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Be Your Mirror**<br>The Velvet Underground<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c0d7e865f2f4470682c177d57266864d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**There, There**<br>The Wonder Years<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f2aa2ef34724202b5e419ba63d6defc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Swear This Time I Mean It**<br>Mayday Parade<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
