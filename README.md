@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c9e84cfaec916e1a7b791ddfefbff29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please Please Please Let Me Get What I Want - 2005 Remaster**<br>Deftones<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lover, You Should've Come Over**<br>Jeff Buckley<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Moonlight on the River**<br>Mac DeMarco<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twilight**<br>bôa<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Need**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dagger**<br>Slowdive<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/54afa1db1d01aa1edea83e707cbbc9b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harness Your Hopes - b-side**<br>Pavement<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
