@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb95203d8c59179ebb57b87f70de0cdc.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**グライド**<br>Lily Chou-Chou<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/99609dfd1fe4c1c351fe7b2f8a7538b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Human Attire**<br>Clarion<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/244aed67b20cfdb2b8d04ab7255a1526.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**TEENAGER**<br>Split End<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9409cef0f65547e5a653cfb511a87cd0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Aoi, Koi, Daidaiiro no Hi**<br>MASS OF THE FERMENTING DREGS<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0852b6d5a49b9dfa0f2e6adf3bdbf6ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Gardenia**<br>Sore<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
