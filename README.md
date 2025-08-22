@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c9e84cfaec916e1a7b791ddfefbff29.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Please Please Please Let Me Get What I Want - 2005 Remaster**<br>Deftones<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sunday**<br>The Cranberries<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Twilight**<br>bôa<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dagger**<br>Slowdive<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
