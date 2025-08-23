@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/318d5f9f3ab1e9f51e913c786c1c56a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**talk**<br>The Two Lips<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d10deaeaf701cdf59248238dea3a76c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blushed Star**<br>The Dare<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50a91b4ce98274f05e47d73f674f3528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reverse Psychology**<br>Madmax<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7fafcd9490602f4a7e32ba7e6cc97bb3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never See Your Face Again (feat. Strawberry Guy)**<br>Eyedress<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0b41a4089091c6e9490c66bc558ba8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Buses Replace Trains**<br>Matt Maltese<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55ac8f97bde6cbe5e9a8857b435457e9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 + 2 = 5**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0924414957077252f632791ff11028ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Not in Love**<br>Deb Never<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
