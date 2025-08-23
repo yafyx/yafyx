@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c5ead34a6aca64a663a3ed83fadfc742.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Simulation Swarm**<br>Big Thief<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/318d5f9f3ab1e9f51e913c786c1c56a6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**talk**<br>The Two Lips<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e7bcbc0a3c07d90be15888b81d861893.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**All They Wanted**<br>Panchiko<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/50a91b4ce98274f05e47d73f674f3528.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Reverse Psychology**<br>Madmax<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82dea2ae26de9b443208cf21358c876f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Undone - The Sweater Song**<br>Weezer<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0b41a4089091c6e9490c66bc558ba8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Buses Replace Trains**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/55ac8f97bde6cbe5e9a8857b435457e9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**2 + 2 = 5**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
