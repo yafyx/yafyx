@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d10deaeaf701cdf59248238dea3a76c6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blushed Star**<br>The Dare<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/add56de80412a64aa238035ccaa8f423.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Head Over Heels**<br>Moongazing And Her<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7fafcd9490602f4a7e32ba7e6cc97bb3.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Never See Your Face Again (feat. Strawberry Guy)**<br>Eyedress<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2b790669cbf9be38c79b229027371485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**dear the queen**<br>Loon<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0924414957077252f632791ff11028ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Not in Love**<br>Deb Never<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3e843c4bf3176137604fa7d4ef1bbb4e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bye-Bye**<br>Impromptu.<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selamanya?**<br>kalé<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
