@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1a587a37dffff68e76859ee1d71cf295.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Dead End**<br>Fleuro<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sermon**<br>kalé<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d3b5411b4688afdaa81e4a86de55b49.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like No Other Do**<br>The Cat Police<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only One**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Forget Everything We Said**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
