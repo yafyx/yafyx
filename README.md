@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19102a409a0fbcb571788e0c4b9067b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Let Me Go**<br>Daniel Caesar<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/19102a409a0fbcb571788e0c4b9067b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Toronto 2014 (with Mustafa)**<br>Daniel Caesar<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duvet**<br>bôa<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/af72b5db35df4bd9b9c6772989454f5a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to never stop being sad**<br>dandelion hands<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9d2b7d94926a6e8f79932dbfe0bad71.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Opened Once**<br>Jeff Buckley<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
