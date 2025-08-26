@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/40564dd1a58f969fc3ee3c49bddffd23.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Duvet**<br>bôa<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/af72b5db35df4bd9b9c6772989454f5a.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**how to never stop being sad**<br>dandelion hands<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9d2b7d94926a6e8f79932dbfe0bad71.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Opened Once**<br>Jeff Buckley<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
