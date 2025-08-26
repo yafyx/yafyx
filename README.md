@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7115714c7101454ec57ceca6e2a6dc5c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Iris**<br>Goo Goo Dolls<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ffab4f80f317e2385437514f99becc1b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**D>E>A>T>H>M>E>T>A>L**<br>Panchiko<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef0b41a4089091c6e9490c66bc558ba8.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Everybody's Just As Crazy As Me**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/fb0096574e0f97ba5219c8e2ae93c00d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**would've been you**<br>Sombr<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/79a92e9e0494b30da176e53c124688de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Back To Me**<br>The Marías<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**waiting room x fix you**<br>Alexandra Riddell<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38132f3b4b11d0fceef7ded0d6b42b18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Were Never Really Friends**<br>Bruno Major<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
