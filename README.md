@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/16bd9d9c1472c9e2d5560bbf78154727.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Prosaic**<br>Iris Bevy<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/1ed40e12a44b406b90a5ed94f047ea0b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Mata Berdebu**<br>Sore<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2d3b5411b4688afdaa81e4a86de55b49.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Like No Other Do**<br>The Cat Police<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/dc3562502d4bf00854f9ca7fa0ed4d23.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Skin By Skin**<br>MUCH<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7c0e44ed94e5d415d114383de1069b1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If We Know Each Other Well Enough, Maybe We Can Go on A Date**<br>Drizzly.<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Wasting Time**<br>BeverlyLine<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2cee4930d22a0b999d645e9ddfd57515.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Teman Sejati**<br>Mocca<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**House Arrest**<br>Puff Punch<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
