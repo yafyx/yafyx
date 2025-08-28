@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d2e8d2f74cced29b00f8d843c76efbb3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Janji Palsu**<br>Hindia<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/4a18569943f34ae2a025c6ceabe3ed6c.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**High to Death**<br>Car Seat Headrest<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cupid De Locke - Remastered 2012**<br>The Smashing Pumpkins<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5d8bf17426d28b2264e83baada542113.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Life Goes On**<br>The Sundays<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Its Nothing**<br>Yellow Flower Living Water<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
