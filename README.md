@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/38132f3b4b11d0fceef7ded0d6b42b18.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**We Were Never Really Friends**<br>Bruno Major<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bfa0320f3753e304e8ace7ed335db51e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Drain You**<br>Nirvana<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever**<br>Alex G<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7186a9ca80b3d5708341ff613ab3c3ff.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Menyala, Meredup**<br>Moongazing And Her<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b2357bb0ad16b4cd9efcb7b09d700ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Step On Me**<br>The Cardigans<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61c27fbfff3505b63d2f2be660d581f2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm So Tired**<br>Fugazi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
