@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bfa0320f3753e304e8ace7ed335db51e.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Drain You**<br>Nirvana<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Forever**<br>Alex G<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wait for You**<br>alex_g_offline<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7b2357bb0ad16b4cd9efcb7b09d700ee.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Step On Me**<br>The Cardigans<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Today - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/61c27fbfff3505b63d2f2be660d581f2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm So Tired**<br>Fugazi<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7fbc41bdafaf4bf834fc4d74856b5b1e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Think About Now**<br>Pixies<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
