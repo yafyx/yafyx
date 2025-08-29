@@ -35,8 +35,6 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Luna - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
-
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wait for You**<br>alex_g_offline<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Today - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
