@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/c34bc1e771d185bd6b0a89e5bb52929a.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Wait for You**<br>alex_g_offline<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6a376eae83ff4a8199d7a34997a54407.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/18df8d254c584c6d8abd14fda527073d.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Today - 2011 Remaster**<br>The Smashing Pumpkins<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/eefc00a8b8eb5c20065ad9ba3eaae859.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Nervous Driver**<br>Lomelda<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7fbc41bdafaf4bf834fc4d74856b5b1e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**All I Think About Now**<br>Pixies<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d014f1f0887b2116c97e9d57aa17d4d5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Want Someone Badly**<br>Jeff Buckley<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Bullet Proof ... I Wish I Was**<br>Radiohead<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
