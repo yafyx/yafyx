@@ -40,8 +40,6 @@
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Only One**<br>BeverlyLine<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/60a49338b43071ed17acdbd84b172df2.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Shouldn't Bring My Heart Next Time**<br>White Chorus<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
