@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Mayday Parade<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/3cc74f5a23964bd38c6c53e5a2d6125f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Lost Without You**<br>blink-182<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Euphoria**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whatsername**<br>Green Day<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9fc4edb16c940858581d4507f8ee523.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Brendan's Death Song**<br>Red Hot Chili Peppers<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8d2682fd0834c4690b1dc5a5c1b4822.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Here with Me**<br>The Killers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
