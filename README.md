@@ -40,8 +40,6 @@
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3cc74f5a23964bd38c6c53e5a2d6125f.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Lost Without You**<br>blink-182<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Like Heaven**<br>The Cure<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Whatsername**<br>Green Day<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
