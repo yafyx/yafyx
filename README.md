@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/64ec46cf76ab416ac1c5ffcf0d9eee47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Oh Love - Demo**<br>Green Day<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/bebed16880ab44bc932fe383f59be129.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Stay**<br>Mayday Parade<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8b2081dc35c7e536496f3ee2bbf251a1.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Super Natural**<br>Turnover<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9ea9931e129bb5efd3606866901855b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Black Star**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/043311d565be4296bb13f299ba1f08de.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Will Tear Us Apart**<br>Joy Division<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Hello Euphoria**<br>Turnover<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/a9fc4edb16c940858581d4507f8ee523.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Brendan's Death Song**<br>Red Hot Chili Peppers<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -47,9 +49,9 @@
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Opened Once**<br>Jeff Buckley<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Janji Palsu**<br>Hindia<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**little person**<br>Matt Maltese<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Opened Once**<br>Jeff Buckley<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
