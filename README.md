@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0ae97ed7cb6edb8c86eaae63d02f1fa3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Less and Less**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/770716a8ab3a548afb15adce577fb48b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**1000 Tears Deep**<br>Matt Maltese<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7c2591760ffed4c26708a191b956387d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jamie All Over**<br>Mayday Parade<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Not Okay (I Promise)**<br>My Chemical Romance<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
