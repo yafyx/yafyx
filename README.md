@@ -35,11 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Friday I'm in Love**<br>The Cure<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/194bbff25dc045a7c5724513654a2504.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It’s All Over**<br>The Broken Family Band<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I Fell - Remastered 2009**<br>The Beatles<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/22765d073954a2e392c5faafb3fddb45.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Move On**<br>Jet<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
