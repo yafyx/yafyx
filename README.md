@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/194bbff25dc045a7c5724513654a2504.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It’s All Over**<br>The Broken Family Band<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d82396c965bb2ab020f8ce66620321b5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**If I Fell - Remastered 2009**<br>The Beatles<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/22765d073954a2e392c5faafb3fddb45.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Move On**<br>Jet<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/151603555d964e83b26e62d91ece6e6e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Disorder - 2007 Remaster**<br>Joy Division<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/6d3a00d62e8e5c0a6c53ec97d1212cc6.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Take Me as You Please**<br>The Story So Far<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/cb4ebd16caa2a085c9a23fc1f7ff55a7.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Alone At Last**<br>Chezile<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
