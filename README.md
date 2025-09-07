@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Weird Fishes / Arpeggi**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/7c2591760ffed4c26708a191b956387d.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jamie All Over**<br>Mayday Parade<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'm Not Okay (I Promise)**<br>My Chemical Romance<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Jigsaw Falling Into Place**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/09cb27a9f908354fd210a07830951791.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Helena**<br>My Chemical Romance<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2173cdf2bc30b91410e862b85f55c343.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**hi**<br>Matt Maltese<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
