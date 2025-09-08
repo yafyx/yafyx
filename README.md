@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f7e8f15c7ed944dbf7aea7f200ad62b3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shredded**<br>Fleuro<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sneeze!**<br>TAMAGO<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/863870b4a52ba869fd1255f6c769f2d9.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**You're Annoying but I Love You**<br>Puff Punch<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Love Kills, Queen**<br>The Rentenir<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/8684dc831eae7d5fa1201ea74c4b51bc.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**It's Only A Day**<br>The Cottons<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/df4a625c6a999115615e543b736b16f5.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**There's me in your heart**<br>Pop at Summer<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
