@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sampai Kapan**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Enough for You**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e698a1ff4cbe4ee8cebc4c0002a123a2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Sampai Kapan**<br>MALIQ & D'Essentials<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Lost Myself in Reveries**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/90311c77630e87d7edf17601253ce485.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Kasmaran**<br>Jaz<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I'll Do It Myself**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Close to You/Jauh**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
