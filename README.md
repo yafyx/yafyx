@@ -40,8 +40,6 @@
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thank You for Hijacking My Existential Crisis**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Now I'm a Diplomat**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Quick! Love!**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
