@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**You'll Find Lovers Like You and Me**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Thank You for Hijacking My Existential Crisis**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zuzuzaza**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Now I'm a Diplomat**<br>Reality Club<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Close to You/Jauh**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f452123e7b775ba2418119c3437e9035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
