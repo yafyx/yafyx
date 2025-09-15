@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f452123e7b775ba2418119c3437e9035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b178fdd9907e208588217b0250cd48b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selamanya**<br>Lomba Sihir<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2998e21221aba8369a0025eb60db70d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roman Ketiga**<br>White Shoes & The Couples Company<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2f2221419479be18a7bd6e473a7e8ac3.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Zuzuzaza**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
