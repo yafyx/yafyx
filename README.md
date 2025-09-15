@@ -37,11 +37,11 @@
 <!-- recent_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f452123e7b775ba2418119c3437e9035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
 
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f452123e7b775ba2418119c3437e9035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0b178fdd9907e208588217b0250cd48b.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Selamanya**<br>Lomba Sihir<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2998e21221aba8369a0025eb60db70d0.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Roman Ketiga**<br>White Shoes & The Couples Company<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/e0dd1e3c0c86851e2012dac235701a81.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Harapan, Pt. 1**<br>The Cottons<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -49,9 +49,9 @@
 <!-- top_tracks starts -->
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Different Pages, Im Leaving Now**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Forget Everything We Said**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Different Pages, Im Leaving Now**<br>BeverlyLine<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
