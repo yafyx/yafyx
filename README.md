@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Close to You/Jauh**<br>Reality Club<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Muted Sirens**<br>Reality Club<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Finding a Catholic Man to Love the Love of My Life**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shut Up, Behave**<br>Reality Club<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Does It Happen?**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
@@ -51,7 +49,7 @@
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**For All The Dreams That Wings Could Fly**<br>The Milo<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Just Forget Everything We Said**<br>BeverlyLine<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Close to You/Jauh**<br>Reality Club<br clear="left">
 <!-- top_tracks ends -->
 
 </td>
