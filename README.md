@@ -35,13 +35,11 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/414d73dfe1b26edb4bc7261940144f47.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**I Remember You**<br>Björk<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82c9a410e66249df9723be5aca1b8a52.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/d7f572e16d55a86d2aee28e08b84126c.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**When I'm Thinking About You**<br>The Sundays<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Faust Arp**<br>Radiohead<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab5fafed3484610025812a001ca7a67e.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Blue Light**<br>Mazzy Star<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry, Cry**<br>Mazzy Star<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191012 Fooled By Love**<br>Mac DeMarco<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
