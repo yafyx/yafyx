@@ -35,11 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/82c9a410e66249df9723be5aca1b8a52.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**True Love Waits - Live In Oslo**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Muted Sirens**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/9dbcd9399ac3e622b4f508323155b644.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Faust Arp**<br>Radiohead<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Finding a Catholic Man to Love the Love of My Life**<br>Reality Club<br clear="left">
 
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/65063fb42025752f00a9f8e886fd32d2.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**20191012 Fooled By Love**<br>Mac DeMarco<br clear="left">
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Shut Up, Behave**<br>Reality Club<br clear="left">
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/b8fbafd2a7f948a932c1b8b6a98dbb9f.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Does It Happen?**<br>Reality Club<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
