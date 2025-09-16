@@ -35,13 +35,13 @@
 #### Recent Tracks
 
 <!-- recent_tracks starts -->
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/07eced09ad9a5cb9443e6c56b0273a2b.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Cry, Cry**<br>Mazzy Star<br clear="left">
+
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/131e3e85d45047e93ab77b422e591719.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Subterranean Homesick Alien**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ab1f41d1988899ed1398a2819d17c3fd.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**Last Flowers**<br>Radiohead<br clear="left">
 
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png" width="48" height="48" align="left" style="margin-right: 10px;"/>**A Heart Like Hers**<br>Mac DeMarco<br clear="left">
-
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/f452123e7b775ba2418119c3437e9035.jpg" width="48" height="48" align="left" style="margin-right: 10px;"/>**Foto kita blur**<br>Sal Priadi<br clear="left">
 <!-- recent_tracks ends -->
 
 #### Top Tracks (Last 30 Days)
