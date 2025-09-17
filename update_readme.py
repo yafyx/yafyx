@@ -120,27 +120,28 @@ def update_readme(commits, recent_tracks, top_tracks):
     readme_path = root / "README.md"
     old_readme = readme_path.open().read()
 
-    commits_md = "\n\n".join(
-        f"[{commit['repo']}]({commit['url']}): {commit['message']} - {format_date(commit['date'])}"
-        for commit in commits[:10]  # Limit to 10 most recent commits
-    )
+    # commits_md = "\n\n".join(
+    #     f"[{commit['repo']}]({commit['url']}): {commit['message']} - {format_date(commit['date'])}"
+    #     for commit in commits[:10]  # Limit to 10 most recent commits
+    # )
 
-    recent_tracks_md = "\n\n".join(
-        f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
-        f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
-        for track in recent_tracks
-    )
+    # recent_tracks_md = "\n\n".join(
+    #     f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
+    #     f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
+    #     for track in recent_tracks
+    # )
 
-    top_tracks_md = "\n\n".join(
-        f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
-        f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
-        for i, track in enumerate(top_tracks, 1)
-    )
+    # top_tracks_md = "\n\n".join(
+    #     f'<img src="{track["image"]}" width="48" height="48" align="left" style="margin-right: 10px;"/>'
+    #     f'**{track["name"]}**<br>{track["artist"]}<br clear="left">'
+    #     for i, track in enumerate(top_tracks, 1)
+    # )
 
     new_readme = old_readme
-    new_readme = replace_chunk(new_readme, "recent_commits", commits_md)
-    new_readme = replace_chunk(new_readme, "recent_tracks", recent_tracks_md)
-    new_readme = replace_chunk(new_readme, "top_tracks", top_tracks_md)
+
+    # new_readme = replace_chunk(new_readme, "recent_commits", commits_md)
+    # new_readme = replace_chunk(new_readme, "recent_tracks", recent_tracks_md)
+    # new_readme = replace_chunk(new_readme, "top_tracks", top_tracks_md)
 
     if new_readme != old_readme:
         readme_path.open("w").write(new_readme)
