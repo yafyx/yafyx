@@ -1,1 +1,1 @@
-![Tech stack icons](https://skillicons.dev/icons?i=python,nodejs,bun,golang,php,typescript,react,nextjs,vite,fastapi,flask,laravel,tailwind,postgresql,mysql,mongodb,redis,prisma,supabase,docker,nginx,vercel,figma "Tech stack icons")
+
